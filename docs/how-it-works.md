@@ -8,7 +8,7 @@ Submit your email and exact GitHub username through the builder application form
 
 ## Get approved and verify your identity
 
-Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. GitHub organization invitations are sent manually and arrive separately. Automated GitHub identity linking, project metrics, full enrollment and reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
+Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. Kristofer manually sends the GitHub organization invitation before approving the portal account. Approval then sends one combined welcome email with invitation-acceptance and repository-creation steps. Automated GitHub identity linking, project metrics, full enrollment and reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
 
 ## Build and grow
 

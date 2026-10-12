@@ -12,7 +12,7 @@ The application asks for your email and exact GitHub username. OpenRoot approval
 
 A GitHub account is a prerequisite. Approved builders accept an invitation to the OpenRoot GitHub organization and build their repositories inside it. The website accepts applications for manual review at https://openroot.dev/apply. Submission does not create an account or grant access. Additional accounts, GitHub Apps and project-team requests can be included for review. Never submit passwords, tokens or private keys.
 
-Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. GitHub organization invitations are sent manually and arrive separately. Automated GitHub identity linking, project metrics, full enrollment and reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
+Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. Kristofer manually sends the GitHub organization invitation before approving the portal account. Approval then sends one combined welcome email with invitation-acceptance and repository-creation steps. Automated GitHub identity linking, project metrics, full enrollment and reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
 
 ## Applying before choosing a project
 

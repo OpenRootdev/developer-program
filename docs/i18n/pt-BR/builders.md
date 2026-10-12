@@ -12,7 +12,7 @@ A candidatura pede e-mail e nome de usuário GitHub exato. A aprovação OpenRoo
 
 Uma conta GitHub é pré-requisito. Builders aprovados aceitam o convite da organização OpenRoot e desenvolvem seus repositórios nela. O site https://openroot.dev/apply aceita candidaturas para análise manual. Enviar não cria conta nem concede acesso. Contas extras, GitHub Apps e equipes podem ser solicitados para análise. Nunca envie senhas, tokens ou chaves privadas.
 
-A aprovação cria uma conta pendente no portal e envia um e-mail com instruções. Entre em https://openroot.dev/portal com o e-mail aprovado e digite o código recebido somente nessa página. Os convites para a organização GitHub são enviados manualmente e chegam separadamente. Vinculação automática de identidade GitHub, métricas de projetos, inscrição completa e pedidos de recompensas ainda não estão disponíveis. Contas pendentes mantêm o prazo original de 90 dias da candidatura. A aprovação, por si só, não concede uma recompensa financiada.
+A aprovação cria uma conta pendente no portal e envia um e-mail com instruções. Entre em https://openroot.dev/portal com o e-mail aprovado e digite o código recebido somente nessa página. Kristofer envia manualmente o convite GitHub antes de aprovar a conta no portal. A aprovação envia um único e-mail de boas-vindas com os passos para aceitar o convite e criar o repositório na organização. Vinculação automática de identidade GitHub, métricas de projetos, inscrição completa e pedidos de recompensas ainda não estão disponíveis. Contas pendentes mantêm o prazo original de 90 dias da candidatura. A aprovação, por si só, não concede uma recompensa financiada.
 
 ## Candidatar-se antes de escolher um projeto
 

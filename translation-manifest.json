@@ -3,8 +3,8 @@
   "review": "Authoring comparison complete; independent native-speaker review pending.",
   "sources": {
     "README.md": "0f158edc6a092c17261fa0024795f87fe1b49b4d34500557bdd18aa04fd239b4",
-    "docs/builders.md": "91b00f4e105480f26982f2bfcbcadfeaa843d06ecf4afa9ffbc21d01ceacf6b6",
-    "docs/how-it-works.md": "be8b43c721629bed7df7852fcc76b77773cb455e832280c81c7e5b73648f39c8",
+    "docs/builders.md": "ba75a3c2a03dad447fc76d3bd8cfe714edd238f13678ef60826239e38c11a346",
+    "docs/how-it-works.md": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
     "docs/rewards.md": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
     "docs/referrals.md": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
     "docs/partners.md": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
@@ -32,44 +32,44 @@
       "text": "ce8821891b6f7ba2287f38310f815c4d51a0b899d3ca6603f808af4bea32b177"
     },
     "docs/i18n/zh-CN/builders.md": {
-      "source": "91b00f4e105480f26982f2bfcbcadfeaa843d06ecf4afa9ffbc21d01ceacf6b6",
-      "text": "05c87fc2d63a37cffcfade6fcc1b9cc1378427fa13027b5ccf190a1798aff470"
+      "source": "ba75a3c2a03dad447fc76d3bd8cfe714edd238f13678ef60826239e38c11a346",
+      "text": "de1d7b8f0991d18a0d770e7d3440d67072cd0a61e79d9722525f8eb1a75584fe"
     },
     "docs/i18n/pt-BR/builders.md": {
-      "source": "91b00f4e105480f26982f2bfcbcadfeaa843d06ecf4afa9ffbc21d01ceacf6b6",
-      "text": "d7f7b2fe338df1f88bf6c31e59c328c0502b3fb54b90f8b02a3e325ef0b5844f"
+      "source": "ba75a3c2a03dad447fc76d3bd8cfe714edd238f13678ef60826239e38c11a346",
+      "text": "7f3305b9ff5039389d9a20a7d54eace6c943c41c345df69774308c2be2d5ddde"
     },
     "docs/i18n/es/builders.md": {
-      "source": "91b00f4e105480f26982f2bfcbcadfeaa843d06ecf4afa9ffbc21d01ceacf6b6",
-      "text": "72c539f0ba1c25bdc4ae107e3fc4d89c681b0297bdec417e201b2227e5c8b824"
+      "source": "ba75a3c2a03dad447fc76d3bd8cfe714edd238f13678ef60826239e38c11a346",
+      "text": "abe959412136218e79254170d6746ea964589cdbc30ea6d881e1a982b93f5b57"
     },
     "docs/i18n/fr/builders.md": {
-      "source": "91b00f4e105480f26982f2bfcbcadfeaa843d06ecf4afa9ffbc21d01ceacf6b6",
-      "text": "04415623cabeaf38640f9c64bb9f1f61a53041c72a396a4e058b7e43dacf8db7"
+      "source": "ba75a3c2a03dad447fc76d3bd8cfe714edd238f13678ef60826239e38c11a346",
+      "text": "8cf4a2817ffb6d4c774d1cd77168523a2e73151867667c3d6421564c8f1d50de"
     },
     "docs/i18n/ja/builders.md": {
-      "source": "91b00f4e105480f26982f2bfcbcadfeaa843d06ecf4afa9ffbc21d01ceacf6b6",
-      "text": "28d886dd615f2c19c9710f802dc8166e099b71cd998efbb31d29a44acad374d3"
+      "source": "ba75a3c2a03dad447fc76d3bd8cfe714edd238f13678ef60826239e38c11a346",
+      "text": "d2c0658ea03d8f407e9b554ec2540a23fe2c5c6f6acd30542a7ebd8a78c83ccd"
     },
     "docs/i18n/zh-CN/how-it-works.md": {
-      "source": "be8b43c721629bed7df7852fcc76b77773cb455e832280c81c7e5b73648f39c8",
-      "text": "67846bf73ee9bb54f851876bc7a477ec49b111648817ca8b9ec021491f2496ee"
+      "source": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
+      "text": "6a9b375b86025baa2d03ceb36b8d91bbd94e868f944ade1ba5fac7af54a06c6c"
     },
     "docs/i18n/pt-BR/how-it-works.md": {
-      "source": "be8b43c721629bed7df7852fcc76b77773cb455e832280c81c7e5b73648f39c8",
-      "text": "2d4ec9864e9df7de46e92f41bf86f53916b8b535425f189b842b0d8019f2087b"
+      "source": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
+      "text": "cd720b431d3f624ca2f698b31bb6b66076c86957909f8bf0919aca5044d6060b"
     },
     "docs/i18n/es/how-it-works.md": {
-      "source": "be8b43c721629bed7df7852fcc76b77773cb455e832280c81c7e5b73648f39c8",
-      "text": "3069ea5152829c367709ec3d988d5aaa22aa33ef29d6c0a5f1804abe195cf491"
+      "source": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
+      "text": "c050342f615bba5ed0c9d026027aa20f6b3f621c992eb42c0edfba24a244c00b"
     },
     "docs/i18n/fr/how-it-works.md": {
-      "source": "be8b43c721629bed7df7852fcc76b77773cb455e832280c81c7e5b73648f39c8",
-      "text": "8476e0c6dab47a20f9348b4662d0af8c9fd9b16806afa78a048bbfadce463923"
+      "source": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
+      "text": "3be88bfb0aedc5e226101df695a2ec83f84f918f1b417ee03f4bcd14699b8383"
     },
     "docs/i18n/ja/how-it-works.md": {
-      "source": "be8b43c721629bed7df7852fcc76b77773cb455e832280c81c7e5b73648f39c8",
-      "text": "8396a5a3dc682d5319961576c476b6663c3210083fce52eb6421737f47b3c5c7"
+      "source": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
+      "text": "39a580149a958803dc85fc76f4af2728300bb91bc11ad28ad85ff876f64b74d5"
     },
     "docs/i18n/zh-CN/rewards.md": {
       "source": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",

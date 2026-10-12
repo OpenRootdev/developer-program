@@ -8,7 +8,7 @@ Envoyez votre e-mail et votre nom GitHub exact via le formulaire sur https://ope
 
 ## Être approuvé et vérifier son identité
 
-L’approbation crée un compte en attente dans le portail et envoie un e-mail d’instructions. Connectez-vous sur https://openroot.dev/portal avec l’adresse approuvée et saisissez le code reçu uniquement sur cette page. Les invitations à l’organisation GitHub sont envoyées manuellement et arrivent séparément. La liaison automatique de l’identité GitHub, les indicateurs de projet, l’inscription complète et les demandes de récompense ne sont pas encore disponibles. Les comptes en attente conservent l’échéance initiale de 90 jours de la candidature. L’approbation seule n’accorde aucune récompense financée.
+L’approbation crée un compte en attente dans le portail et envoie un e-mail d’instructions. Connectez-vous sur https://openroot.dev/portal avec l’adresse approuvée et saisissez le code reçu uniquement sur cette page. Kristofer envoie manuellement l’invitation GitHub avant d’approuver le compte du portail. L’approbation envoie un seul e-mail de bienvenue avec les étapes pour accepter l’invitation et créer le dépôt dans l’organisation. La liaison automatique de l’identité GitHub, les indicateurs de projet, l’inscription complète et les demandes de récompense ne sont pas encore disponibles. Les comptes en attente conservent l’échéance initiale de 90 jours de la candidature. L’approbation seule n’accorde aucune récompense financée.
 
 ## Construire et développer
 
