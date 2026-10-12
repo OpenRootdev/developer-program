@@ -1,12 +1,12 @@
 # Programa de referidos de builders
 
-Plan de prelanzamiento, 11 de octubre de 2026. No está activo; no hay beneficios de referidos financiados ni herramientas de reclamación confirmados.
+Plan del programa de referidos, 13 de octubre de 2026. No está activo; no hay beneficios de referidos financiados ni herramientas de reclamación confirmados.
 
 ## Recomienda builders que alcancen hitos reales
 
 El modelo previsto reconoce referidos después de que el builder sea aprobado y alcance un hito de proyecto elegible y verificado. Solicitud, registro o creación de repositorio no bastan.
 
-Comparte [la guía](https://openroot.dev/program) con alguien que quiera construir su idea. Cuando se abra la admisión, el candidato puede escribir el usuario GitHub exacto de quien lo recomendó. No se prevén cargas masivas de contactos ni invitaciones automáticas.
+Comparte [la guía](https://openroot.dev/program) con alguien que quiera construir su idea. Las solicitudes están abiertas, y el candidato puede escribir el usuario GitHub exacto de quien lo recomendó. No se prevén cargas masivas de contactos ni invitaciones automáticas.
 
 OpenRoot revisa por separado pertenencia, proyecto, atribución, pruebas y solicitudes financiadas de referidos. Un referido no evita ninguna aprobación. Proyectos nuevos y repositorios existentes aprobados siguen las mismas reglas publicadas.
 

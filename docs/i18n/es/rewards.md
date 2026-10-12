@@ -45,6 +45,6 @@ Distingue recompensas garantizadas a solicitudes válidas de premios juzgados o 
 
 Los beneficios se asignan según el acuerdo de proyecto/equipo, no se multiplican automáticamente por contribuidor. Los pedidos pasan por envío, revisión, aprobación y emisión. El canje puede ser desconocido si el proveedor no lo confirma. Se puede pedir corrección o revisión.
 
-Los beneficios no monetarios también requieren contabilidad y revisión por jurisdicción antes del lanzamiento. Este borrador no determina su tratamiento fiscal.
+Los beneficios no monetarios también requieren contabilidad y revisión por jurisdicción antes de entregar recompensas. Este borrador no determina su tratamiento fiscal.
 
 [Proceso](how-it-works.md) | [Colaboraciones](partners.md)

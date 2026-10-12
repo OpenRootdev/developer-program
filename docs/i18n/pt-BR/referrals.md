@@ -1,12 +1,12 @@
 # Programa de indicação de builders
 
-Plano de pré-lançamento, 11 de outubro de 2026. O programa não está ativo; nenhum benefício de indicação financiado nem ferramenta de solicitação está confirmado.
+Plano do programa de indicação, 13 de outubro de 2026. O programa não está ativo; nenhum benefício de indicação financiado nem ferramenta de solicitação está confirmado.
 
 ## Indique builders que atinjam marcos reais
 
 O modelo pretendido reconhece a indicação após aprovação do builder e conclusão de um marco de projeto qualificado e verificado. Candidatura, cadastro ou criação de repositório não bastam.
 
-Compartilhe [o guia](https://openroot.dev/program) com alguém que queira construir sua ideia. Quando a entrada abrir, o candidato pode informar o nome GitHub exato do indicador. Não há upload em massa de contatos nem convites automáticos.
+Compartilhe [o guia](https://openroot.dev/program) com alguém que queira construir sua ideia. As candidaturas estão abertas, e o candidato pode informar o nome GitHub exato do indicador. Não há upload em massa de contatos nem convites automáticos.
 
 A OpenRoot analisa separadamente associação, projeto, atribuição, evidências e pedidos financiados de indicação. Uma indicação nunca dispensa aprovação. Projetos novos e repositórios existentes aprovados seguem as mesmas regras divulgadas.
 

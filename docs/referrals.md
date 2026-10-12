@@ -1,12 +1,12 @@
 # Builder referral program
 
-Pre-launch plan, 11 October 2026. The referral program is not active and no funded referral benefits or claim tools are confirmed.
+Referral program plan, 13 October 2026. The referral program is not active and no funded referral benefits or claim tools are confirmed.
 
 ## Refer builders who reach real milestones
 
 The intended program recognizes referrals after the referred builder is approved and reaches a verified qualifying project milestone. An application, signup or repository creation alone is not enough.
 
-Share the [program guide](https://openroot.dev/program) with someone who wants to build their own idea. Once intake opens, the applicant can enter the referrer's exact GitHub username. No bulk contact uploads or automatic invitations are part of this plan.
+Share the [program guide](https://openroot.dev/program) with someone who wants to build their own idea. The application is open, and the applicant can enter the referrer's exact GitHub username. No bulk contact uploads or automatic invitations are part of this plan.
 
 OpenRoot separately reviews membership, project admission, referral attribution, milestone evidence and any funded referral claim. Referral information never bypasses an approval. New projects and approved existing repositories can participate under the same disclosed cohort rules.
 

@@ -6,7 +6,7 @@ Le programme développeurs OpenRoot. Ses participants sont les OpenRoot builders
 
 ## Est-il ouvert ?
 
-Les candidatures et le portail privé réservé aux comptes approuvés sont disponibles. Les cohortes avec récompenses financées restent en pré-lancement et recherchent des partenaires fondateurs ; les demandes de récompense ne sont pas encore ouvertes.
+Le programme développeurs est lancé. Les candidatures et le portail privé réservé aux comptes approuvés sont disponibles, et les builders approuvés peuvent rejoindre l'organisation GitHub. Nous recherchons des partenaires pour élargir les récompenses. Les cohortes avec récompenses financées et les demandes de récompense ne sont pas encore ouvertes ; les modalités finales restent à préparer.
 
 ## Les récompenses sont-elles monétaires ?
 

@@ -1,12 +1,12 @@
 # Parrainage de builders
 
-Plan de pré-lancement, 11 octobre 2026. Le parrainage n'est pas actif ; aucun avantage de parrainage financé ni outil de demande n'est confirmé.
+Plan du programme de parrainage, 13 octobre 2026. Le parrainage n'est pas actif ; aucun avantage de parrainage financé ni outil de demande n'est confirmé.
 
 ## Parrainer des builders atteignant de vrais jalons
 
 Le modèle envisagé reconnaît un parrainage après approbation du builder et atteinte d'un jalon de projet admissible et vérifié. Candidature, inscription ou création d'un dépôt ne suffisent pas.
 
-Partagez [le guide](https://openroot.dev/program) avec une personne souhaitant développer sa propre idée. Après ouverture, le candidat peut saisir le nom GitHub exact du parrain. Aucun import massif de contacts ni invitation automatique n'est prévu.
+Partagez [le guide](https://openroot.dev/program) avec une personne souhaitant développer sa propre idée. Les candidatures sont ouvertes et le candidat peut saisir le nom GitHub exact du parrain. Aucun import massif de contacts ni invitation automatique n'est prévu.
 
 OpenRoot examine séparément l'adhésion, le projet, l'attribution du parrainage, les preuves et toute demande de récompense financée. Le parrainage ne contourne jamais l'approbation. Nouveaux projets et dépôts existants approuvés suivent les mêmes règles de cohorte publiées.
 

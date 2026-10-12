@@ -45,6 +45,6 @@ Diferencie recompensas garantidas a pedidos qualificados de prêmios julgados ou
 
 Recompensas seguem o acordo do projeto/equipe, sem multiplicação automática por colaborador. Pedidos passam por envio, análise, aprovação e emissão. O resgate pode permanecer desconhecido sem confirmação do fornecedor. Builders podem pedir correção ou revisão.
 
-Benefícios não monetários também exigem contabilidade adequada e revisão por jurisdição antes do lançamento. Este rascunho não define o tratamento tributário.
+Benefícios não monetários também exigem contabilidade adequada e revisão por jurisdição antes da entrega das recompensas. Este rascunho não define o tratamento tributário.
 
 [Como funciona](how-it-works.md) | [Parcerias](partners.md)

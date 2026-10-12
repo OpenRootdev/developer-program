@@ -47,6 +47,6 @@ The program must distinguish guaranteed qualifying rewards from judged awards or
 
 Rewards are allocated under the agreed project/team terms, not multiplied for every contributor by default. Claims move through submitted, reviewed, approved, and issued states. Redemption may remain unknown if the provider supplies no confirmation. Builders can request a correction or review of a decision.
 
-Non-cash rewards still require appropriate accounting and jurisdiction-specific review before launch. This draft does not define tax treatment.
+Non-cash rewards still require appropriate accounting and jurisdiction-specific review before issuing rewards. This draft does not define tax treatment.
 
 [How it works](how-it-works.md) | [Partner with the program](partners.md)

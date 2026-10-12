@@ -6,7 +6,7 @@ Programa de Desenvolvedores OpenRoot. Os participantes são OpenRoot builders.
 
 ## Está aberto?
 
-Candidaturas e o portal privado exclusivo para contas aprovadas estão disponíveis. As turmas com recompensas financiadas continuam em pré-lançamento, buscando parceiros fundadores; os pedidos de recompensas ainda não estão abertos.
+O programa de desenvolvedores está em funcionamento. As candidaturas e o portal privado para contas aprovadas estão disponíveis, e builders aprovados podem entrar na organização GitHub. Buscamos parceiros para ampliar as recompensas. Turmas com recompensas financiadas e pedidos de recompensas ainda não estão abertos; as condições finais estão em preparação.
 
 ## As recompensas são dinheiro?
 

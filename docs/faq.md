@@ -6,7 +6,7 @@ The OpenRoot Developer Program. Its developer participants are OpenRoot builders
 
 ## Is it live?
 
-Applications and the approval-only private portal are available. Funded reward cohorts remain in pre-launch, seeking founding partners; reward claims are not open.
+The developer program is live. Applications and the approval-only private portal are available, and approved builders can join the GitHub organization. We are seeking partners to expand the reward pool. Funded reward cohorts and claims are not open yet; final terms are being prepared.
 
 ## Are rewards cash?
 

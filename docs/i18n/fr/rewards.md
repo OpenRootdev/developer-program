@@ -45,6 +45,6 @@ Distinguez les récompenses garanties aux demandes admissibles des prix jugés o
 
 Les récompenses suivent les modalités de projet ou d'équipe, sans multiplication automatique par contributeur. Les demandes passent par soumission, examen, approbation puis émission. L'activation peut rester inconnue sans confirmation du fournisseur. Un builder peut demander correction ou réexamen.
 
-Les avantages non monétaires nécessitent aussi une comptabilité appropriée et un examen selon la juridiction avant lancement. Ce brouillon ne définit pas leur traitement fiscal.
+Les avantages non monétaires nécessitent aussi une comptabilité appropriée et un examen selon la juridiction avant la distribution des récompenses. Ce brouillon ne définit pas leur traitement fiscal.
 
 [Fonctionnement](how-it-works.md) | [Partenariats](partners.md)
