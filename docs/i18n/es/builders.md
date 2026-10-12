@@ -12,7 +12,7 @@ La solicitud pide correo y usuario GitHub exacto. OpenRoot debe aprobarla. El po
 
 Es obligatorio tener cuenta GitHub. Los builders aprobados aceptan una invitación a la organización OpenRoot y crean sus repositorios allí. El sitio https://openroot.dev/apply acepta solicitudes para revisión manual. Enviar no crea una cuenta ni concede acceso. Puedes solicitar revisión de cuentas adicionales, GitHub Apps y equipos. Nunca envíes contraseñas, tokens o claves privadas.
 
-Tras aprobarte, existe un registro del programa. La verificación inicial por correo confirma acceso al buzón aprobado. Vincular GitHub verifica por separado tu identidad de desarrollador. Las exigencias de passkey o autenticador se explicarán antes de inscribirte. El portal privado y el aprovisionamiento automático de cuentas aún no están disponibles.
+La aprobación crea una cuenta pendiente en el portal y envía un correo con instrucciones. Inicia sesión en https://openroot.dev/portal con el correo aprobado e introduce el código recibido solo en esa página. Las invitaciones a la organización GitHub se envían manualmente y llegan por separado. La vinculación automática de identidad GitHub, las métricas de proyectos, la inscripción completa y las reclamaciones de recompensas todavía no están disponibles. Las cuentas pendientes conservan el plazo original de 90 días de la solicitud. La aprobación por sí sola no concede una recompensa financiada.
 
 ## Solicitar antes de elegir un proyecto
 
@@ -34,7 +34,7 @@ Privacidad, conservación y solicitudes de corrección/borrado se explican abajo
 
 ## Privacidad de la solicitud
 
-OpenRoot, operado por Kristofer Jussmann, recoge correo, usuario GitHub exacto, propuesta, pruebas opcionales, peticiones de colaboración/acceso, referencias y registro de consentimiento para revisión y comunicación relacionada. No envíes credenciales, código privado ni datos personales sensibles. Incluye otras cuentas solo con permiso.
+OpenRoot, operado por Kristofer Jussmann, recoge correo, usuario GitHub exacto, propuesta, pruebas opcionales, peticiones de colaboración/acceso, referencias, fuente de descubrimiento opcional y registro de consentimiento para revisión y comunicación relacionada. La fuente declarada voluntariamente ayuda a entender dónde encuentran OpenRoot los builders; no utiliza cookies de seguimiento. No envíes credenciales, código privado ni datos personales sensibles. Incluye otras cuentas solo con permiso.
 
 Los envíos se guardan de forma privada en Google Cloud en Finlandia, accesibles solo a administradores autorizados. Los registros caducan tras 90 días; el borrado automático es asíncrono. Las cuentas aprobadas del portal tendrán condiciones separadas antes de activarse. La infraestructura procesa registros técnicos; el servicio no registra deliberadamente el contenido de las solicitudes en logs.
 
@@ -69,3 +69,7 @@ Consulta [el proceso](how-it-works.md) y [las recompensas](rewards.md).
 ## Referidos
 
 El [programa previsto](referrals.md) reconoce a builders aprobados que alcancen hitos verificados, no números de registros. La solicitud puede incluir el usuario GitHub exacto de quien recomendó al candidato. Financiación y reglas finales deben publicarse antes de activarlo.
+
+## Privacidad de la cuenta pendiente en el portal
+
+Una aprobación revisada crea una cuenta pendiente con correo, usuario GitHub y estado de incorporación. Conserva la fecha original de caducidad de la solicitud, sin ampliar los 90 días de conservación. El acceso utiliza una cookie segura y necesaria de sesión del navegador, que caduca a las ocho horas. Los desafíos de código por correo caducan a los diez minutos; el servicio guarda hashes, no códigos en texto plano. Google Cloud procesa los registros privados de cuenta y revisión; Resend procesa los correos transaccionales de acceso y aprobación. Solo administradores autorizados revisan solicitudes; los builders acceden únicamente a su propia información del portal. No se crea una suscripción a la newsletter, seguimiento publicitario ni invitación GitHub automática. La inscripción completa y la conservación de perfiles activos requieren condiciones separadas. Acceso, corrección o eliminación: hello@openroot.dev.

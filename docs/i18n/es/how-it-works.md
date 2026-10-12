@@ -8,7 +8,7 @@ Envía correo y usuario GitHub exacto mediante el formulario en https://openroot
 
 ## Obtener aprobación y verificar identidad
 
-OpenRoot revisa la solicitud. El flujo previsto de aprobación creará tu cuenta e iniciará la adhesión GitHub. El portal privado y el aprovisionamiento automático aún no están implementados; las solicitudes iniciales se guardan para revisión manual. En el primer acceso, verifica el correo aprobado y vincula el GitHub que controlas. Solo cuentas aprobadas acceden al portal. La pertenencia y los accesos siguen acotados.
+La aprobación crea una cuenta pendiente en el portal y envía un correo con instrucciones. Inicia sesión en https://openroot.dev/portal con el correo aprobado e introduce el código recibido solo en esa página. Las invitaciones a la organización GitHub se envían manualmente y llegan por separado. La vinculación automática de identidad GitHub, las métricas de proyectos, la inscripción completa y las reclamaciones de recompensas todavía no están disponibles. Las cuentas pendientes conservan el plazo original de 90 días de la solicitud. La aprobación por sí sola no concede una recompensa financiada.
 
 ## Construir y crecer
 

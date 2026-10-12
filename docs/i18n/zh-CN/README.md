@@ -10,7 +10,7 @@ OpenRoot 开发者计划连接独立开发者（称为 **OpenRoot builders**）�
 
 ## 当前状态
 
-计划处于**发布前准备阶段**，正在寻找创始合作伙伴。[申请已开放供审核](https://openroot.dev/apply)；私有门户和奖励领取尚未开放；具体数值里程碑与最终交付条款仍在准备。OpenRoot 报告的初始权益包括：DeepLearning.AI 一个月，目前仅一份，领取后即无；以及支持 GPT、Claude、Gemini 和 Grok 的 AI 模型 API 额度，通过设有预算上限的第三方 API 访问提供，价值 EUR 50-1,000。每个密钥都有独立预算上限，API 权益未公布数量上限。具体学习产品、分发授权、有效期及领取者条件仍需确认。这不代表 OpenAI/Anthropic/Google/xAI 官方赞助，也不保证每位成员获得奖励。更丰富的权益，包括付费订阅和开发工具，即将推出；不承诺具体产品或日期。参阅[奖励详情](rewards.md)。
+计划处于**发布前准备阶段**，正在寻找创始合作伙伴。[申请已开放供审核](https://openroot.dev/apply)；私有门户已向获批账号开放：https://openroot.dev/portal；奖励领取尚未开放；具体数值里程碑与最终交付条款仍在准备。OpenRoot 报告的初始权益包括：DeepLearning.AI 一个月，目前仅一份，领取后即无；以及支持 GPT、Claude、Gemini 和 Grok 的 AI 模型 API 额度，通过设有预算上限的第三方 API 访问提供，价值 EUR 50-1,000。每个密钥都有独立预算上限，API 权益未公布数量上限。具体学习产品、分发授权、有效期及领取者条件仍需确认。这不代表 OpenAI/Anthropic/Google/xAI 官方赞助，也不保证每位成员获得奖励。更丰富的权益，包括付费订阅和开发工具，即将推出；不承诺具体产品或日期。参阅[奖励详情](rewards.md)。
 
 本仓库是公开文档中心，说明运作方式、回答问题并邀请合作；不包含私有门户应用或申请人记录。
 
@@ -44,3 +44,9 @@ OpenRoot 开发者计划连接独立开发者（称为 **OpenRoot builders**）�
 如有一般问题，请联系 [hello@openroot.dev](mailto:hello@openroot.dev)。
 
 欢迎通过[仓库 issues](https://github.com/OpenRootdev/developer-program/issues)提交文档更正和问题。请勿公开申请人的个人信息、安全报告、凭据或奖励兑换码。
+
+## 免费的开发沙盒。保护好你的账号。
+
+OpenRoot 是用于开发与协作的沙盒，不是付款请求。我们绝不会要求你发送密码、登录或恢复验证码、访问令牌、API 密钥、付款信息，也不会收取加入或解锁奖励的费用。申请需要邮箱和准确的 GitHub 用户名；登录验证码只能输入官方门户，不要发送给任何人。你可以在自己仓库的权限范围内邀请协作者并配置仓库级应用；部分组织级操作需要管理员协助。不要在仓库、申请或消息中存放秘密凭据。组织托管不意味着可以无限免费使用付费服务。
+
+问题请联系 [hello@openroot.dev](mailto:hello@openroot.dev)。[在 LinkedIn 关注 OpenRoot 或发送私信](https://www.linkedin.com/company/openroot-dev/)。接受 GitHub 邀请后，请阅读[仅供成员访问的快速入门](https://github.com/OpenRootdev/GET-STARTED-README)。

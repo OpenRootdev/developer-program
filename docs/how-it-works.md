@@ -8,7 +8,7 @@ Submit your email and exact GitHub username through the builder application form
 
 ## Get approved and verify your identity
 
-OpenRoot reviews the application. The planned approval workflow will create your program account and start the GitHub membership process. The private portal and automated provisioning are not implemented yet; initial applications are stored for manual review. At first sign-in, verify your approved email and link the GitHub account you control. Only approved accounts can access the portal. Membership and project access remain scoped.
+Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. GitHub organization invitations are sent manually and arrive separately. Automated GitHub identity linking, project metrics, full enrollment and reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
 
 ## Build and grow
 

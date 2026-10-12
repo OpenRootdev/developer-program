@@ -6,7 +6,7 @@ Le programme développeurs OpenRoot. Ses participants sont les OpenRoot builders
 
 ## Est-il ouvert ?
 
-Non. Le programme est en pré-lancement et recherche des partenaires fondateurs. Les candidatures sont ouvertes pour examen ; le portail privé et les demandes de récompense ne sont pas ouverts. OpenRoot annonce [des offres initiales](rewards.md), mais les seuils et modalités finales sont en préparation. Une offre ne constitue pas un droit garanti.
+Les candidatures et le portail privé réservé aux comptes approuvés sont disponibles. Les cohortes avec récompenses financées restent en pré-lancement et recherchent des partenaires fondateurs ; les demandes de récompense ne sont pas encore ouvertes.
 
 ## Les récompenses sont-elles monétaires ?
 
@@ -85,3 +85,9 @@ Les cohortes non financées ne peuvent promettre de récompense. Les cohortes fi
 Voir [les partenariats](partners.md) et [partner@openroot.dev](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership). [Le site](https://openroot.dev/partners) prépare un brouillon localement ; rien n'est reçu avant votre envoi.
 
 Pour toute question générale, écrivez à [hello@openroot.dev](mailto:hello@openroot.dev).
+
+## Un sandbox gratuit. Protégez vos comptes.
+
+OpenRoot est un sandbox pour développer et collaborer, pas une demande de paiement. Nous ne vous demanderons jamais d’envoyer mots de passe, codes de connexion ou de récupération, tokens, clés API, coordonnées de paiement ou frais pour rejoindre le programme ou débloquer des récompenses. La candidature demande votre e-mail et votre nom GitHub exact ; saisissez un code de connexion uniquement sur le portail officiel, ne l’envoyez jamais à une personne. Vous pouvez inviter des collaborateurs et configurer des applications limitées à votre dépôt selon vos permissions ; certaines actions d’organisation nécessitent un propriétaire. Ne placez pas de secrets dans les dépôts, candidatures ou messages. L’hébergement dans l’organisation ne donne pas un accès gratuit illimité aux services payants.
+
+Questions : [hello@openroot.dev](mailto:hello@openroot.dev). [Suivez OpenRoot ou envoyez-nous un message sur LinkedIn](https://www.linkedin.com/company/openroot-dev/). Après avoir accepté l’invitation GitHub, consultez le [guide de démarrage réservé aux membres](https://github.com/OpenRootdev/GET-STARTED-README).

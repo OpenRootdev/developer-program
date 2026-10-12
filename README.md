@@ -10,7 +10,7 @@ Your project is not exclusive to OpenRoot. You can enter hackathons, collaborate
 
 ## Current status
 
-The program is in **pre-launch**. We are seeking founding partners. [Applications are open for review](https://openroot.dev/apply); the private portal and reward claims are not open; numerical milestones and final fulfillment terms are being prepared. OpenRoot reports an initial set of offers: one month of DeepLearning.AI (one available until claimed), and AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at EUR 50-1,000. The API allowances have per-key budget limits, with no announced quantity cap. Exact learning product, permitted distribution, expiry and recipient terms still need confirmation. These are not official model-provider sponsorships or guaranteed rewards for every member. A broader selection, including paid subscriptions and developer tools, is coming soon; specific offers and dates are not promised. See [reward details](docs/rewards.md).
+The program is in **pre-launch**. We are seeking founding partners. [Applications are open for review](https://openroot.dev/apply); the private portal is available to approved accounts at https://openroot.dev/portal; reward claims are not open; numerical milestones and final fulfillment terms are being prepared. OpenRoot reports an initial set of offers: one month of DeepLearning.AI (one available until claimed), and AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at EUR 50-1,000. The API allowances have per-key budget limits, with no announced quantity cap. Exact learning product, permitted distribution, expiry and recipient terms still need confirmation. These are not official model-provider sponsorships or guaranteed rewards for every member. A broader selection, including paid subscriptions and developer tools, is coming soon; specific offers and dates are not promised. See [reward details](docs/rewards.md).
 
 This repository is the public documentation home. It explains the program, answers questions, and invites partnerships. It does not contain the private portal application or applicant records.
 
@@ -44,3 +44,9 @@ We welcome partners who can provide AI or cloud credits, paid tool access, or ot
 For general questions, contact [hello@openroot.dev](mailto:hello@openroot.dev).
 
 Documentation corrections and questions are welcome through [repository issues](https://github.com/OpenRootdev/developer-program/issues). Do not post personal application details, security reports, credentials, or reward redemption codes publicly.
+
+## A free sandbox. Keep your accounts safe.
+
+OpenRoot is a sandbox for building and collaborating, not a payment request. We will never ask you to send passwords, sign-in or recovery codes, access tokens, API keys, payment details or a fee to join or unlock rewards. Applications need your email and exact GitHub username; enter a sign-in code only on the official portal, never send it to a person. You can invite collaborators and configure repository-scoped apps within your repository permissions; some organization-level actions need an owner. Keep secrets out of repos, applications and messages. Organization hosting is not unlimited free use of paid services.
+
+Questions: [hello@openroot.dev](mailto:hello@openroot.dev). [Follow or message OpenRoot on LinkedIn](https://www.linkedin.com/company/openroot-dev/). After accepting the GitHub invitation, read the [members-only quick start](https://github.com/OpenRootdev/GET-STARTED-README).

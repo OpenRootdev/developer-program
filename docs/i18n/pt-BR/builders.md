@@ -12,7 +12,7 @@ A candidatura pede e-mail e nome de usuário GitHub exato. A aprovação OpenRoo
 
 Uma conta GitHub é pré-requisito. Builders aprovados aceitam o convite da organização OpenRoot e desenvolvem seus repositórios nela. O site https://openroot.dev/apply aceita candidaturas para análise manual. Enviar não cria conta nem concede acesso. Contas extras, GitHub Apps e equipes podem ser solicitados para análise. Nunca envie senhas, tokens ou chaves privadas.
 
-Depois da aprovação, existe um registro no programa. A verificação inicial por e-mail confirma acesso à caixa aprovada. Vincular o GitHub verifica a identidade de desenvolvedor separadamente. Exigências de passkey ou autenticador serão explicadas antes da inscrição. O portal privado e o provisionamento automático de contas ainda não estão disponíveis.
+A aprovação cria uma conta pendente no portal e envia um e-mail com instruções. Entre em https://openroot.dev/portal com o e-mail aprovado e digite o código recebido somente nessa página. Os convites para a organização GitHub são enviados manualmente e chegam separadamente. Vinculação automática de identidade GitHub, métricas de projetos, inscrição completa e pedidos de recompensas ainda não estão disponíveis. Contas pendentes mantêm o prazo original de 90 dias da candidatura. A aprovação, por si só, não concede uma recompensa financiada.
 
 ## Candidatar-se antes de escolher um projeto
 
@@ -34,7 +34,7 @@ Privacidade, retenção e pedidos de correção/exclusão estão abaixo. Dúvida
 
 ## Privacidade da candidatura
 
-A OpenRoot, operada por Kristofer Jussmann, coleta e-mail, nome GitHub exato, proposta, evidências opcionais, pedidos de colaboração/acesso, indicação e registro de consentimento para análise e comunicação relacionada. Não envie credenciais, código privado ou dados pessoais sensíveis. Liste outras contas somente com permissão.
+A OpenRoot, operada por Kristofer Jussmann, coleta e-mail, nome GitHub exato, proposta, evidências opcionais, pedidos de colaboração/acesso, indicação, fonte de descoberta opcional e registro de consentimento para análise e comunicação relacionada. A fonte informada voluntariamente ajuda a entender onde os builders encontram a OpenRoot; não utiliza cookies de rastreamento. Não envie credenciais, código privado ou dados pessoais sensíveis. Liste outras contas somente com permissão.
 
 Os envios ficam privados no Google Cloud na Finlândia, acessíveis apenas a administradores autorizados. Os registros expiram após 90 dias; a exclusão automática é assíncrona. Contas aprovadas no portal terão termos próprios antes da ativação. A infraestrutura mantém logs técnicos; o serviço não registra deliberadamente o conteúdo das candidaturas em logs.
 
@@ -69,3 +69,7 @@ Veja [como funciona](how-it-works.md) e [as recompensas](rewards.md).
 ## Indicações
 
 O [programa de indicação planejado](referrals.md) reconhece indicações de builders aprovados que atinjam marcos verificados, não cadastros. O candidato pode informar o GitHub exato do indicador para análise. Financiamento e regras finais devem ser publicados antes da ativação.
+
+## Privacidade da conta pendente no portal
+
+Uma aprovação revisada cria uma conta pendente com e-mail, usuário GitHub e estado de integração. Ela mantém a data original de expiração da candidatura, sem estender os 90 dias de retenção. O acesso usa um cookie seguro e necessário de sessão do navegador, que expira após oito horas. Os desafios de código por e-mail expiram após dez minutos; o serviço guarda hashes, não códigos em texto simples. O Google Cloud processa registros privados de conta e análise; o Resend processa e-mails transacionais de acesso e aprovação. Somente administradores autorizados analisam candidaturas; builders acessam apenas suas próprias informações no portal. Não há inscrição na newsletter, rastreamento publicitário nem convite GitHub automático. Inscrição completa e retenção de perfis ativos exigem termos separados. Solicitações de acesso, correção ou exclusão: hello@openroot.dev.

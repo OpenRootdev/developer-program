@@ -6,7 +6,7 @@ OpenRoot 开发者计划，参与开发者称为 OpenRoot builders。
 
 ## 已开放吗？
 
-没有。正在发布前准备并寻找创始伙伴。申请已开放供审核；私有门户和领奖未开放。OpenRoot 报告了[初始权益](rewards.md)，但门槛和最终交付条款在准备。列出权益不等于保证领取权。
+申请审核和仅限获批账号的私有门户已可使用。有资金保障的奖励批次仍处于发布前准备阶段，正在寻找创始伙伴；奖励领取尚未开放。
 
 ## 奖励是现金吗？
 
@@ -85,3 +85,9 @@ DeepLearning.AI 一个月，仅一份可领取；另有 支持 GPT、Claude、Ge
 阅读[合作](partners.md)，联系 [partner@openroot.dev](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership)。[合作页面](https://openroot.dev/partners)仅本地生成草稿，你发送邮件前不会收到信息。
 
 如有一般问题，请联系 [hello@openroot.dev](mailto:hello@openroot.dev)。
+
+## 免费的开发沙盒。保护好你的账号。
+
+OpenRoot 是用于开发与协作的沙盒，不是付款请求。我们绝不会要求你发送密码、登录或恢复验证码、访问令牌、API 密钥、付款信息，也不会收取加入或解锁奖励的费用。申请需要邮箱和准确的 GitHub 用户名；登录验证码只能输入官方门户，不要发送给任何人。你可以在自己仓库的权限范围内邀请协作者并配置仓库级应用；部分组织级操作需要管理员协助。不要在仓库、申请或消息中存放秘密凭据。组织托管不意味着可以无限免费使用付费服务。
+
+问题请联系 [hello@openroot.dev](mailto:hello@openroot.dev)。[在 LinkedIn 关注 OpenRoot 或发送私信](https://www.linkedin.com/company/openroot-dev/)。接受 GitHub 邀请后，请阅读[仅供成员访问的快速入门](https://github.com/OpenRootdev/GET-STARTED-README)。

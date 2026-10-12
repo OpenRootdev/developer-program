@@ -8,7 +8,7 @@ Envoyez votre e-mail et votre nom GitHub exact via le formulaire sur https://ope
 
 ## Être approuvé et vérifier son identité
 
-OpenRoot examine votre candidature. Le processus d'approbation prévu créera le compte et lancera l'adhésion GitHub. Le portail privé et le provisionnement automatique ne sont pas encore implémentés ; les premières candidatures sont stockées pour examen manuel. À la première connexion, vérifiez l'e-mail approuvé et liez le compte GitHub que vous contrôlez. Seuls les comptes approuvés accèdent au portail. Les accès restent limités.
+L’approbation crée un compte en attente dans le portail et envoie un e-mail d’instructions. Connectez-vous sur https://openroot.dev/portal avec l’adresse approuvée et saisissez le code reçu uniquement sur cette page. Les invitations à l’organisation GitHub sont envoyées manuellement et arrivent séparément. La liaison automatique de l’identité GitHub, les indicateurs de projet, l’inscription complète et les demandes de récompense ne sont pas encore disponibles. Les comptes en attente conservent l’échéance initiale de 90 jours de la candidature. L’approbation seule n’accorde aucune récompense financée.
 
 ## Construire et développer
 

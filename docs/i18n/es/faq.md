@@ -6,7 +6,7 @@ Programa de Desarrolladores OpenRoot. Sus participantes son OpenRoot builders.
 
 ## ¿Está abierto?
 
-No. Está en prelanzamiento y busca socios fundadores. Las solicitudes están abiertas para revisión; el portal privado y las reclamaciones no están abiertos. OpenRoot comunica [ofertas iniciales](rewards.md), pero umbrales y condiciones siguen preparándose. Una oferta no es un derecho garantizado.
+Las solicitudes y el portal privado exclusivo para cuentas aprobadas están disponibles. Las cohortes con recompensas financiadas siguen en prelanzamiento y buscan socios fundadores; las reclamaciones de recompensas todavía no están abiertas.
 
 ## ¿Las recompensas son dinero?
 
@@ -85,3 +85,9 @@ Las cohortes sin financiación no pueden prometer beneficios. Las financiadas ne
 Lee [las colaboraciones](partners.md) y escribe a [partner@openroot.dev](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership). [El sitio](https://openroot.dev/partners) prepara un borrador local; no recibe nada hasta que envíes el correo.
 
 Para consultas generales, escribe a [hello@openroot.dev](mailto:hello@openroot.dev).
+
+## Un sandbox gratuito. Protege tus cuentas.
+
+OpenRoot es un sandbox para construir y colaborar, no una solicitud de pago. Nunca te pediremos que envíes contraseñas, códigos de acceso o recuperación, tokens, claves API, datos de pago ni una tarifa para unirte o desbloquear recompensas. La solicitud necesita tu correo y usuario GitHub exacto; introduce el código de acceso solo en el portal oficial, nunca lo envíes a una persona. Puedes invitar colaboradores y configurar aplicaciones limitadas a tu repositorio dentro de tus permisos; algunas acciones de la organización requieren a un propietario. No pongas secretos en repositorios, solicitudes o mensajes. Alojarse en la organización no significa usar servicios de pago gratis y sin límite.
+
+Preguntas: [hello@openroot.dev](mailto:hello@openroot.dev). [Sigue o escribe a OpenRoot en LinkedIn](https://www.linkedin.com/company/openroot-dev/). Tras aceptar la invitación GitHub, consulta la [guía rápida solo para miembros](https://github.com/OpenRootdev/GET-STARTED-README).

@@ -12,7 +12,7 @@ La candidature demande votre e-mail et votre nom d'utilisateur GitHub exact. L'a
 
 Un compte GitHub est requis. Les builders approuvés acceptent l'invitation de l'organisation GitHub OpenRoot et y développent leurs dépôts. Le site https://openroot.dev/apply accepte les candidatures pour examen manuel. Un envoi ne crée pas de compte et n'accorde pas d'accès. Vous pouvez demander l'examen de comptes supplémentaires, GitHub Apps et équipes de projet. Ne transmettez jamais de mots de passe, tokens ou clés privées.
 
-Après approbation, un dossier de programme existe. La vérification initiale par e-mail confirme l'accès à la boîte approuvée. La liaison GitHub vérifie séparément votre identité de développeur. Toute exigence de passkey ou d'authentificateur sera expliquée avant inscription. Le portail privé et le provisionnement automatique des comptes ne sont pas encore disponibles.
+L’approbation crée un compte en attente dans le portail et envoie un e-mail d’instructions. Connectez-vous sur https://openroot.dev/portal avec l’adresse approuvée et saisissez le code reçu uniquement sur cette page. Les invitations à l’organisation GitHub sont envoyées manuellement et arrivent séparément. La liaison automatique de l’identité GitHub, les indicateurs de projet, l’inscription complète et les demandes de récompense ne sont pas encore disponibles. Les comptes en attente conservent l’échéance initiale de 90 jours de la candidature. L’approbation seule n’accorde aucune récompense financée.
 
 ## Candidater avant de choisir un projet
 
@@ -34,7 +34,7 @@ Confidentialité, conservation et demandes de correction/suppression sont détai
 
 ## Confidentialité des candidatures
 
-OpenRoot, exploité par Kristofer Jussmann, collecte e-mail, nom GitHub exact, proposition, preuves facultatives, demandes de collaboration/d'accès, parrainage et consentement pour l'examen et les communications associées. N'envoyez ni identifiants secrets, code privé ni données personnelles sensibles. Mentionnez d'autres comptes uniquement avec leur permission.
+OpenRoot, exploité par Kristofer Jussmann, collecte e-mail, nom GitHub exact, proposition, preuves facultatives, demandes de collaboration/d'accès, parrainage, source de découverte facultative et consentement pour l'examen et les communications associées. La source déclarée volontairement permet de comprendre où les builders découvrent OpenRoot ; elle n'utilise pas de cookies de suivi. N'envoyez ni identifiants secrets, code privé ni données personnelles sensibles. Mentionnez d'autres comptes uniquement avec leur permission.
 
 Les envois sont conservés de manière privée sur Google Cloud en Finlande, accessibles uniquement aux administrateurs autorisés. Leur expiration est prévue après 90 jours ; la suppression automatique est asynchrone. Les comptes approuvés du portail auront des conditions distinctes avant activation. L'infrastructure traite des journaux techniques ; le service ne journalise pas délibérément le contenu des candidatures.
 
@@ -69,3 +69,7 @@ Voir [le fonctionnement](how-it-works.md) et [les récompenses](rewards.md).
 ## Parrainage
 
 Le [parrainage prévu](referrals.md) reconnaît les builders approuvés atteignant un jalon vérifié, pas le nombre d'inscriptions. Le candidat peut indiquer le nom GitHub exact du parrain pour examen. Le financement et les règles finales doivent être publiés avant activation.
+
+## Confidentialité du compte en attente
+
+Une approbation examinée crée un compte en attente avec votre e-mail, nom GitHub et état d’intégration. Il conserve l’échéance initiale de la candidature, sans prolonger la conservation de 90 jours. La connexion utilise un cookie de session sécurisé et nécessaire, qui expire après huit heures. Les demandes de code par e-mail expirent après dix minutes ; le service conserve des empreintes, pas les codes en clair. Google Cloud traite les dossiers privés de compte et d’examen ; Resend traite les e-mails transactionnels de connexion et d’approbation. Seuls les administrateurs autorisés examinent les candidatures ; les builders accèdent uniquement à leurs propres informations dans le portail. Aucune inscription à la newsletter, aucun suivi publicitaire ni aucune invitation GitHub automatique n’est créé. L’inscription complète et la conservation des profils actifs exigent des conditions distinctes. Accès, rectification ou suppression : hello@openroot.dev.

@@ -6,7 +6,7 @@ OpenRoot 開発者プログラム。参加者は OpenRoot builders です。
 
 ## 開始済み？
 
-いいえ。開始前準備と創設パートナー募集の段階です。申請の審査受付を開始しています。非公開ポータルと報酬請求は未開始です。[初期特典](rewards.md)は報告していますが、目標と最終提供条件は準備中です。掲載は権利の保証ではありません。
+申請受付と承認済みアカウント専用の非公開ポータルは利用できます。資金を確保した報酬コホートは開始前の準備と創設パートナー募集の段階です。報酬請求はまだ利用できません。
 
 ## 現金報酬？
 
@@ -85,3 +85,9 @@ DeepLearning.AI 1か月分が受取まで1件、GPT、Claude、Gemini、Grok 向
 [パートナー文書](partners.md)と [partner@openroot.dev](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership)をご利用ください。[サイト](https://openroot.dev/partners)はローカル下書きを作るだけで、送信前は受信しません。
 
 一般的なお問い合わせは [hello@openroot.dev](mailto:hello@openroot.dev) へお願いします。
+
+## 無料のサンドボックス。アカウントを守りましょう。
+
+OpenRoot は開発と共同作業のためのサンドボックスであり、支払いを求める場所ではありません。パスワード、ログイン・復旧コード、トークン、API キー、支払い情報を送るよう求めたり、参加や報酬の解除に料金を請求したりすることはありません。申請にはメールアドレスと正確な GitHub ユーザー名が必要です。ログインコードは公式ポータルだけに入力し、人には送らないでください。自分のリポジトリの権限内で協力者を招待し、リポジトリ単位のアプリを設定できます。Organization レベルの操作には管理者の対応が必要な場合があります。秘密情報をリポジトリ、申請、メッセージに置かないでください。Organization のホスティングは有料サービスの無制限な無料利用を意味しません。
+
+質問は [hello@openroot.dev](mailto:hello@openroot.dev) へ。[LinkedIn で OpenRoot をフォロー、またはメッセージ](https://www.linkedin.com/company/openroot-dev/)を送れます。GitHub 招待を承認した後、[メンバー限定のクイックスタート](https://github.com/OpenRootdev/GET-STARTED-README)をご覧ください。

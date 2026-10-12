@@ -6,7 +6,7 @@ The OpenRoot Developer Program. Its developer participants are OpenRoot builders
 
 ## Is it live?
 
-No. It is in pre-launch, seeking founding partners. Applications are open for review; the private portal and reward claims are not open. OpenRoot reports [initial reward offers](rewards.md), but thresholds and final fulfillment terms are being prepared. An offer listing is not a guaranteed entitlement.
+Applications and the approval-only private portal are available. Funded reward cohorts remain in pre-launch, seeking founding partners; reward claims are not open.
 
 ## Are rewards cash?
 
@@ -87,3 +87,9 @@ Unfunded cohorts cannot promise rewards. Funded cohorts need visible capacity li
 Read [partnerships](partners.md) and contact [partner@openroot.dev](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership). The [website partner page](https://openroot.dev/partners) prepares an email draft locally; nothing is received until you send it from your email app.
 
 For general questions, contact [hello@openroot.dev](mailto:hello@openroot.dev).
+
+## A free sandbox. Keep your accounts safe.
+
+OpenRoot is a sandbox for building and collaborating, not a payment request. We will never ask you to send passwords, sign-in or recovery codes, access tokens, API keys, payment details or a fee to join or unlock rewards. Applications need your email and exact GitHub username; enter a sign-in code only on the official portal, never send it to a person. You can invite collaborators and configure repository-scoped apps within your repository permissions; some organization-level actions need an owner. Keep secrets out of repos, applications and messages. Organization hosting is not unlimited free use of paid services.
+
+Questions: [hello@openroot.dev](mailto:hello@openroot.dev). [Follow or message OpenRoot on LinkedIn](https://www.linkedin.com/company/openroot-dev/). After accepting the GitHub invitation, read the [members-only quick start](https://github.com/OpenRootdev/GET-STARTED-README).
