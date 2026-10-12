@@ -1,0 +1,50 @@
+# Jalons et récompenses
+
+Les récompenses aident à continuer de construire. Ce sont des avantages non monétaires fournis par des partenariats confirmés ou une cohorte explicitement financée.
+
+## Quels résultats peuvent être récompensés ?
+
+Chaque projet utilise un parcours adapté :
+
+- Attention : étoiles GitHub organiques, intérêt extérieur significatif ou couverture.
+- Distribution : téléchargements de versions ou de paquets, clones complets ou téléchargements d'images de conteneurs sur une période définie.
+- Adoption : utilisateurs actifs ou récurrents, ou projets indépendants intégrant le logiciel.
+- Usage durable : une mesure d'adoption pertinente maintenue dans le temps.
+
+Les étoiles montrent l'intérêt ; les téléchargements montrent la distribution. Aucun ne prouve automatiquement l'usage actif. L'activité automatisée répétée, l'engagement acheté et l'inflation artificielle ne démontrent pas une traction réelle. Les exclusions précises seront publiées pour chaque cohorte.
+
+Les seuils chiffrés ne sont pas finalisés. Chaque projet inscrit doit connaître sa métrique, source, référence, seuil, période, preuves, procédure d'examen, récompense et limite de demandes.
+
+## Quels avantages ?
+
+Les catégories incluent accès IA/API, GPU ou cloud, abonnements, IDE et outils utiles. Les builders doivent pouvoir choisir parmi les options disponibles auxquelles ils sont admissibles.
+
+### Offres initiales annoncées par OpenRoot / 12 octobre 2026
+
+- **DeepLearning.AI :** un mois, **une seule offre disponible jusqu'à attribution**. Produit exact et modalités de remise à confirmer.
+- **Crédits API de modèles d'IA :** budgets d'une valeur de **EUR 50-1,000**, pour les **familles de modèles GPT, Claude, Gemini et Grok**. OpenRoot indique que chaque clé fournie a une limite budgétaire strictement appliquée. **Aucun plafond de quantité d'offres n'est annoncé** ; cela ne signifie ni dépenses illimitées ni attribution automatique de EUR 1,000 à chacun. L'autorisation de distribution, l'expiration, les modèles, l'admissibilité et la livraison doivent être vérifiés avant émission. Il s'agit d'accès tiers, pas d'un transfert de crédits sur votre compte OpenAI/Anthropic/Google/xAI ni d'un sponsoring officiel de ces sociétés.
+- **D'autres avantages arrivent prochainement, dont des abonnements payants et outils de développement.** Aucun produit supplémentaire, quantité ni date n'est promis.
+
+L'identité du fournisseur reste privée à ce stade. Les informations nécessaires à une utilisation éclairée doivent être convenues avant activation. Ne publiez jamais clés API, codes ou identifiants dans les documents, candidatures ou issues. Aucun partage de compte personnel ni transfert de clé fournisseur n'est promis. Les candidatures sont ouvertes pour examen ; les demandes de récompense ne sont pas ouvertes ; ces offres ne sont pas des récompenses de parrainage confirmées.
+
+Chaque option doit préciser l'admissibilité du compte, la prestation, durée ou montant, l'expiration, le délai d'activation et toute facturation ultérieure. OpenRoot ne demandera pas votre mot de passe et ne distribuera pas de comptes payants partagés.
+
+## Choisir et utiliser une récompense
+
+Après approbation du jalon et de la demande, les builders choisissent parmi les avantages admissibles et disponibles pour leur projet ou cohorte. Montant, modèles et conditions sont confirmés pour chaque offre ; EUR 50-1,000 ne signifie pas une attribution automatique du maximum à chacun. La promotion entièrement gratuite, dans la mesure de nos moyens, est un avantage distinct qui ne consomme pas une récompense.
+
+Hermes, OpenClaw et OpenCode acceptent des fournisseurs personnalisés ou des endpoints compatibles OpenAI, mais la passerelle réelle des récompenses n'a pas encore été testée avec ces clients. Le chat Cursor avec clé personnelle exige une vérification du client/modèle/de la passerelle ; ces crédits n'incluent ni abonnement Cursor ni Tab. Codex exige Responses API, le streaming et des conversations avec appels d'outils. Claude Code exige un format d'API de passerelle pris en charge, tel qu'Anthropic Messages. La seule compatibilité avec OpenAI Chat Completions ne prouve pas la prise en charge de Codex ou Claude Code. Endpoint, identifiants de modèles, limites des clients et conditions de confidentialité du bénéficiaire doivent être confirmés avant activation.
+
+Voir les [exigences de passerelle Codex](https://learn.chatgpt.com/docs/enterprise/gateway-compatibility) et [Claude Code](https://code.claude.com/docs/en/llm-gateway-protocol). Ce brouillon ne promet pas une compatibilité de bout en bout.
+
+## Financement et équité
+
+Les récompenses et le financement sont confirmés avant inscription à une cohorte récompensée. Une liste d'intérêt non financée ne promet rien. Si le stock est limité, capacités et règles de réservation doivent être visibles dès le départ.
+
+Distinguez les récompenses garanties aux demandes admissibles des prix jugés ou soumis à quotas. Les exigences ne peuvent pas être modifiées rétroactivement pour rejeter une demande autrement valide. La référence d'un projet existant et la prise en compte du passé sont définies avant inscription.
+
+Les récompenses suivent les modalités de projet ou d'équipe, sans multiplication automatique par contributeur. Les demandes passent par soumission, examen, approbation puis émission. L'activation peut rester inconnue sans confirmation du fournisseur. Un builder peut demander correction ou réexamen.
+
+Les avantages non monétaires nécessitent aussi une comptabilité appropriée et un examen selon la juridiction avant lancement. Ce brouillon ne définit pas leur traitement fiscal.
+
+[Fonctionnement](how-it-works.md) | [Partenariats](partners.md)

@@ -1,0 +1,37 @@
+# Partner with the OpenRoot Developer Program
+
+## Help builders keep building
+
+Support developers who build innovative GitHub projects and attract genuine use. Provide useful credits, subscriptions, or developer tools when projects reach transparent, verified milestones.
+
+We are seeking founding partners for a small, bounded pilot. OpenRoot reports [initial offers](rewards.md), but enrollment and claims are not open. Fulfillment and provider authorization still need confirmation. No official provider sponsorship is implied.
+
+## Ways to help
+
+- **Reward partner:** offer authorized recipient licenses, gift subscriptions, or direct credit grants.
+- **Cohort partner:** support a limited set of projects with a clearly capped reward inventory.
+- **Technical partner:** offer relevant mentoring, office hours, or project support. These supplement the program rather than masquerading as a paid reward.
+
+An optional financial sponsor could fund purchases from the non-cash reward catalog. This requires a separate agreed budget and fulfillment process. Developers would still receive benefits rather than cash payments.
+
+## What we can offer
+
+An agreed pilot can include transparent partner acknowledgment, publication/social coverage of relevant projects, links to their public work, and an aggregate report on verified outcomes and reward redemption where available.
+
+Member-project promotion through OpenRoot's publication and socials is completely free of charge, on a best-effort basis. Participation does not prevent builders from entering hackathons or other activities.
+
+We do not promise an audience size, guaranteed customer conversions, favorable editorial coverage, exclusivity, or access to applicant emails. Public acknowledgment requires permission. Sponsor support does not purchase control of the program's success decisions.
+
+## Make a small first commitment
+
+Tell us the benefit you can provide, how many developers or projects it can support, its duration/credit amount, eligible accounts and countries, expiry, redemption method, and any billing obligations. A provider should explicitly authorize use in this milestone-based program. Ordinary non-transferable signup or startup credits are not a redistributable prize pool.
+
+## Contact
+
+[Partner with us](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership) or email **partner@openroot.dev**.
+
+The [OpenRoot partner page](https://openroot.dev/partners) prepares a draft locally for your email app; it does not submit or store an inquiry on the site. Nothing is received until you send the email.
+
+For general questions, contact [hello@openroot.dev](mailto:hello@openroot.dev).
+
+[Program overview](../README.md) | [Reward rules](rewards.md) | [FAQ](faq.md)

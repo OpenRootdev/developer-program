@@ -1,0 +1,87 @@
+# Perguntas frequentes
+
+## Qual é o nome?
+
+Programa de Desenvolvedores OpenRoot. Os participantes são OpenRoot builders.
+
+## Está aberto?
+
+Não. Está em pré-lançamento, buscando parceiros fundadores. Candidaturas estão abertas para análise; portal privado e pedidos de recompensas ainda não estão abertos. A OpenRoot informa [ofertas iniciais](rewards.md), mas metas e condições finais estão em preparação. Uma oferta não é um direito garantido.
+
+## As recompensas são dinheiro?
+
+Não. São assinaturas, créditos e ferramentas de desenvolvimento.
+
+## Qualquer tipo de projeto pode participar?
+
+Qualquer categoria pode ser considerada, respeitando requisitos da turma, direitos, segurança e conduta. A OpenRoot não precisa inventar ou dirigir cada projeto. Qualquer linguagem de programação ou idioma de documentação/repositório é bem-vindo, inclusive não inglês. Traga suas ideias; stack, roteiro e direção são seus.
+
+## Posso me candidatar sem ideia de projeto?
+
+Sim. Marque “Ainda não sei o que vou construir”. A nota de interesses é opcional. A OpenRoot também analisa candidaturas sem projeto definido; recompensas ainda exigem projeto específico aprovado e marcos acordados. Cada envio exige aceitação explícita dos termos atuais e políticas publicadas, separada da privacidade. [Leia as regras](builders.md).
+
+## Posso começar com repositório privado?
+
+Sim. Duração e eventual publicação são combinadas antes da inscrição, sem temporizador automático. Desenvolver em privado não comprova um marco de publicação ou adoção pública. Outros builders não recebem acesso privado automaticamente.
+
+## Existe indicação?
+
+Está planejado um [programa baseado em marcos](referrals.md). O builder indicado precisa ser aprovado e atingir um marco qualificado e verificado antes de analisar uma solicitação financiada. Cadastros sozinhos não são recompensados. Benefícios, limites e disponibilidade financiada não estão confirmados.
+
+## A OpenRoot divulga meu projeto?
+
+A OpenRoot ajuda a divulgar projetos dos membros na publicação e redes, totalmente de graça e tanto quanto possível. Builders cuidam do marketing mais amplo e crescimento. Cobertura, tráfego e sucesso não são garantidos.
+
+## Posso participar de hackathons?
+
+Sim, inclusive colaborações e atividades externas. A participação não é exclusiva. Respeite as regras do evento e direitos do projeto/contribuidores.
+
+## Quais são as ofertas iniciais?
+
+Um mês de DeepLearning.AI, uma oferta até resgate, e créditos de API para modelos de IA para GPT, Claude, Gemini e Grok e fornecidos por acesso de terceiros com orçamento limitado no valor de EUR 50-1,000. A OpenRoot informa orçamentos rígidos por chave e nenhuma quantidade máxima anunciada. Não são créditos transferidos à sua conta OpenAI/Anthropic/Google/xAI nem patrocínios oficiais. Produto, distribuição permitida, validade, elegibilidade e entrega estão pendentes. Pedidos não estão abertos. [Detalhes](rewards.md).
+
+## Uma meta de estrelas garante recompensa?
+
+Somente as regras publicadas da turma estabelecem qualificação. Atenção pode ter trilha própria; adoção maior pode liberar outra opção. Nenhuma meta numérica foi anunciada; ofertas ainda exigem regras finais de solicitação e entrega.
+
+## Posso escolher?
+
+Essa é a intenção: escolher opções elegíveis e disponíveis para sua turma/nível. Assinatura ou fornecedor específico não é garantido antes da confirmação.
+
+## Qualquer pessoa pode entrar no portal?
+
+Não. Você precisa candidatar-se e ser aprovado. Aprovação cria uma conta; login identifica, mas não concede participação sozinho.
+
+## Por que o GitHub exato?
+
+Ajuda a localizar a conta. Vinculação GitHub verifica seu controle; digitar o nome de outra pessoa não permite reivindicar seus projetos.
+
+## O código de e-mail é MFA?
+
+É verificação de e-mail no onboarding, não um fator independente forte. Passkey/autenticador adicional será informado antes de ativar acesso.
+
+## Quem é dono e o que ocorre na saída?
+
+A política pretendida mantém seus direitos sobre código próprio e liderança. O repositório é hospedado na organização OpenRoot, com Admin para você. Proprietários da organização mantêm administração; não é repositório pessoal no seu usuário. Licença, manutenção, contribuições e saída/transferência devem ser acordadas antes da inscrição.
+
+## Posso propor repositório existente?
+
+Sim, quando candidaturas abrirem. Envie URL, autoridade para transferir e evidências datadas de adoção. Não transfira primeiro. Usuários, downloads e estrelas ajudam na análise, mas não garantem participação ou recompensas. O uso de resultados anteriores deve estar explícito na referência aprovada.
+
+## Contas extras ou equipes?
+
+Sim. Informe GitHub/GitHub Apps exatos, tipo humano/máquina/integração, objetivo, repositórios e funções. Equipes por projeto podem cobrir vários repositórios sem escrita global. Nunca envie segredos. Contas e automações precisam de análise.
+
+## Como dividir recompensas da equipe?
+
+A divisão é acordada antes da inscrição. Criação do repositório, contagem de commits ou autoria da última PR não determinam a divisão automaticamente.
+
+## E se faltarem recompensas dos sponsors?
+
+Turmas não financiadas não prometem benefícios. Turmas financiadas precisam de capacidade visível e reservas. Se uma opção acordada desaparecer, seguem-se as regras divulgadas de substituição e resolução.
+
+## Como minha empresa pode ser parceira?
+
+Leia [parcerias](partners.md) e fale com [partner@openroot.dev](mailto:partner@openroot.dev?subject=OpenRoot%20Developer%20Program%20partnership). [A página](https://openroot.dev/partners) prepara um rascunho localmente; nada chega antes de você enviar.
+
+Para dúvidas gerais, entre em contato pelo [hello@openroot.dev](mailto:hello@openroot.dev).

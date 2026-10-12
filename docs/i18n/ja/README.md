@@ -1,0 +1,46 @@
+# OpenRoot 開発者プログラム
+
+すでに開発しているプロジェクトで、報酬を受け取ろう。
+
+OpenRoot 開発者プログラムは、独立した開発者（**OpenRoot builders**）と、役立つソフトウェアを支援したいパートナーをつなぎます。Builders は OpenRoot の GitHub Organization 内で開発し、プロジェクトを成長させます。OpenRoot は刊行物と SNS でメンバーのプロジェクトを可能な限り紹介します。宣伝支援は完全に無料ですが、掲載、リーチ、成功は保証しません。パートナーは条件を満たしたプロジェクトにクレジット、サブスクリプション、開発ツールを提供します。
+
+自分のアイデアを持ち込めます。分野、プログラミング言語、リポジトリや文書の言語は問いません。英語以外も歓迎します。プロジェクトを主導し、自分のコードの権利を保持できます。非公開での開発期間も認められ、公開条件は参加前に合意します。Organization の所有者は、その配下のリポジトリへの管理権限を保持します。
+
+OpenRoot への参加は独占契約ではありません。イベントの規則やプロジェクトの権利を守りながら、ハッカソン、外部との共同開発、その他の活動に参加できます。
+
+## 現在の状況
+
+プログラムは**開始前の準備段階**で、創設パートナーを募集しています。[申請の審査受付を開始しています](https://openroot.dev/apply)。非公開ポータルと報酬請求はまだ利用できません。数値目標と最終的な提供条件は準備中です。OpenRoot が報告している初期特典は、DeepLearning.AI の1か月分（受け取りが確定するまで1件のみ）と、GPT、Claude、Gemini、Grok を利用できる、EUR 50-1,000 相当の AI モデル API クレジット（予算上限付きの第三者 API アクセスで提供）です。各キーに予算上限があり、API 特典の数量上限は公表していません。学習サービスの正確な製品、配布許可、有効期限、受取人の条件は確認が必要です。OpenAI/Anthropic/Google/xAI の公式スポンサーシップではなく、全員への報酬保証でもありません。有料サブスクリプションや開発ツールを含む、より幅広い特典を近日予定しています。具体的な製品や日付は約束しません。[報酬の詳細](rewards.md)をご覧ください。
+
+このリポジトリは公開文書の拠点です。仕組み、FAQ、パートナー募集を掲載します。非公開ポータルや申請者情報は含みません。
+
+## 文書
+
+- [仕組み](how-it-works.md)
+- [Builder として参加](builders.md)
+- [マイルストーンと報酬](rewards.md)
+- [Builder 紹介プログラム](referrals.md)
+- [パートナーとスポンサー](partners.md)
+- [よくある質問](faq.md)
+
+## 言語
+
+[English](../../../README.md) | [简体中文](../zh-CN/README.md) | [Português (Brasil)](../pt-BR/README.md) | [Español](../es/README.md) | [Français](../fr/README.md) | [日本語](README.md)
+
+7つの公開文書をこれらの言語で維持します。英語が編集上の原文であり、変更公開前に翻訳も更新します。翻訳は理解を助けるもので、別個の参加契約ではありません。
+
+## リポジトリとライセンス
+
+公式文書リポジトリ：https://github.com/OpenRootdev/developer-program。
+
+文書ガイドは [Creative Commons Attribution 4.0 International（CC BY 4.0）](https://github.com/OpenRootdev/developer-program/blob/main/LICENSE) です。再利用時は OpenRoot / Kristofer Jussmann を表示してください。scripts/ の保守スクリプトは [MIT License](https://github.com/OpenRootdev/developer-program/blob/main/scripts/LICENSE) です。対象はこの文書パックで、builders 自身のプロジェクトや第三者商標には適用せず、プログラムや参加条件を置き換えません。
+
+## 開発を続けるための支援
+
+AI・クラウドクレジット、有料ツール、その他の実用的な特典を提供するパートナーを歓迎します。規模を限定した試行から始め、実際の成果があるプロジェクトを支援しましょう。
+
+[パートナーになる](https://openroot.dev/partners)、または **partner@openroot.dev** に連絡してください。フォームは端末内でメール下書きを作り、サーバーには送信しません。
+
+一般的なお問い合わせは [hello@openroot.dev](mailto:hello@openroot.dev) へお願いします。
+
+[リポジトリの issues](https://github.com/OpenRootdev/developer-program/issues) で訂正や質問を歓迎します。申請者の個人情報、セキュリティ報告、認証情報、報酬コードは公開しないでください。

@@ -1,0 +1,155 @@
+{
+  "revision": "2026-10-12",
+  "review": "Authoring comparison complete; independent native-speaker review pending.",
+  "sources": {
+    "README.md": "5d5fc2c7e8b42f39d4b756e957236a96c09117fe286352488f058b3fce80e3f8",
+    "docs/builders.md": "c240029fd0af060f5ee25a20fb676fa835c9702f2957a9962aaab3f6e2e390ce",
+    "docs/how-it-works.md": "86218ebc16e36ff4c8565344851741e05d4954aa4eccaa1a0816082f4a22de46",
+    "docs/rewards.md": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
+    "docs/referrals.md": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
+    "docs/partners.md": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
+    "docs/faq.md": "74f2f593a9484337ebf25705c06e3ca76157cfdc94633d02946f1502726a2031"
+  },
+  "translations": {
+    "docs/i18n/zh-CN/README.md": {
+      "source": "5d5fc2c7e8b42f39d4b756e957236a96c09117fe286352488f058b3fce80e3f8",
+      "text": "8d5ffba25d4801f6c27e5a0f4ce79d9e2ed46a3bd22f053e9d3f70d12e0befa3"
+    },
+    "docs/i18n/pt-BR/README.md": {
+      "source": "5d5fc2c7e8b42f39d4b756e957236a96c09117fe286352488f058b3fce80e3f8",
+      "text": "52ca727cc105c9430925775b92240537206b54fd63c8f20105d49517611f9600"
+    },
+    "docs/i18n/es/README.md": {
+      "source": "5d5fc2c7e8b42f39d4b756e957236a96c09117fe286352488f058b3fce80e3f8",
+      "text": "a8d724efa78c2f7db72bc08133dfd84d74fa86743c03c458ce2eabb859f27954"
+    },
+    "docs/i18n/fr/README.md": {
+      "source": "5d5fc2c7e8b42f39d4b756e957236a96c09117fe286352488f058b3fce80e3f8",
+      "text": "eba9331e6334d79dbaecd41d2483c40ecf49fdc111fbb8a867db5d146b91fb7a"
+    },
+    "docs/i18n/ja/README.md": {
+      "source": "5d5fc2c7e8b42f39d4b756e957236a96c09117fe286352488f058b3fce80e3f8",
+      "text": "5f1f7de7d6d0637c62c485bccb3e350f0994bdfbd6c660735929ce108124c11d"
+    },
+    "docs/i18n/zh-CN/builders.md": {
+      "source": "c240029fd0af060f5ee25a20fb676fa835c9702f2957a9962aaab3f6e2e390ce",
+      "text": "f2ea43bb26561bea54c1f1794e5bda3d7ee1b260676d39c5dd9c1f7bde0cc411"
+    },
+    "docs/i18n/pt-BR/builders.md": {
+      "source": "c240029fd0af060f5ee25a20fb676fa835c9702f2957a9962aaab3f6e2e390ce",
+      "text": "0d741afdb6348b18f583a9d1593ca7dce179fec7346085e5fe2fff2e6cbb0703"
+    },
+    "docs/i18n/es/builders.md": {
+      "source": "c240029fd0af060f5ee25a20fb676fa835c9702f2957a9962aaab3f6e2e390ce",
+      "text": "0944d0fa80bb99e031d8137003e3705102e2265962c762ec1db88c2deb5453f0"
+    },
+    "docs/i18n/fr/builders.md": {
+      "source": "c240029fd0af060f5ee25a20fb676fa835c9702f2957a9962aaab3f6e2e390ce",
+      "text": "a52d6909f953822e42631764ee97f49df3074bfa06606cedeabac7d833c7a887"
+    },
+    "docs/i18n/ja/builders.md": {
+      "source": "c240029fd0af060f5ee25a20fb676fa835c9702f2957a9962aaab3f6e2e390ce",
+      "text": "66fe94df73a1f00dee4dae8226cd746db8c8e0ee94762e3559657ecaa85b8534"
+    },
+    "docs/i18n/zh-CN/how-it-works.md": {
+      "source": "86218ebc16e36ff4c8565344851741e05d4954aa4eccaa1a0816082f4a22de46",
+      "text": "8eab22f4b471aae899627dce6ea443c594ec072a99e0815d85f62c12a0fd7078"
+    },
+    "docs/i18n/pt-BR/how-it-works.md": {
+      "source": "86218ebc16e36ff4c8565344851741e05d4954aa4eccaa1a0816082f4a22de46",
+      "text": "8b22d6795b305e8242d14cb249531f16f1047cdf2a26a7d9d40b3424724b913b"
+    },
+    "docs/i18n/es/how-it-works.md": {
+      "source": "86218ebc16e36ff4c8565344851741e05d4954aa4eccaa1a0816082f4a22de46",
+      "text": "e5e750b9165fa0a4f71565a89b8f990fa7b6075f911c5842d17c9910fe93bdf2"
+    },
+    "docs/i18n/fr/how-it-works.md": {
+      "source": "86218ebc16e36ff4c8565344851741e05d4954aa4eccaa1a0816082f4a22de46",
+      "text": "503ffba5a3e1d0229635eeaf11f2dd56febf7f08d81cdcb6fcc5f8bd1520ce3c"
+    },
+    "docs/i18n/ja/how-it-works.md": {
+      "source": "86218ebc16e36ff4c8565344851741e05d4954aa4eccaa1a0816082f4a22de46",
+      "text": "a9e346ba2e701bfb9ef17763435bc365db5331eb3d8efa0798ce4b9ddf0673d1"
+    },
+    "docs/i18n/zh-CN/rewards.md": {
+      "source": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
+      "text": "5c32382f40ffcadc85d28c81424941ec04f5c040463d15fb278816241d4be2fe"
+    },
+    "docs/i18n/pt-BR/rewards.md": {
+      "source": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
+      "text": "858a24f1c393c553c14949697e7528ecaf699494739b6b6a9a28a7e4d97a2585"
+    },
+    "docs/i18n/es/rewards.md": {
+      "source": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
+      "text": "d20b6cbb1cf9bdc119a397faf9047760d990c59764e36ad878d5ee94084373da"
+    },
+    "docs/i18n/fr/rewards.md": {
+      "source": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
+      "text": "4258ef8ebc8bf8fa71d0423cdae79b1f3a1c38869f9091eb1ed8b12ade78de22"
+    },
+    "docs/i18n/ja/rewards.md": {
+      "source": "872fea212efe261493874db4f6e2a416837ee9a2b0c9ba1e53d11845be26ad2f",
+      "text": "345ab52bc7fc2d899ec20ae7c1f41d77a0b6b7d3f16a9c14a942b8a6e40c7c71"
+    },
+    "docs/i18n/zh-CN/referrals.md": {
+      "source": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
+      "text": "84acec4fbedc00f9a1279e497ab74ec5eb75a59f6bb39b091120f4c78f3d7f34"
+    },
+    "docs/i18n/pt-BR/referrals.md": {
+      "source": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
+      "text": "758522b42b648090d49766147141cc4796de898e31182d15517762f1a43d7d80"
+    },
+    "docs/i18n/es/referrals.md": {
+      "source": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
+      "text": "8f3b8db49e75e6d72be190a49e9451559cb71dbd24e67277a3844b6f33796639"
+    },
+    "docs/i18n/fr/referrals.md": {
+      "source": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
+      "text": "2c61740accc928209d2bf6f42b176b5502a46b37fa3d6870741da6461c650ad2"
+    },
+    "docs/i18n/ja/referrals.md": {
+      "source": "7c93de96dc4bd9f0d457bbf140a4ca0e72d7eeb6c69e81e9e7813137ae068d90",
+      "text": "0df86c21e95ff4fafb9bbbd963072a5e04c125f86b6c7af5ae7949473fe2d6b9"
+    },
+    "docs/i18n/zh-CN/partners.md": {
+      "source": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
+      "text": "301c132384e83d2cae4bbce09384992f09410ed9c824a32710220501b1ef9b15"
+    },
+    "docs/i18n/pt-BR/partners.md": {
+      "source": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
+      "text": "afe95094373b078990a345c5b939063de8da0ee0b8a38e9328c4b1675dd03eb3"
+    },
+    "docs/i18n/es/partners.md": {
+      "source": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
+      "text": "9b6cdf39ac980d8eb9c9a8bd11065485087181c444b636652a9e3138906e639d"
+    },
+    "docs/i18n/fr/partners.md": {
+      "source": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
+      "text": "680247cda4c1f22f5a7c0c42ace25f0dd9cd482fe7b7a391f46f92c1c3fe45fc"
+    },
+    "docs/i18n/ja/partners.md": {
+      "source": "8b4911bb1f037a20840fe3705a69316ee4a1aa5e3cd6039f32c20716146c59fc",
+      "text": "66510cc4c1a51e688eb9e12927878fb08f0d830617d6da173039cb9c25901afc"
+    },
+    "docs/i18n/zh-CN/faq.md": {
+      "source": "74f2f593a9484337ebf25705c06e3ca76157cfdc94633d02946f1502726a2031",
+      "text": "f2fe3f027e44c2bc93fd8defa6666b575c2644e335048695a5d6e1db8c2d59a4"
+    },
+    "docs/i18n/pt-BR/faq.md": {
+      "source": "74f2f593a9484337ebf25705c06e3ca76157cfdc94633d02946f1502726a2031",
+      "text": "1c9a4dfa1ae07b5fb7a0a496e85b33f7c8d54a2b11f073731213f12d8a595a61"
+    },
+    "docs/i18n/es/faq.md": {
+      "source": "74f2f593a9484337ebf25705c06e3ca76157cfdc94633d02946f1502726a2031",
+      "text": "6df9a7e34570436752ce8a93a6bb74fb688c4662e0d6a91e15fb838054873f25"
+    },
+    "docs/i18n/fr/faq.md": {
+      "source": "74f2f593a9484337ebf25705c06e3ca76157cfdc94633d02946f1502726a2031",
+      "text": "b8de9080bfe6b7ea20269c537c377038d4a15bee8ae709e37fb85a828e82b385"
+    },
+    "docs/i18n/ja/faq.md": {
+      "source": "74f2f593a9484337ebf25705c06e3ca76157cfdc94633d02946f1502726a2031",
+      "text": "49ce5d41e87fcd29d217a18adaa97dd47a411bb7414471094c253ec6290c80c1"
+    }
+  }
+}
