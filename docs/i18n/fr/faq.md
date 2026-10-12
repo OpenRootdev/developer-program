@@ -66,7 +66,7 @@ La politique envisagée vous laisse les droits sur votre code et la direction du
 
 ## Puis-je proposer un dépôt existant ?
 
-Oui, après ouverture. Fournissez URL, autorité de transfert et preuves d'adoption datées. Ne transférez pas avant examen. Les utilisateurs, téléchargements et étoiles peuvent soutenir le dossier sans garantir adhésion ou récompense. La prise en compte du passé doit figurer dans les règles de référence convenues.
+Oui. Les candidatures sont ouvertes pour examen manuel. Fournissez l'URL originale, votre autorité pour transférer ou copier et des preuves datées. Le passé ne compte que si les règles de référence du groupe approuvé l'autorisent. Si vous postulez avec un projet existant, le projet accepté doit être hébergé sous **OpenRootdev** : transférez l'original après examen ou créez un dépôt vide dans l'organisation et copiez le code avec Git. Ne migrez pas avant l'approbation du projet et de la migration. Copier le code ne copie pas les étoiles, issues ou autres données GitHub. L'adoption passée et les récompenses sont examinées séparément. [Lire les étapes pour les builders](builders.md).
 
 ## Comptes supplémentaires et équipes ?
 

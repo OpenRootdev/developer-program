@@ -73,3 +73,32 @@ El [programa previsto](referrals.md) reconoce a builders aprobados que alcancen 
 ## Privacidad de la cuenta pendiente en el portal
 
 Una aprobación revisada crea una cuenta pendiente con correo, usuario GitHub y estado de incorporación. Conserva la fecha original de caducidad de la solicitud, sin ampliar los 90 días de conservación. El acceso utiliza una cookie segura y necesaria de sesión del navegador, que caduca a las ocho horas. Los desafíos de código por correo caducan a los diez minutos; el servicio guarda hashes, no códigos en texto plano. Google Cloud procesa los registros privados de cuenta y revisión; Resend procesa los correos transaccionales de acceso y aprobación. Solo administradores autorizados revisan solicitudes; los builders acceden únicamente a su propia información del portal. No se crea una suscripción a la newsletter, seguimiento publicitario ni invitación GitHub automática. La inscripción completa y la conservación de perfiles activos requieren condiciones separadas. Acceso, corrección o eliminación: hello@openroot.dev.
+
+## Proyecto existente: paso a paso
+
+**Un proyecto existente aceptado debe alojarse en OpenRootdev.** Tras la revisión, transfiere el repositorio original o copia su código a uno nuevo de la organización. Un enlace a un repositorio externo no basta. Para proyectos existentes, estos pasos sustituyen la creación de un proyecto nuevo indicada arriba.
+
+**Antes de ambas opciones:** envía la URL original, confirma tu autoridad y los derechos de colaboradores/licencia, acuerda la migración con OpenRoot y acepta la invitación. Haz una copia de seguridad y revisa secretos, integraciones y costes de Actions antes de mover o subir código. Si la aprobación o los permisos no están claros, contacta con hello@openroot.dev.
+
+### Opción A: transferir el repositorio original
+
+Recomendada para conservar estrellas, issues, pull requests e historial Git.
+
+- **1.** Abre el repositorio original en GitHub y ve a **Settings → General → Danger Zone → Transfer**. Necesitas Admin del repositorio y permiso para crear repositorios en OpenRootdev; salir de otra organización puede requerir a su propietario.
+- **2.** Establece **OpenRootdev** como nuevo propietario. Comprueba que el nombre esté libre, lee los avisos de GitHub (los repositorios privados pueden perder funciones de planes de pago en GitHub Free), escribe el nombre y confirma.
+- **3.** Verifica que la URL empiece por `https://github.com/OpenRootdev/`. Pide a OpenRoot que compruebe tu Admin del repositorio y los accesos del equipo; los propietarios de la organización conservan acceso administrativo.
+- **4.** En cada clon local existente ejecuta `git remote set-url origin https://github.com/OpenRootdev/YOUR-REPOSITORY.git`. Revisa integraciones, despliegues, Pages, secretos y workflows antes de continuar. No recrees la ruta antigua, porque puede romper las redirecciones.
+
+### Opción B: copiar el código a un nuevo repositorio de la organización
+
+Úsala para mantener el original donde está y desarrollar la copia aprobada en OpenRootdev.
+
+- **1.** Abre [New repository](https://github.com/new?owner=OpenRootdev). Verifica **Owner = OpenRootdev**, el nombre acordado y la visibilidad pública/privada. **No inicialices** README, licencia ni .gitignore; crea un repositorio vacío.
+- **2.** En la terminal, sustituye los nombres de ejemplo y usa una carpeta local nueva: `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git openroot-project`, después `cd openroot-project`.
+- **3.** Añade el destino sin cambiar el remote original: `git remote add openroot https://github.com/OpenRootdev/YOUR-REPOSITORY.git`.
+- **4.** Sube la rama actual: `git push openroot HEAD:main`. Comprueba los archivos en el repositorio de la organización. Para futuras actualizaciones, sube a `openroot`, no al `origin` original. Si el destino no está vacío o se rechaza el push, detente y pide ayuda; no fuerces el push.
+- **5.** Se copia el historial de commits alcanzable de la rama elegida, **no estrellas, issues, pull requests, releases, ajustes ni todas las ramas/etiquetas**. Los objetos Git LFS y submódulos requieren tratamiento aparte; pide ayuda. Conserva los archivos de licencia/atribución y no copies secretos.
+
+Envía a OpenRoot la URL final de la organización para asociarla al proyecto revisado. La adopción previa y las recompensas requieren una base acordada y aprobación separada; no cuentes dos veces los datos de las copias. No elimines el original solo para participar. Conservas los derechos de tu código; alojarlo en la organización no elimina el acceso administrativo de sus propietarios.
+
+Referencias oficiales: [transferencia](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [nuevo repositorio](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).

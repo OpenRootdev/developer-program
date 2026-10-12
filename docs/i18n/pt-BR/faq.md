@@ -66,7 +66,7 @@ A política pretendida mantém seus direitos sobre código próprio e liderança
 
 ## Posso propor repositório existente?
 
-Sim, quando candidaturas abrirem. Envie URL, autoridade para transferir e evidências datadas de adoção. Não transfira primeiro. Usuários, downloads e estrelas ajudam na análise, mas não garantem participação ou recompensas. O uso de resultados anteriores deve estar explícito na referência aprovada.
+Sim. As candidaturas estão abertas para análise manual. Envie a URL original, sua autoridade para transferir ou copiar e evidências datadas. Resultados anteriores só contam se a referência do grupo aprovado permitir. Se você se candidatar com um projeto existente, o projeto aceito deve ser hospedado em **OpenRootdev**: transfira o original após análise ou crie um repositório vazio na organização e copie o código com Git. Não migre antes da aprovação do projeto e da migração. Copiar código não copia estrelas, issues ou outros dados do GitHub. Adoção anterior e recompensas são analisadas separadamente. [Leia as instruções passo a passo](builders.md).
 
 ## Contas extras ou equipes?
 

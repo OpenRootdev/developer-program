@@ -50,3 +50,7 @@ OpenRoot 开发者计划连接独立开发者（称为 **OpenRoot builders**）�
 OpenRoot 是用于开发与协作的沙盒，不是付款请求。我们绝不会要求你发送密码、登录或恢复验证码、访问令牌、API 密钥、付款信息，也不会收取加入或解锁奖励的费用。申请需要邮箱和准确的 GitHub 用户名；登录验证码只能输入官方门户，不要发送给任何人。你可以在自己仓库的权限范围内邀请协作者并配置仓库级应用；部分组织级操作需要管理员协助。不要在仓库、申请或消息中存放秘密凭据。组织托管不意味着可以无限免费使用付费服务。
 
 问题请联系 [hello@openroot.dev](mailto:hello@openroot.dev)。[在 LinkedIn 关注 OpenRoot 或发送私信](https://www.linkedin.com/company/openroot-dev/)。接受 GitHub 邀请后，请阅读[仅供成员访问的快速入门](https://github.com/OpenRootdev/GET-STARTED-README)。
+
+## 已有项目须托管在组织内
+
+若以已有项目申请，获批项目必须托管在 **OpenRootdev**：审核后转移原仓库，或创建空的组织仓库并用 Git 复制代码。项目与迁移获批前不要迁移。复制代码不会复制星标、议题或其他 GitHub 项目数据。已有采用数据和奖励单独审核。[阅读分步操作指南](builders.md)。

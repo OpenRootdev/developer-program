@@ -73,3 +73,32 @@ GitHub のチームとリポジトリロールで共同作業の範囲を限定�
 ## 未完了ポータルアカウントのプライバシー
 
 審査による承認後、メールアドレス、GitHub ユーザー名、参加手続きの状態を含む未完了のポータルアカウントを作成します。申請時の有効期限を引き継ぎ、90日間の保存期間は延長しません。ログインには必要な安全なブラウザーセッション Cookie を使用し、8時間後に期限切れになります。メールコードの認証要求は10分後に期限切れとなり、サービスは平文コードではなくハッシュを保存します。Google Cloud は非公開のアカウント・審査記録を処理し、Resend はログイン・承認のトランザクションメールを処理します。申請を審査できるのは許可された管理者だけで、builders は自分のポータル情報だけにアクセスできます。ニュースレター登録、広告追跡、GitHub の自動招待は行いません。正式参加と有効なプロフィールの保存には別の条件が必要です。開示、訂正、削除については hello@openroot.dev にご連絡ください。
+
+## 既存プロジェクト：手順
+
+**承認された既存プロジェクトは OpenRootdev 内でホストする必要があります。** プロジェクト審査後、元のリポジトリを移管するか、新しい組織リポジトリにコードをコピーします。組織外のリポジトリのリンクだけでは不十分です。既存プロジェクトでは、上の新規作成手順の代わりに以下を使ってください。
+
+**どちらの方法でも事前に：** 元の URL を提出し、移管・コピー権限と貢献者/ライセンスの権利を確認し、OpenRoot と移行方法を合意して組織招待を受諾します。バックアップし、移管や push 前にシークレット、連携、Actions の料金を確認してください。承認や権限が不明なら hello@openroot.dev へ。
+
+### 方法 A：元のリポジトリを移管
+
+スター、issue、pull request、Git 履歴を保ちたい場合に推奨します。
+
+- **1.** GitHub で元のリポジトリを開き、**Settings → General → Danger Zone → Transfer** へ進みます。リポジトリ Admin と OpenRootdev での作成権限が必要です。他の組織からの移管にはその所有者の対応が必要な場合があります。
+- **2.** 新しい所有者を **OpenRootdev** に設定します。名前が空いていることと GitHub の警告（非公開リポジトリは GitHub Free で有料機能を失う場合があります）を確認し、リポジトリ名を入力して確定します。
+- **3.** URL が `https://github.com/OpenRootdev/` で始まることを確認します。リポジトリ単位の Admin とチームアクセスを OpenRoot に確認してもらってください。組織所有者の管理権限は残ります。
+- **4.** 既存の各ローカルクローンで `git remote set-url origin https://github.com/OpenRootdev/YOUR-REPOSITORY.git` を実行します。作業再開前に連携、デプロイ、Pages、シークレット、workflow を確認してください。旧パスでリポジトリを再作成するとリダイレクトが壊れる場合があります。
+
+### 方法 B：新しい組織リポジトリにコードをコピー
+
+元のリポジトリをその場所に残し、承認されたコピーを OpenRootdev で開発したい場合に使います。
+
+- **1.** [New repository](https://github.com/new?owner=OpenRootdev) を開きます。**Owner = OpenRootdev**、合意した名前、公開/非公開を確認します。README、license、.gitignore は**初期化せず**、空のリポジトリを作ります。
+- **2.** ターミナルで例の名前を置き換え、新しいローカルフォルダーを使います：`git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git openroot-project`、続けて `cd openroot-project`。
+- **3.** 元の remote を変えずに宛先を追加します：`git remote add openroot https://github.com/OpenRootdev/YOUR-REPOSITORY.git`。
+- **4.** 現在のブランチを push します：`git push openroot HEAD:main`。組織リポジトリにファイルがあることを確認します。以後は元の `origin` ではなく `openroot` に push してください。宛先が空でない、または拒否された場合は停止して相談し、強制 push しないでください。
+- **5.** コピーされるのは選択したブランチから到達できるコミット履歴です。**スター、issue、pull request、release、設定、全ブランチ/タグはコピーされません。** Git LFS オブジェクトとサブモジュールは別途対応が必要なので相談してください。ライセンス/帰属表示ファイルを保持し、シークレットをコピーしないでください。
+
+審査済みプロジェクトに関連付けるため、最終的な組織リポジトリ URL を OpenRoot に送ってください。既存の利用実績と報酬には合意した基準と別途承認が必要で、コピー間で重複計上しません。参加のためだけに元のリポジトリを削除する必要はありません。自分のコードの権利は保持しますが、組織所有者の管理アクセスはなくなりません。
+
+公式参考：[移管](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)、[新規リポジトリ](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)、[Git push](https://git-scm.com/docs/git-push)。

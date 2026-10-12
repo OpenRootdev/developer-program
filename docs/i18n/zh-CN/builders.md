@@ -73,3 +73,32 @@ GitHub 团队及仓库角色限制协作权限。你的项目访问权不等于�
 ## 待完成加入流程的门户隐私
 
 审核批准后会创建待完成加入流程的门户账号，包含邮箱、GitHub 用户名和加入状态。该账号沿用申请原定到期时间，不延长 90 天保留期限。登录使用必要的安全浏览器会话 Cookie，八小时后到期。邮件验证码请求十分钟后到期；服务保存验证码哈希值，不保存明文验证码。Google Cloud 处理私有账号及审核记录；Resend 处理事务性登录和批准邮件。只有获授权管理员可以审核申请，builders 只能访问自己的门户信息。不会自动订阅新闻邮件、进行广告追踪或发送 GitHub 邀请。完整加入流程和活跃资料保留需要另行约定。访问、更正或删除请求请联系 hello@openroot.dev。
+
+## 已有项目：分步操作
+
+**获批的已有项目必须托管在 OpenRootdev 下。** 项目审核后，可以转移原仓库，或将代码复制到新的组织仓库。仅提供组织外仓库的链接不够。已有项目应按以下步骤操作，而不是上面的新项目创建步骤。
+
+**两种方式都需先完成：** 提交原 URL，确认转移或复制权限及贡献者/许可权利，与 OpenRoot 约定迁移方式，并接受组织邀请。备份项目，在转移或推送前检查秘密、集成和 Actions 费用。审批或权限不明确时联系 hello@openroot.dev。
+
+### 方式 A：转移原仓库
+
+希望保留星标、议题、拉取请求和 Git 历史时，建议选择此方式。
+
+- **1.** 在 GitHub 打开原仓库，进入 **Settings → General → Danger Zone → Transfer**。你需要仓库 Admin 和在 OpenRootdev 创建仓库的权限；从其他组织转出可能需要该组织所有者参与。
+- **2.** 将新所有者设为 **OpenRootdev**。确认目标名称未被占用，阅读 GitHub 警告（私有仓库转入 GitHub Free 后可能失去付费计划功能），输入仓库名称并确认。
+- **3.** 确认仓库 URL 以 `https://github.com/OpenRootdev/` 开头。请 OpenRoot 核实你的仓库级 Admin 和团队权限；组织所有者仍有管理权。
+- **4.** 在每个已有本地克隆中运行 `git remote set-url origin https://github.com/OpenRootdev/YOUR-REPOSITORY.git`。恢复工作前检查集成、部署、Pages、秘密和工作流。不要重新创建旧仓库路径，以免破坏重定向。
+
+### 方式 B：将代码复制到新的组织仓库
+
+如果希望保留原仓库的位置，并在 OpenRootdev 维护获批项目的副本，可选择此方式。
+
+- **1.** 打开 [New repository](https://github.com/new?owner=OpenRootdev)。核实 **Owner = OpenRootdev**，选择约定名称及公开/私有可见性。**不要初始化** README、license 或 .gitignore；创建空仓库。
+- **2.** 在终端替换示例名称，使用新的本地文件夹：`git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git openroot-project`，然后 `cd openroot-project`。
+- **3.** 添加目标而不改变原远程：`git remote add openroot https://github.com/OpenRootdev/YOUR-REPOSITORY.git`。
+- **4.** 推送当前检出的分支：`git push openroot HEAD:main`。确认文件出现在组织仓库。后续更新推送到 `openroot`，而非原来的 `origin`。若目标不是空仓库或推送被拒绝，请停止并求助，不要强制推送。
+- **5.** 此操作复制所选分支可达的提交历史，**不复制星标、议题、拉取请求、发布记录、仓库设置或所有分支/标签**。Git LFS 对象和子模块需要单独处理，请求帮助。保留许可/署名文件，不要复制秘密。
+
+将最终组织仓库 URL 发给 OpenRoot，以关联审核过的项目。已有采用数据及奖励仍需约定基线和单独批准，副本之间不得重复计数。无需为参与计划删除原仓库。你保留自己代码的权利；组织托管不取消组织所有者的管理权。
+
+官方参考：[转移](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)、[新建仓库](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)、[Git push](https://git-scm.com/docs/git-push)。

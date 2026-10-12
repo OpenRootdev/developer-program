@@ -73,3 +73,32 @@ The planned [builder referral program](referrals.md) recognizes referrals of app
 ## Pending portal privacy
 
 A reviewed approval creates a pending portal account with your email, GitHub username and onboarding status. It keeps the original application expiry; it does not extend the 90-day retention window. Sign-in uses a necessary secure browser-session cookie that expires after eight hours. Email-code challenges expire after ten minutes; the service stores code hashes, not plaintext codes. Google Cloud processes private account and review records; Resend processes transactional sign-in and approval emails. Only authorized administrators can review applications, and builders can access only their own portal information. No newsletter subscription, advertising tracking or automatic GitHub invitation is created. Full enrollment and active-profile retention require separate terms. Ask hello@openroot.dev about access, correction or deletion.
+
+## Bringing an existing project: step by step
+
+**An accepted existing project must be hosted under OpenRootdev.** After project review, either transfer the original repository or copy its code into a new organization repository. A link to a repository outside the organization is not enough. These instructions replace the create-new-project step for existing projects.
+
+**Before either route:** submit the original URL, confirm your authority and contributor/license rights, agree the migration with OpenRoot, and accept your organization invitation. Back up the project and review secrets, integrations and Actions billing before moving or pushing anything. Contact hello@openroot.dev if approval or permissions are unclear.
+
+### Option A: Transfer the original repository
+
+Recommended when preserving stars, issues, pull requests and Git history matters.
+
+- **1.** Open the original repository on GitHub, then **Settings → General → Danger Zone → Transfer**. You need repository Admin and permission to create repositories in OpenRootdev; transfers out of another organization may need its owner.
+- **2.** Set the new owner to **OpenRootdev**. Check the destination name is free, read GitHub's warnings (private repositories may lose paid-plan features on GitHub Free), then type the repository name and confirm.
+- **3.** Check the repository URL now starts with `https://github.com/OpenRootdev/`. Ask OpenRoot to verify your repository-level Admin and the intended team access; organization owners retain administrative access.
+- **4.** In each existing local clone run `git remote set-url origin https://github.com/OpenRootdev/YOUR-REPOSITORY.git`. Check integrations, deployments, Pages, secrets and workflows before resuming work. Do not recreate the old repository path, as this can break redirects.
+
+### Option B: Copy the code into a new organization repository
+
+Use this if you want to keep the original repository where it is and maintain the approved project copy in OpenRootdev.
+
+- **1.** Open [New repository](https://github.com/new?owner=OpenRootdev). Verify **Owner = OpenRootdev**, choose the agreed name and public/private visibility. **Do not initialize** a README, license or .gitignore; create an empty repository.
+- **2.** In a terminal, replace the example names and use a new local folder: `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git openroot-project`, then `cd openroot-project`.
+- **3.** Add the destination without changing the original remote: `git remote add openroot https://github.com/OpenRootdev/YOUR-REPOSITORY.git`.
+- **4.** Push the checked-out branch: `git push openroot HEAD:main`. Confirm the files appear in the organization repository. For later updates, push to `openroot`, not the original `origin`. If the destination is not empty or a push is rejected, stop and ask for help; do not force-push.
+- **5.** This copies the selected branch's reachable commit history, **not stars, issues, pull requests, releases, repository settings or every branch/tag**. Git LFS objects and submodules need separate handling; ask for help. Retain license/attribution files, and do not copy secrets.
+
+Send OpenRoot the final organization repository URL to associate it with your reviewed project. Existing adoption and rewards still require an agreed baseline and separate approval; no double-counting across copies. Do not delete the original repository just to participate. You retain rights to your own code; hosting under an organization does not remove its owners' administrative access.
+
+Official references: [transfer](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).

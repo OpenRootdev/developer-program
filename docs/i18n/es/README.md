@@ -50,3 +50,7 @@ Las correcciones y preguntas son bienvenidas en las [issues del repositorio](htt
 OpenRoot es un sandbox para construir y colaborar, no una solicitud de pago. Nunca te pediremos que envíes contraseñas, códigos de acceso o recuperación, tokens, claves API, datos de pago ni una tarifa para unirte o desbloquear recompensas. La solicitud necesita tu correo y usuario GitHub exacto; introduce el código de acceso solo en el portal oficial, nunca lo envíes a una persona. Puedes invitar colaboradores y configurar aplicaciones limitadas a tu repositorio dentro de tus permisos; algunas acciones de la organización requieren a un propietario. No pongas secretos en repositorios, solicitudes o mensajes. Alojarse en la organización no significa usar servicios de pago gratis y sin límite.
 
 Preguntas: [hello@openroot.dev](mailto:hello@openroot.dev). [Sigue o escribe a OpenRoot en LinkedIn](https://www.linkedin.com/company/openroot-dev/). Tras aceptar la invitación GitHub, consulta la [guía rápida solo para miembros](https://github.com/OpenRootdev/GET-STARTED-README).
+
+## Los proyectos existentes se alojan en la organización
+
+Si solicitas participar con un proyecto existente, el proyecto aceptado debe alojarse en **OpenRootdev**: transfiere el original tras la revisión o crea un repositorio vacío en la organización y copia el código con Git. No migres antes de aprobarse el proyecto y la migración. Copiar código no copia estrellas, issues ni otros datos de GitHub. La adopción previa y las recompensas se revisan por separado. [Lee los pasos para builders](builders.md).

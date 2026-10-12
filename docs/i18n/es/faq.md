@@ -66,7 +66,7 @@ La política prevista mantiene tus derechos sobre el código y dirección. El re
 
 ## ¿Puedo proponer un repositorio existente?
 
-Sí, al abrir solicitudes. Envía URL, autoridad para transferir y pruebas fechadas. No transfieras primero. Usuarios, descargas y estrellas apoyan la evaluación sin garantizar pertenencia o beneficios. Debe acordarse expresamente si cuenta el éxito previo.
+Sí. Las solicitudes están abiertas para revisión manual. Envía la URL original, tu autoridad para transferir o copiar y pruebas fechadas. Los logros previos solo cuentan si lo permiten las reglas de referencia del grupo aprobado. Si solicitas participar con un proyecto existente, el proyecto aceptado debe alojarse en **OpenRootdev**: transfiere el original tras la revisión o crea un repositorio vacío en la organización y copia el código con Git. No migres antes de aprobarse el proyecto y la migración. Copiar código no copia estrellas, issues ni otros datos de GitHub. La adopción previa y las recompensas se revisan por separado. [Lee los pasos para builders](builders.md).
 
 ## ¿Cuentas extra o equipos?
 

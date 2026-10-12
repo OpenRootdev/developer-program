@@ -68,7 +68,7 @@ The intended policy is that you retain ownership of your own code and lead your 
 
 ## Can I propose an existing repository?
 
-Yes, once applications open. Submit its URL, transfer authority and dated adoption evidence. Do not transfer it first. Existing users, downloads or stars can support review, but do not automatically earn membership or rewards. Whether earlier achievements count must be explicit in the approved cohort's baseline rules.
+Yes. Applications are open for manual review. Submit the original URL, your authority to transfer or copy, and dated adoption evidence. Prior achievements count only if the approved cohort's baseline rules allow them. If you apply with an existing project, the accepted project must be hosted under **OpenRootdev**: transfer the original repository after review, or create an empty organization repository and copy the code there with Git. Do not migrate before the project and migration are approved. Copying code does not copy stars, issues or other GitHub project data. Existing adoption and rewards are reviewed separately. [Read the step-by-step builder instructions](builders.md).
 
 ## Can I request additional accounts or project teams?
 
