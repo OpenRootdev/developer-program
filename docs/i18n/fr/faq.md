@@ -32,6 +32,8 @@ Un [parrainage fondé sur les jalons](referrals.md) est prévu. Le builder parra
 
 OpenRoot aide à promouvoir les projets membres dans sa publication et ses réseaux, entièrement gratuitement et autant que possible. Les builders gèrent la promotion plus large et la croissance. Couverture, trafic et succès ne sont pas garantis.
 
+La promotion ne se limite pas à une seule publication. Les projets peuvent être présentés plusieurs fois dans la newsletter et sur les réseaux sociaux, sous forme de mises en avant, de présentations et d’articles approfondis. Les builders peuvent envoyer leurs versions, mises à jour importantes et témoignages d’utilisateurs à hello@openroot.dev pour examen éditorial. Ce soutien est entièrement gratuit et n’exige pas de gagner ou d’échanger une récompense. Le calendrier et le format dépendent de la pertinence éditoriale et des capacités disponibles ; OpenRoot ne garantit ni nouvelles publications, ni portée, ni résultats.
+
 ## Puis-je participer à des hackathons ?
 
 Oui, ainsi qu'à des collaborations et activités extérieures. La participation OpenRoot n'est pas exclusive. Respectez les règles de l'événement et les droits du projet et des contributeurs.

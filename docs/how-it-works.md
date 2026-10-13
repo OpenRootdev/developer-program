@@ -14,6 +14,8 @@ Approval creates a pending portal account and sends an email with instructions. 
 
 Create an approved project under the OpenRoot GitHub organization and agree its success track. Developers manage development, maintenance, and wider marketing. OpenRoot helps promote member projects through its publication and social channels, completely free of charge and as much as it can, without guaranteeing coverage, traffic or adoption. Your project can also participate in hackathons and outside activities.
 
+Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
+
 ## Show progress
 
 The planned portal will combine associated repositories, contributions, releases, and milestone evidence. Metrics will identify their source and measurement period. Users and package downloads require evidence beyond GitHub alone.

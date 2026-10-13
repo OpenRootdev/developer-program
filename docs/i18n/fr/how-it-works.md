@@ -14,6 +14,8 @@ L’approbation crée un compte en attente dans le portail et envoie un e-mail d
 
 Créez un projet approuvé dans l'organisation GitHub OpenRoot et convenez de son parcours de réussite. Vous gérez le développement, la maintenance et la promotion plus large. OpenRoot aide à promouvoir les projets membres dans sa publication et ses réseaux, entièrement gratuitement et autant que possible, sans garantir couverture, trafic ou adoption. Votre projet peut aussi participer à des hackathons et activités extérieures.
 
+La promotion ne se limite pas à une seule publication. Les projets peuvent être présentés plusieurs fois dans la newsletter et sur les réseaux sociaux, sous forme de mises en avant, de présentations et d’articles approfondis. Les builders peuvent envoyer leurs versions, mises à jour importantes et témoignages d’utilisateurs à hello@openroot.dev pour examen éditorial. Ce soutien est entièrement gratuit et n’exige pas de gagner ou d’échanger une récompense. Le calendrier et le format dépendent de la pertinence éditoriale et des capacités disponibles ; OpenRoot ne garantit ni nouvelles publications, ni portée, ni résultats.
+
 ## Montrer les progrès
 
 Le portail prévu réunit dépôts associés, contributions, versions et preuves des jalons. Chaque métrique indique sa source et sa période. Les utilisateurs et téléchargements de paquets exigent d'autres sources que GitHub.

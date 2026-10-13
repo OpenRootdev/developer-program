@@ -34,6 +34,8 @@ A milestone-based [builder referral program](referrals.md) is planned. The refer
 
 OpenRoot helps promote member projects through its publication and social channels, completely free of charge and as much as it can. Builders manage wider marketing and growth. Coverage, traffic and project success are not guaranteed.
 
+Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
+
 ## Can I enter hackathons with my project?
 
 Yes. You may participate in hackathons, outside collaborations and other activities. OpenRoot participation is not exclusive. Respect the event's own rules and any project/contributor rights.

@@ -44,6 +44,8 @@ Une candidature ne vous abonne pas à la newsletter. Contactez hello@openroot.de
 
 Les builders développent, attirent des utilisateurs, maintiennent leurs projets et fournissent les preuves des jalons. OpenRoot aide à les promouvoir dans sa publication et sur ses réseaux, entièrement gratuitement et autant que possible. OpenRoot ne gère pas toutes les campagnes et ne garantit ni couverture, portée, avis favorable ou succès.
 
+La promotion ne se limite pas à une seule publication. Les projets peuvent être présentés plusieurs fois dans la newsletter et sur les réseaux sociaux, sous forme de mises en avant, de présentations et d’articles approfondis. Les builders peuvent envoyer leurs versions, mises à jour importantes et témoignages d’utilisateurs à hello@openroot.dev pour examen éditorial. Ce soutien est entièrement gratuit et n’exige pas de gagner ou d’échanger une récompense. Le calendrier et le format dépendent de la pertinence éditoriale et des capacités disponibles ; OpenRoot ne garantit ni nouvelles publications, ni portée, ni résultats.
+
 La participation n'est pas exclusive. Vous pouvez participer à des hackathons, collaborer ailleurs et exercer d'autres activités. Vérifiez les règles de l'événement et les obligations de licence ou des contributeurs ; rejoindre OpenRoot n'impose pas d'y renoncer.
 
 Les équipes GitHub et rôles de dépôt limitent les accès au projet. L'accès à votre projet ne confère pas l'administration de toute l'organisation. Le futur portail affiche les dépôts associés, y compris les projets collectifs ; leur créateur n'est pas nécessairement le seul contributeur ni le seul bénéficiaire.

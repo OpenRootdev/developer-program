@@ -14,6 +14,8 @@ La aprobación crea una cuenta pendiente en el portal y envía un correo con ins
 
 Crea un proyecto aprobado dentro de OpenRoot y acuerda su vía de éxito. Gestionas desarrollo, mantenimiento y marketing general. OpenRoot ayuda a promocionar los proyectos miembros en su publicación y redes, totalmente gratis y tanto como pueda, sin garantizar cobertura, tráfico o adopción. Puedes participar en hackathons y actividades externas.
 
+La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
+
 ## Mostrar avances
 
 El portal previsto reúne repositorios asociados, contribuciones, versiones y pruebas. Las métricas indican fuente y periodo. Usuarios y descargas de paquetes requieren fuentes aparte de GitHub.

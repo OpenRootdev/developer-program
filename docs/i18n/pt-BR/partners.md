@@ -20,6 +20,8 @@ Um piloto acordado pode incluir reconhecimento transparente, cobertura pertinent
 
 Divulgação dos projetos membros pela OpenRoot é totalmente gratuita, com esforço conforme a capacidade. Participação não impede hackathons ou outras atividades.
 
+A divulgação não se limita a uma única publicação. Os projetos podem aparecer várias vezes na newsletter e nas redes sociais, com destaques, apresentações e artigos aprofundados. Builders podem enviar lançamentos, atualizações relevantes e histórias de usuários para hello@openroot.dev para avaliação editorial. Esse apoio é totalmente gratuito e não exige ganhar ou resgatar uma recompensa. O momento e o formato dependem da adequação editorial e da capacidade disponível; a OpenRoot não garante novas divulgações, alcance ou resultados.
+
 Não prometemos tamanho de audiência, conversões, cobertura favorável, exclusividade ou acesso aos e-mails dos candidatos. Reconhecimento público exige permissão. Apoio não compra controle das decisões sobre resultados.
 
 ## Comece com um compromisso pequeno

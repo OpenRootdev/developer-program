@@ -20,6 +20,8 @@ An agreed pilot can include transparent partner acknowledgment, publication/soci
 
 Member-project promotion through OpenRoot's publication and socials is completely free of charge, on a best-effort basis. Participation does not prevent builders from entering hackathons or other activities.
 
+Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
+
 We do not promise an audience size, guaranteed customer conversions, favorable editorial coverage, exclusivity, or access to applicant emails. Public acknowledgment requires permission. Sponsor support does not purchase control of the program's success decisions.
 
 ## Make a small first commitment

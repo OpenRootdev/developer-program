@@ -33,6 +33,8 @@
 
 里程碑和领取申请获批后，builders 可从项目或批次中合格且可用的权益选择。额度、模型和条款按具体权益确认；EUR 50-1,000 并不意味着每位 builder 自动获得最高额度。尽力且完全免费的项目宣传是独立的成员权益，不需要消耗奖励。
 
+项目宣传不局限于一次介绍。项目可以通过项目亮点、成果展示和深度文章，在通讯和社交媒体中多次获得介绍。Builders 可以将新版本、重要更新和用户故事发送至 hello@openroot.dev，供编辑评估。这项支持完全免费，无需先获得或兑换奖励。发布时间和形式取决于编辑适配性和可用资源；OpenRoot 不保证重复报道、传播范围或结果。
+
 Hermes、OpenClaw 和 OpenCode 支持自定义供应商或 OpenAI 兼容端点，但尚未使用这些客户端测试实际奖励网关。Cursor 的自备密钥聊天功能须验证客户端、模型和网关；这些额度不包含 Cursor 订阅或 Tab。Codex 要求网关支持 Responses API、流式传输及工具调用对话。Claude Code 要求支持的网关 API 格式，例如 Anthropic Messages。仅兼容 OpenAI Chat Completions 并不能证明兼容 Codex 或 Claude Code。兑换前须确认端点、模型 ID、客户端限制及领取者隐私条款。
 
 参阅 [Codex 网关要求](https://learn.chatgpt.com/docs/enterprise/gateway-compatibility) 和 [Claude Code 网关要求](https://code.claude.com/docs/en/llm-gateway-protocol)。本草案不承诺端到端客户端兼容性。

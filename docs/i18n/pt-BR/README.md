@@ -4,6 +4,8 @@ Receba recompensas pelos projetos que você já está construindo.
 
 O Programa de Desenvolvedores OpenRoot conecta desenvolvedores independentes, chamados **OpenRoot builders**, a parceiros interessados em apoiar software útil. Os builders desenvolvem e fazem seus projetos crescerem dentro da **organização GitHub OpenRoot**. A OpenRoot ajuda a divulgar os projetos dos membros em sua publicação e redes sociais, **totalmente de graça** e na medida do possível. Não há garantia de cobertura, alcance ou sucesso. Parceiros fornecem créditos, assinaturas e ferramentas para projetos qualificados.
 
+A divulgação não se limita a uma única publicação. Os projetos podem aparecer várias vezes na newsletter e nas redes sociais, com destaques, apresentações e artigos aprofundados. Builders podem enviar lançamentos, atualizações relevantes e histórias de usuários para hello@openroot.dev para avaliação editorial. Esse apoio é totalmente gratuito e não exige ganhar ou resgatar uma recompensa. O momento e o formato dependem da adequação editorial e da capacidade disponível; a OpenRoot não garante novas divulgações, alcance ou resultados.
+
 Traga suas próprias ideias em qualquer categoria, linguagem de programação ou idioma de repositório/documentação, inclusive idiomas diferentes do inglês. Você dirige o projeto e mantém os direitos sobre seu código. Uma fase de desenvolvimento privado é bem-vinda; eventuais condições de publicação são combinadas antes da inscrição. Os proprietários da organização mantêm acesso administrativo aos repositórios hospedados nela.
 
 Seu projeto não é exclusivo da OpenRoot. Você pode participar de hackathons, colaborar em outros lugares e realizar outras atividades, respeitando as regras dessas atividades e os direitos do projeto.

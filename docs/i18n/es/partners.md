@@ -20,6 +20,8 @@ Un piloto acordado puede incluir reconocimiento transparente, cobertura relevant
 
 La promoción de proyectos miembros es totalmente gratuita y se realiza según nuestras posibilidades. Participar no impide entrar en hackathons u otras actividades.
 
+La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
+
 No prometemos audiencia, conversiones, cobertura favorable, exclusividad ni acceso a correos de candidatos. El reconocimiento público necesita permiso. El patrocinio no compra el control de las decisiones sobre resultados.
 
 ## Empieza con un compromiso pequeño

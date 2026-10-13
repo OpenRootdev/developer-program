@@ -32,6 +32,8 @@ Se prevé un [programa por hitos](referrals.md). El builder referido debe ser ap
 
 Ayuda a promocionar proyectos miembros en publicación y redes, totalmente gratis y tanto como pueda. Los builders gestionan marketing general y crecimiento. No se garantizan cobertura, tráfico o éxito.
 
+La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
+
 ## ¿Puedo participar en hackathons?
 
 Sí, también en colaboraciones y actividades externas. No hay exclusividad. Respeta reglas del evento y derechos del proyecto/contribuidores.
