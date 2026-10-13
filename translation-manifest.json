@@ -2,7 +2,7 @@
   "revision": "2026-10-12",
   "review": "Authoring comparison complete; independent native-speaker review pending.",
   "sources": {
-    "README.md": "5cdfdd83675f3f3c0927cbef6ebf4d7ccc31fd77ae3d0e7effaa0c443cbd2406",
+    "README.md": "fac00ee59f07a0594d015d477d6e8132575a7c06d92ed9122fa33a45ccebc26e",
     "docs/builders.md": "7bfcb05ac2eaf80fc0afcd0c24ba0a5308a97e0bb43a5b5155f7a76fb060d515",
     "docs/how-it-works.md": "a6a7e43d470fe7f43de33b264882c3d036f1af758d42718bf1bf8de44a90a1e2",
     "docs/rewards.md": "27b589c3fb401850058dae8e6468024afe363868ed3812969adae0e007e53643",
@@ -12,24 +12,24 @@
   },
   "translations": {
     "docs/i18n/zh-CN/README.md": {
-      "source": "5cdfdd83675f3f3c0927cbef6ebf4d7ccc31fd77ae3d0e7effaa0c443cbd2406",
-      "text": "ce804ab58ff5cbef1209b9dede0d68bfbc9d58f4c6dc1828fa289d20da2156df"
+      "source": "fac00ee59f07a0594d015d477d6e8132575a7c06d92ed9122fa33a45ccebc26e",
+      "text": "7a6db42ab405696a3ab224a7299c169ac06547494b06f9a57395dd6fd802674e"
     },
     "docs/i18n/pt-BR/README.md": {
-      "source": "5cdfdd83675f3f3c0927cbef6ebf4d7ccc31fd77ae3d0e7effaa0c443cbd2406",
-      "text": "b86a41aefe11602a010e6b5a8e68f06ef2fb08e1754a0f81513721504329b27d"
+      "source": "fac00ee59f07a0594d015d477d6e8132575a7c06d92ed9122fa33a45ccebc26e",
+      "text": "5c6362bf09c0c73aff8a6f81b8d5120dcf34a3e84a9aeb3da86739c8a490e5af"
     },
     "docs/i18n/es/README.md": {
-      "source": "5cdfdd83675f3f3c0927cbef6ebf4d7ccc31fd77ae3d0e7effaa0c443cbd2406",
-      "text": "36ed1dbb294eabbb53d9442b0b8a0b40b6f4a2aebfc2184c4685ef0be079a045"
+      "source": "fac00ee59f07a0594d015d477d6e8132575a7c06d92ed9122fa33a45ccebc26e",
+      "text": "58b6b39cc30ffa494aab72566859f7664afa60501a1d681e866462bd02236849"
     },
     "docs/i18n/fr/README.md": {
-      "source": "5cdfdd83675f3f3c0927cbef6ebf4d7ccc31fd77ae3d0e7effaa0c443cbd2406",
-      "text": "58ae6461f5fd43266d2f1882d1cca8fa1aef68b14609e3c37e9ac8253eb38f66"
+      "source": "fac00ee59f07a0594d015d477d6e8132575a7c06d92ed9122fa33a45ccebc26e",
+      "text": "258f6888bdcd612f6f0ae984e2b3d841a26f27f218c1f667b43d3bb7373b0318"
     },
     "docs/i18n/ja/README.md": {
-      "source": "5cdfdd83675f3f3c0927cbef6ebf4d7ccc31fd77ae3d0e7effaa0c443cbd2406",
-      "text": "4d50667ef40eda005594dabe8d70eab87ee77b284e197e951189fa9b5c5d271d"
+      "source": "fac00ee59f07a0594d015d477d6e8132575a7c06d92ed9122fa33a45ccebc26e",
+      "text": "e562bd4ec5f412e411f3c3d1b0253b8a0f2ab6ba23bc161929040ccd3bc2e27b"
     },
     "docs/i18n/zh-CN/builders.md": {
       "source": "7bfcb05ac2eaf80fc0afcd0c24ba0a5308a97e0bb43a5b5155f7a76fb060d515",

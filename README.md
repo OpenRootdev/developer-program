@@ -54,3 +54,9 @@ Questions: [hello@openroot.dev](mailto:hello@openroot.dev). [Follow or message O
 ## Existing projects belong in the organization
 
 If you apply with an existing project, the accepted project must be hosted under **OpenRootdev**: transfer the original repository after review, or create an empty organization repository and copy the code there with Git. Do not migrate before the project and migration are approved. Copying code does not copy stars, issues or other GitHub project data. Existing adoption and rewards are reviewed separately. [Read the step-by-step builder instructions](docs/builders.md).
+
+## Support OpenRoot and future events
+
+OpenRoot relies on advertising revenue and partner support to keep the program free for builders. Reading the [free newsletter](https://openroot.dev/newsletter) and [following LinkedIn](https://www.linkedin.com/company/openroot-dev/) help us grow our audience and reach potential sponsors. No purchase, paid subscription or donation is required to apply or qualify for review. GitHub Sponsors is planned, not yet announced as an active payment option; contact [partner@openroot.dev](mailto:partner@openroot.dev) about sponsorship.
+
+We would like to run internal builder hackathons when partners provide funding or authorized rewards, and potentially public hackathons later. These are future plans, not announced events. Dates, eligibility and prizes will be published before registration.

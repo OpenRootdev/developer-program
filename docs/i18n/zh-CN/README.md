@@ -54,3 +54,9 @@ OpenRoot 是用于开发与协作的沙盒，不是付款请求。我们绝不�
 ## 已有项目须托管在组织内
 
 若以已有项目申请，获批项目必须托管在 **OpenRootdev**：审核后转移原仓库，或创建空的组织仓库并用 Git 复制代码。项目与迁移获批前不要迁移。复制代码不会复制星标、议题或其他 GitHub 项目数据。已有采用数据和奖励单独审核。[阅读分步操作指南](builders.md)。
+
+## 支持 OpenRoot 与未来活动
+
+OpenRoot 依靠广告收入和合作伙伴支持，让开发者免费参与。阅读[免费通讯](https://openroot.dev/newsletter)并[关注 LinkedIn](https://www.linkedin.com/company/openroot-dev/)有助于扩大我们的受众并吸引潜在赞助商。申请或获得审核资格无需购买、付费订阅或捐款。我们计划使用 GitHub Sponsors，但尚未公布可用的付款选项；赞助事宜请联系 [partner@openroot.dev](mailto:partner@openroot.dev)。
+
+当合作伙伴提供资金或获授权的奖励时，我们希望举办内部开发者黑客松，之后也可能举办公开黑客松。这些只是未来计划，并非已公布的活动。报名开始前会公布日期、资格和奖品。
