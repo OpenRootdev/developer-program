@@ -46,6 +46,10 @@ Builders develop their projects, attract users, maintain them, and provide miles
 
 Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
 
+We are looking for builders creating, or exploring, projects intended for other people to use: software that solves a problem, provides a useful tool or helps its users do something. Any software category, programming language and documentation language is welcome. Your project does not need existing users, and undecided applicants or an agreed private development phase remain welcome.
+
+Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; reward claims remain closed.
+
 Participation is not exclusive. Enter hackathons, collaborate outside OpenRoot and take part in other activities with your project. Check the event's own rules and any contributor/license obligations; joining OpenRoot does not require giving up those opportunities.
 
 GitHub teams and repository roles scope collaboration. Access to your project does not grant organization-wide administration. The planned portal shows repositories associated with you, including team projects; the person who created a repository is not automatically its only contributor or reward recipient.

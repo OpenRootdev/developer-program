@@ -6,6 +6,10 @@ The OpenRoot Developer Program brings independent developers, called **OpenRoot 
 
 Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
 
+We are looking for builders creating, or exploring, projects intended for other people to use: software that solves a problem, provides a useful tool or helps its users do something. Any software category, programming language and documentation language is welcome. Your project does not need existing users, and undecided applicants or an agreed private development phase remain welcome.
+
+Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; reward claims remain closed.
+
 Bring your own ideas in any software category, programming language or repository/documentation language, including non-English content. You direct your project and retain rights to your own code. A private development phase is welcome; any public-release conditions are agreed before enrollment. Organization owners retain administrative access to organization-hosted repositories.
 
 Your project is not exclusive to OpenRoot. You can enter hackathons, collaborate elsewhere and take part in other activities, subject to those activities' rules and your project rights.

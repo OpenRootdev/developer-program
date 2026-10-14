@@ -8,8 +8,10 @@ Cada proyecto usa una vía apropiada:
 
 - Atención: estrellas GitHub orgánicas, interés externo significativo o cobertura.
 - Distribución: descargas de versiones/paquetes, clones completos o descargas de imágenes de contenedores durante un periodo definido.
-- Adopción: usuarios activos o recurrentes, o proyectos independientes que integran el software.
+- Adopción: usuarios activos diarios o mensuales (DAU/MAU), medidos mediante una acción significativa de uso del producto acordada previamente.
 - Uso sostenido: una medida relevante de adopción mantenida en el tiempo.
+
+La evidencia debe indicar el evento, la definición de usuario único, el período de medición y la fuente. Un repositorio de GitHub por sí solo no mide usuarios del producto. Los informes agregados de herramientas como PostHog o un servicio equivalente, autorizados por el responsable y limitados al proyecto, pueden respaldar la revisión. Se excluyen bots, pruebas y actividad artificial; DAU/MAU y descargas no son intercambiables y el uso superpuesto no se cuenta dos veces. Los datos solo se recopilan y comparten con avisos adecuados, consentimiento cuando sea necesario y controles de acceso. Las métricas no generan puntos ni recompensas automáticamente.
 
 Las estrellas indican interés; las descargas, distribución. Ninguna demuestra automáticamente usuarios activos. Automatización repetida, interacción comprada o inflación propia no prueban resultados reales. Cada cohorte publicará las exclusiones exactas.
 
@@ -34,6 +36,10 @@ Cada opción debe indicar cuentas elegibles, servicio/duración o importe, caduc
 Tras aprobarse el hito y la solicitud, los builders eligen entre opciones elegibles y disponibles para su proyecto o cohorte. Importe, modelos y condiciones se confirman para cada oferta; EUR 50-1,000 no implica conceder automáticamente el máximo a cada builder. La promoción totalmente gratuita, dentro de lo posible, es un beneficio separado y no consume la recompensa.
 
 La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
+
+Buscamos builders que estén creando o explorando proyectos pensados para que otras personas los utilicen: software que resuelva un problema, ofrezca una herramienta útil o ayude a sus usuarios a hacer algo. Cualquier categoría de software, lenguaje de programación e idioma de documentación es bienvenido. El proyecto no necesita tener usuarios todavía; siguen siendo bienvenidos quienes aún no han elegido una idea y una fase privada de desarrollo acordada.
+
+También son bienvenidos los builders de hackathons, tanto si se preparan para participar como si continúan un proyecto de hackathon. Se están planificando recompensas adicionales por buenos resultados en hackathons elegibles y previamente aprobados. Los eventos elegibles, resultados, pruebas, financiación y condiciones de los bonos deben publicarse y acordarse antes de iniciar una oferta con recompensas. Ganar no concede automáticamente puntos ni recompensas de OpenRoot. Aún no se han anunciado hackathons elegibles concretos ni importes de bonos; las reclamaciones de recompensas siguen cerradas.
 
 Hermes, OpenClaw y OpenCode admiten proveedores personalizados o endpoints compatibles con OpenAI, pero el gateway real de las recompensas aún no se ha probado con estos clientes. El chat de Cursor con clave propia requiere verificar cliente/modelo/gateway; los créditos no incluyen suscripción a Cursor ni Tab. Codex necesita Responses API, streaming y conversaciones con llamadas a herramientas. Claude Code necesita un formato de API de gateway admitido, como Anthropic Messages. La compatibilidad solo con OpenAI Chat Completions no demuestra soporte para Codex o Claude Code. Endpoint, IDs de modelos, límites de clientes y condiciones de privacidad del destinatario se confirman antes del canje.
 

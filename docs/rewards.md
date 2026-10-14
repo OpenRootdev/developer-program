@@ -10,8 +10,10 @@ A project uses a success track appropriate to what it does:
 |---|---|
 | Attention | Organic GitHub stars, meaningful external interest, or coverage |
 | Distribution | Release/package downloads, full clones, or container-image pulls within a defined window |
-| Adoption | Active or returning users, or independent projects integrating the software |
+| Adoption | Daily or monthly active users (DAU/MAU), measured through an agreed meaningful product action |
 | Sustained use | A relevant adoption measure maintained over time |
+
+Usage evidence must state the event, unique-user definition, measurement window and source. A GitHub repository alone does not measure product users. Builder-approved, project-scoped aggregate reports from tools such as PostHog or an equivalent service may support review. Exclude bots, tests and artificial activity; DAU/MAU and download counts are not interchangeable and overlapping usage is not double-counted. Collect and share data only under appropriate user notices, consent where required and access controls. Metrics do not create automatic points or rewards.
 
 Stars show interest. Downloads show distribution. Neither automatically equals active users. Repeated automated activity, purchased engagement, and self-generated inflation do not establish genuine traction. Exact exclusions will be published with each cohort.
 
@@ -36,6 +38,10 @@ Each option must disclose account eligibility, service/duration or credit amount
 After milestone and claim approval, builders choose among eligible available options for their project or cohort. Credit amount, model availability and terms are confirmed for that offer; the EUR 50-1,000 range is not an automatic grant of the maximum to every builder. Free best-effort promotion is a separate member benefit, not something a builder spends a reward on.
 
 Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
+
+We are looking for builders creating, or exploring, projects intended for other people to use: software that solves a problem, provides a useful tool or helps its users do something. Any software category, programming language and documentation language is welcome. Your project does not need existing users, and undecided applicants or an agreed private development phase remain welcome.
+
+Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; reward claims remain closed.
 
 Hermes, OpenClaw and OpenCode support configurable custom providers or OpenAI-compatible endpoints, but the actual reward gateway has not yet been tested with these clients. Cursor custom-key chat needs client/model/gateway verification; these credits do not buy a Cursor subscription or Tab access. Codex requires a gateway that supports the Responses API, streaming and tool-call conversations. Claude Code requires a supported gateway API format, such as Anthropic Messages. Generic OpenAI Chat Completions compatibility alone does not establish Codex or Claude Code support. Exact endpoint, model IDs, client limitations and recipient privacy terms must be confirmed before redemption.
 

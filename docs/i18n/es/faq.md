@@ -34,6 +34,10 @@ Ayuda a promocionar proyectos miembros en publicación y redes, totalmente grati
 
 La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
 
+Buscamos builders que estén creando o explorando proyectos pensados para que otras personas los utilicen: software que resuelva un problema, ofrezca una herramienta útil o ayude a sus usuarios a hacer algo. Cualquier categoría de software, lenguaje de programación e idioma de documentación es bienvenido. El proyecto no necesita tener usuarios todavía; siguen siendo bienvenidos quienes aún no han elegido una idea y una fase privada de desarrollo acordada.
+
+También son bienvenidos los builders de hackathons, tanto si se preparan para participar como si continúan un proyecto de hackathon. Se están planificando recompensas adicionales por buenos resultados en hackathons elegibles y previamente aprobados. Los eventos elegibles, resultados, pruebas, financiación y condiciones de los bonos deben publicarse y acordarse antes de iniciar una oferta con recompensas. Ganar no concede automáticamente puntos ni recompensas de OpenRoot. Aún no se han anunciado hackathons elegibles concretos ni importes de bonos; las reclamaciones de recompensas siguen cerradas.
+
 ## ¿Puedo participar en hackathons?
 
 Sí, también en colaboraciones y actividades externas. No hay exclusividad. Respeta reglas del evento y derechos del proyecto/contribuidores.
