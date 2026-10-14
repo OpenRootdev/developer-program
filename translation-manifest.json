@@ -8,7 +8,7 @@
     "docs/rewards.md": "bfa9c6d4992fb10e81c432af6b0bb75c959d103fde9d5464811ec423bb0e63c9",
     "docs/referrals.md": "17fb7108e0806ba84de8d4ce5aa2e60e04b59bef7b582763bc34f0020420b8ad",
     "docs/partners.md": "9a906236e15d1073395cd2c7233a3b5a9c9a63540c4b922c25aebb45e1fb8617",
-    "docs/faq.md": "09c647b2793a10be9889dd97e43c5baa693e2f32a7081409b5699c9058d6b626"
+    "docs/faq.md": "6139e5d59a2c58bbc319a79712e31aa39da1436f144bc358e57827304d306db3"
   },
   "translations": {
     "docs/i18n/zh-CN/README.md": {
@@ -132,24 +132,24 @@
       "text": "a8a1214116006dfa960c7fcc91323a83ea07f2719540f41a7a37350ef1a76f41"
     },
     "docs/i18n/zh-CN/faq.md": {
-      "source": "09c647b2793a10be9889dd97e43c5baa693e2f32a7081409b5699c9058d6b626",
-      "text": "60e2a8b4736cfd8d85922ee79da20e973f6cc08320f854bbab95718cc3cf5cae"
+      "source": "6139e5d59a2c58bbc319a79712e31aa39da1436f144bc358e57827304d306db3",
+      "text": "da6399dd0b261bf5df54be16fd74252afbeaa48314e9f20afaebef41db31cc47"
     },
     "docs/i18n/pt-BR/faq.md": {
-      "source": "09c647b2793a10be9889dd97e43c5baa693e2f32a7081409b5699c9058d6b626",
-      "text": "0b9a5253d470326c3ac4b63231cc8b602c671a3db3f74f08b415c398d02ad264"
+      "source": "6139e5d59a2c58bbc319a79712e31aa39da1436f144bc358e57827304d306db3",
+      "text": "21fc62088c05d4d10bf40815660c18ae4bf0cbb9fbe3d0511827911a59d2da6e"
     },
     "docs/i18n/es/faq.md": {
-      "source": "09c647b2793a10be9889dd97e43c5baa693e2f32a7081409b5699c9058d6b626",
-      "text": "bcae6ffe5a31455c861b2dd16bd77ec445fed010a928895f2b65080bc146a49a"
+      "source": "6139e5d59a2c58bbc319a79712e31aa39da1436f144bc358e57827304d306db3",
+      "text": "0ddfc4cb369195ec8bf8b0e6b8e15c495d0d718689311501552fd2ffb4f1ee8d"
     },
     "docs/i18n/fr/faq.md": {
-      "source": "09c647b2793a10be9889dd97e43c5baa693e2f32a7081409b5699c9058d6b626",
-      "text": "de960a7fc928a7b2f3c27f349d801d39a61c1e57a75fac7885c88269c7b417f1"
+      "source": "6139e5d59a2c58bbc319a79712e31aa39da1436f144bc358e57827304d306db3",
+      "text": "599c57884b37489df1971cb603010dd5d1620fb81fdb2fcceec62a44cd777b62"
     },
     "docs/i18n/ja/faq.md": {
-      "source": "09c647b2793a10be9889dd97e43c5baa693e2f32a7081409b5699c9058d6b626",
-      "text": "a242c267e06083924db59f1e22e966bfdf969a1f647914c0bb51139a5a2bb223"
+      "source": "6139e5d59a2c58bbc319a79712e31aa39da1436f144bc358e57827304d306db3",
+      "text": "f6adf463c04b18cb77fb99483d8a48202b463a92ff7c26007402f99a4ae30265"
     }
   }
 }

@@ -4,6 +4,10 @@
 
 The OpenRoot Developer Program. Its developer participants are OpenRoot builders.
 
+## What is OpenRoot?
+
+OpenRoot is primarily a developer program and builder community for useful open-source projects. Program participants are called OpenRoot builders. The newsletter supports this work by sharing projects, builder stories and practical technical ideas. Its coverage of agents, automation, infrastructure and AI-powered 3D does not limit the program: projects can be in any software category that meets the published requirements.
+
 ## Is it live?
 
 The developer program is live. Applications and the approval-only private portal are available, and approved builders can join the GitHub organization. We are seeking partners to expand the reward pool. Funded reward cohorts and claims are not open yet; final terms are being prepared.

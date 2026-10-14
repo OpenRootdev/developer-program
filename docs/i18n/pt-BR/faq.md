@@ -4,6 +4,10 @@
 
 Programa de Desenvolvedores OpenRoot. Os participantes são OpenRoot builders.
 
+## O que é a OpenRoot?
+
+O foco principal da OpenRoot é o programa de desenvolvedores e a comunidade de builders para projetos de código aberto úteis. Os participantes do programa são chamados de OpenRoot builders. A newsletter apoia esse trabalho compartilhando projetos, histórias de builders e ideias técnicas práticas. Sua cobertura de agentes, automação, infraestrutura e 3D com IA não limita o programa: projetos de qualquer categoria de software podem participar, desde que atendam aos requisitos publicados.
+
 ## Está aberto?
 
 O programa de desenvolvedores está em funcionamento. As candidaturas e o portal privado para contas aprovadas estão disponíveis, e builders aprovados podem entrar na organização GitHub. Buscamos parceiros para ampliar as recompensas. Turmas com recompensas financiadas e pedidos de recompensas ainda não estão abertos; as condições finais estão em preparação.
