@@ -108,3 +108,7 @@ Recomendada para conservar estrellas, issues, pull requests e historial Git.
 Envía a OpenRoot la URL final de la organización para asociarla al proyecto revisado. La adopción previa y las recompensas requieren una base acordada y aprobación separada; no cuentes dos veces los datos de las copias. No elimines el original solo para participar. Conservas los derechos de tu código; alojarlo en la organización no elimina el acceso administrativo de sus propietarios.
 
 Referencias oficiales: [transferencia](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [nuevo repositorio](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).
+
+## Atribución opcional de afiliado
+
+La versión **2026-10-14-3** de privacidad de solicitudes añade un código de afiliado opcional. Usa un código o el nombre GitHub del recomendante, no ambos. Se guarda privadamente como declaración de atribución y se revisa antes de vincularlo a una cuenta aprobada; no aprueba pertenencia, proyecto ni recompensa. No hay cookies de seguimiento de afiliados ni se revela al afiliado la identidad del solicitante o información privada del proyecto. Tu propia recompensa no se reduce. Los Términos de Solicitud siguen en **2026-10-12-1** y no cambian los consentimientos anteriores. Consulta [el piloto independiente de afiliados](referrals.md).

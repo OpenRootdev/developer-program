@@ -108,3 +108,7 @@ GitHub 团队及仓库角色限制协作权限。你的项目访问权不等于�
 将最终组织仓库 URL 发给 OpenRoot，以关联审核过的项目。已有采用数据及奖励仍需约定基线和单独批准，副本之间不得重复计数。无需为参与计划删除原仓库。你保留自己代码的权利；组织托管不取消组织所有者的管理权。
 
 官方参考：[转移](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)、[新建仓库](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)、[Git push](https://git-scm.com/docs/git-push)。
+
+## 可选联盟归属
+
+申请隐私声明 **2026-10-14-3** 增加可选联盟代码。代码与推荐者 GitHub 用户名只能选填一种。代码作为归属声明私密保存，经审核才关联获批 builder 账号；不能批准成员资格、项目或奖励。不使用联盟追踪 cookie，联盟成员不会收到申请人身份或私有项目信息。你自己的奖励金额不会减少。申请条款仍为 **2026-10-12-1**，已有同意记录不变。参阅[独立联盟试点](referrals.md)。

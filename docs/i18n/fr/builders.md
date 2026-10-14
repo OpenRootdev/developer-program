@@ -108,3 +108,7 @@ Pour garder l'original à son emplacement et développer la copie approuvée dan
 Envoyez l'URL finale du dépôt de l'organisation à OpenRoot pour l'associer au projet examiné. L'adoption passée et les récompenses exigent une base convenue et un accord séparé ; pas de double comptage entre copies. Ne supprimez pas l'original uniquement pour participer. Vous gardez les droits sur votre code ; l'hébergement dans l'organisation ne supprime pas l'accès administratif de ses propriétaires.
 
 Références officielles : [transfert](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [nouveau dépôt](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).
+
+## Attribution facultative d'affiliation
+
+La version **2026-10-14-3** de confidentialité des candidatures ajoute un code d'affiliation facultatif. Utilisez un code ou le nom GitHub du parrain, pas les deux. Le code est conservé de façon privée comme déclaration d'attribution, examinée avant rattachement au compte approuvé ; il n'approuve ni adhésion, ni projet, ni récompense. Aucun cookie de suivi d'affiliation n'est utilisé et l'affilié ne reçoit ni identité du candidat ni informations privées du projet. Votre propre récompense n'est pas réduite. Les conditions de candidature restent **2026-10-12-1** ; les consentements antérieurs ne changent pas. Voir [le pilote d'affiliation distinct](referrals.md).

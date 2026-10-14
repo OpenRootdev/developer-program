@@ -108,3 +108,7 @@ GitHub のチームとリポジトリロールで共同作業の範囲を限定�
 審査済みプロジェクトに関連付けるため、最終的な組織リポジトリ URL を OpenRoot に送ってください。既存の利用実績と報酬には合意した基準と別途承認が必要で、コピー間で重複計上しません。参加のためだけに元のリポジトリを削除する必要はありません。自分のコードの権利は保持しますが、組織所有者の管理アクセスはなくなりません。
 
 公式参考：[移管](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)、[新規リポジトリ](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)、[Git push](https://git-scm.com/docs/git-push)。
+
+## 任意のアフィリエイト帰属
+
+申請プライバシー通知 **2026-10-14-3** は任意のアフィリエイトコードを追加します。コードか紹介者の GitHub 名のどちらか一方を使ってください。コードは帰属の申告として非公開で保存し、承認済み builder アカウントに結び付ける前に審査します。所属、プロジェクト、報酬を承認するものではありません。紹介追跡 cookie はなく、申請者の身元や非公開プロジェクト情報をアフィリエイトに渡しません。自分の報酬は減額されません。申請規約は **2026-10-12-1** のままで、過去の同意記録は変更しません。[独立したアフィリエイト試行](referrals.md)をご覧ください。

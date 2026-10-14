@@ -108,3 +108,7 @@ Use this if you want to keep the original repository where it is and maintain th
 Send OpenRoot the final organization repository URL to associate it with your reviewed project. Existing adoption and rewards still require an agreed baseline and separate approval; no double-counting across copies. Do not delete the original repository just to participate. You retain rights to your own code; hosting under an organization does not remove its owners' administrative access.
 
 Official references: [transfer](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).
+
+## Optional affiliate attribution
+
+Application privacy notice **2026-10-14-3** adds an optional affiliate code. Use a code or a referrer GitHub username, not both. The code is a privately stored attribution claim, reviewed before linking it to an approved builder account; it cannot approve membership, a project or a reward. No affiliate tracking cookies are used, and the affiliate receives no applicant identity or private project information. Your own reward amount is not reduced. Application Terms stay **2026-10-12-1**; earlier consent records remain unchanged. See the [separate affiliate pilot](referrals.md).

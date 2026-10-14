@@ -108,3 +108,7 @@ Use esta opção para manter o original onde está e desenvolver a cópia aprova
 Envie à OpenRoot a URL final na organização para associá-la ao projeto analisado. Adoção anterior e recompensas ainda exigem referência acordada e aprovação separada; não conte duas vezes dados das cópias. Não exclua o original só para participar. Você mantém os direitos sobre seu código; a hospedagem na organização não retira o acesso administrativo de seus proprietários.
 
 Referências oficiais: [transferência](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [novo repositório](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).
+
+## Atribuição opcional de afiliado
+
+A versão **2026-10-14-3** da privacidade da candidatura acrescenta um código de afiliado opcional. Use o código ou o nome GitHub de quem indicou, não ambos. O código é uma alegação de atribuição armazenada privadamente e analisada antes de ser ligada à conta aprovada; não aprova associação, projeto ou recompensa. Não há cookies de rastreamento de afiliados, nem divulgação da identidade do candidato ou de informações privadas do projeto ao afiliado. Sua própria recompensa não é reduzida. Os Termos da Candidatura continuam **2026-10-12-1**; consentimentos anteriores não mudam. Veja [o piloto separado de afiliados](referrals.md).
