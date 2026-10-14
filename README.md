@@ -1,6 +1,6 @@
 # OpenRoot Developer Program
 
-Get rewarded for the projects you are already building.
+Building an open-source project, or have an idea for one? Apply to join the OpenRoot Developer Program for free project visibility and a chance to earn rewards for reviewed milestones.
 
 The OpenRoot Developer Program brings independent developers, called **OpenRoot builders**, together with partners who want to support useful software. Builders develop and grow projects under the **OpenRoot GitHub organization**. OpenRoot helps promote member projects through its publication and social channels, **completely free of charge** and as much as it can. Coverage, reach and success are not guaranteed. Partners supply credits, subscriptions, and developer tools for qualifying projects.
 
@@ -16,7 +16,7 @@ Your project is not exclusive to OpenRoot. You can enter hackathons, collaborate
 
 ## Current status
 
-The program is **live**. We are seeking founding partners. [Applications are open for review](https://openroot.dev/apply); the private portal is available to approved accounts at https://openroot.dev/portal; reward claims are not open; numerical milestones and final fulfillment terms are being prepared. OpenRoot reports an initial set of offers: one month of DeepLearning.AI (one available until claimed), and AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at EUR 50-1,000. The API allowances have per-key budget limits, with no announced quantity cap. Exact learning product, permitted distribution, expiry and recipient terms still need confirmation. These are not official model-provider sponsorships or guaranteed rewards for every member. A broader selection, including paid subscriptions and developer tools, is coming soon; specific offers and dates are not promised. See [reward details](docs/rewards.md).
+The program is **live**. We are seeking founding partners. [Applications are open for review](https://openroot.dev/apply); the private portal is available to approved accounts at https://openroot.dev/portal; reward claims are not open; numerical milestones and final fulfillment terms are being prepared. OpenRoot reports an initial set of offers: one month of DeepLearning.AI (one available until claimed), and AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at USD 50-10,000. The API allowances have per-key budget limits, with no announced quantity cap. Exact learning product, permitted distribution, expiry and recipient terms still need confirmation. These are not official model-provider sponsorships or guaranteed rewards for every member. A broader selection, including paid subscriptions and developer tools, is coming soon; specific offers and dates are not promised. See [reward details](docs/rewards.md).
 
 This repository is the public documentation home. It explains the program, answers questions, and invites partnerships. It does not contain the private portal application or applicant records.
 

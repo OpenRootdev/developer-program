@@ -48,7 +48,7 @@ OpenRoot は、他の人が使うことを目的としたプロジェクトを�
 
 ## 初期特典は？
 
-DeepLearning.AI 1か月分が受取まで1件、GPT、Claude、Gemini、Grok 向けの AI モデル API クレジット（予算上限付きの第三者 API アクセスで提供）が EUR 50-1,000 相当です。OpenRoot によればキーごとの予算制限が厳格で、数量上限は未公表です。個人 OpenAI/Anthropic/Google/xAI アカウントへのクレジット移転でも公式スポンサーシップでもありません。製品、配布許可、期限、資格、提供は確認待ちで、請求は未開始です。[詳細](rewards.md)。
+DeepLearning.AI 1か月分が受取まで1件、GPT、Claude、Gemini、Grok 向けの AI モデル API クレジット（予算上限付きの第三者 API アクセスで提供）が USD 50-10,000 相当です。OpenRoot によればキーごとの予算制限が厳格で、数量上限は未公表です。個人 OpenAI/Anthropic/Google/xAI アカウントへのクレジット移転でも公式スポンサーシップでもありません。製品、配布許可、期限、資格、提供は確認待ちで、請求は未開始です。[詳細](rewards.md)。
 
 ## スター数で保証される？
 

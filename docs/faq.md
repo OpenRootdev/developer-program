@@ -50,7 +50,7 @@ Yes. You may participate in hackathons, outside collaborations and other activit
 
 ## What are the initial offers?
 
-One month of DeepLearning.AI, one available until claimed, plus AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at EUR 50-1,000. OpenRoot reports strict per-key budgets and no announced quantity cap for API offers. These are not credits transferred to your own model-provider account or official vendor sponsorships. Exact product, permitted distribution, expiry, eligibility and delivery terms remain pending. Claims are not open. [Read the offer details](rewards.md).
+One month of DeepLearning.AI, one available until claimed, plus AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at USD 50-10,000. OpenRoot reports strict per-key budgets and no announced quantity cap for API offers. These are not credits transferred to your own model-provider account or official vendor sponsorships. Exact product, permitted distribution, expiry, eligibility and delivery terms remain pending. Claims are not open. [Read the offer details](rewards.md).
 
 ## Does a GitHub star target guarantee a reward?
 

@@ -26,7 +26,7 @@ Categories include AI/API access, GPU or cloud capacity, paid subscriptions, IDE
 ### Initial offers reported by OpenRoot / 12 October 2026
 
 - **DeepLearning.AI:** one month, with **one offer available until claimed**. The exact product and redemption terms still need confirmation.
-- **AI model API credits:** allowances valued at **EUR 50-1,000**, with model families including **GPT, Claude, Gemini and Grok**. OpenRoot reports that each supplied key has a strictly enforced budget limit. There is **no announced quantity cap**, which does not mean unlimited spend or an automatic EUR 1,000 grant for each person. Permitted distribution, expiry, supported models, recipient eligibility and delivery terms remain to be verified before issuance. This is third-party access, not a transfer of credits into a builder's own model-provider account and not an official model-provider sponsorship.
+- **AI model API credits:** allowances valued at **USD 50-10,000**, with model families including **GPT, Claude, Gemini and Grok**. OpenRoot reports that each supplied key has a strictly enforced budget limit. There is **no announced quantity cap**, which does not mean unlimited spend or an automatic USD 10,000 grant for each person. Permitted distribution, expiry, supported models, recipient eligibility and delivery terms remain to be verified before issuance. This is third-party access, not a transfer of credits into a builder's own model-provider account and not an official model-provider sponsorship.
 - **More benefits coming soon, including paid subscriptions and developer tools.** No additional product, quantity or date is promised.
 
 The vendor identity is kept private in this planning stage. Recipient disclosures needed for informed use must be agreed before redemption. Never post API keys, redemption codes or account credentials in public documentation, applications or GitHub issues. No shared personal account or provider-key transfer is promised. Applications are open for review, but reward claims are not open yet; these offers are not confirmed referral rewards.
@@ -35,7 +35,7 @@ Each option must disclose account eligibility, service/duration or credit amount
 
 ## Choosing and using a reward
 
-After milestone and claim approval, builders choose among eligible available options for their project or cohort. Credit amount, model availability and terms are confirmed for that offer; the EUR 50-1,000 range is not an automatic grant of the maximum to every builder. Free best-effort promotion is a separate member benefit, not something a builder spends a reward on.
+After milestone and claim approval, builders choose among eligible available options for their project or cohort. Credit amount, model availability and terms are confirmed for that offer; the USD 50-10,000 range is not an automatic grant of the maximum to every builder. Free best-effort promotion is a separate member benefit, not something a builder spends a reward on.
 
 Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
 

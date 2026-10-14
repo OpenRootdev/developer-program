@@ -48,7 +48,7 @@ Sí, también en colaboraciones y actividades externas. No hay exclusividad. Res
 
 ## ¿Cuáles son las ofertas iniciales?
 
-Un mes de DeepLearning.AI, una oferta hasta reclamarla, y créditos de API de modelos de IA para GPT, Claude, Gemini y Grok, mediante acceso de terceros con presupuesto limitado por EUR 50-1,000. OpenRoot informa presupuestos estrictos por clave y ninguna cantidad máxima anunciada. No son créditos transferidos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinios oficiales. Producto, distribución, caducidad, requisitos y entrega siguen pendientes. Las reclamaciones no están abiertas. [Detalles](rewards.md).
+Un mes de DeepLearning.AI, una oferta hasta reclamarla, y créditos de API de modelos de IA para GPT, Claude, Gemini y Grok, mediante acceso de terceros con presupuesto limitado por USD 50-10,000. OpenRoot informa presupuestos estrictos por clave y ninguna cantidad máxima anunciada. No son créditos transferidos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinios oficiales. Producto, distribución, caducidad, requisitos y entrega siguen pendientes. Las reclamaciones no están abiertas. [Detalles](rewards.md).
 
 ## ¿Un número de estrellas garantiza recompensa?
 

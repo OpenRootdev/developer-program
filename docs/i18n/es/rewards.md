@@ -24,7 +24,7 @@ Categorías: acceso IA/API, GPU/cloud, suscripciones, IDE y herramientas útiles
 ### Ofertas iniciales comunicadas por OpenRoot / 12 de octubre de 2026
 
 - **DeepLearning.AI:** un mes, **una oferta disponible hasta que se reclame**. Producto exacto y condiciones de canje pendientes.
-- **Créditos de API de modelos de IA:** cuotas valoradas en **EUR 50-1,000**, con **familias de modelos GPT, Claude, Gemini y Grok**. OpenRoot informa que cada clave proporcionada tiene un presupuesto estrictamente limitado. **No se anuncia un límite de cantidad de ofertas**, pero esto no significa gasto ilimitado ni EUR 1,000 automáticos por persona. Distribución permitida, caducidad, modelos, requisitos y entrega deben verificarse antes de emitirlas. Es acceso de terceros, no transferencia de créditos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinio oficial de esas empresas.
+- **Créditos de API de modelos de IA:** cuotas valoradas en **USD 50-10,000**, con **familias de modelos GPT, Claude, Gemini y Grok**. OpenRoot informa que cada clave proporcionada tiene un presupuesto estrictamente limitado. **No se anuncia un límite de cantidad de ofertas**, pero esto no significa gasto ilimitado ni USD 10,000 automáticos por persona. Distribución permitida, caducidad, modelos, requisitos y entrega deben verificarse antes de emitirlas. Es acceso de terceros, no transferencia de créditos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinio oficial de esas empresas.
 - **Más beneficios próximamente, incluidas suscripciones de pago y herramientas de desarrollo.** No se promete otro producto, cantidad ni fecha.
 
 La identidad del proveedor se mantiene privada durante esta fase. Las divulgaciones necesarias para un uso informado deben acordarse antes del canje. Nunca publiques claves, códigos o credenciales en documentación, solicitudes o issues. No se promete compartir cuentas personales ni transferir claves del proveedor. Las solicitudes están abiertas para revisión; las reclamaciones no están abiertas; estas ofertas no son recompensas de referidos confirmadas.
@@ -33,7 +33,7 @@ Cada opción debe indicar cuentas elegibles, servicio/duración o importe, caduc
 
 ## Elegir y usar una recompensa
 
-Tras aprobarse el hito y la solicitud, los builders eligen entre opciones elegibles y disponibles para su proyecto o cohorte. Importe, modelos y condiciones se confirman para cada oferta; EUR 50-1,000 no implica conceder automáticamente el máximo a cada builder. La promoción totalmente gratuita, dentro de lo posible, es un beneficio separado y no consume la recompensa.
+Tras aprobarse el hito y la solicitud, los builders eligen entre opciones elegibles y disponibles para su proyecto o cohorte. Importe, modelos y condiciones se confirman para cada oferta; USD 50-10,000 no implica conceder automáticamente el máximo a cada builder. La promoción totalmente gratuita, dentro de lo posible, es un beneficio separado y no consume la recompensa.
 
 La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
 

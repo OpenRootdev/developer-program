@@ -48,7 +48,7 @@ OpenRoot 的核心是开发者计划和 builder 社区，面向实用的开源�
 
 ## 初始权益是什么？
 
-DeepLearning.AI 一个月，仅一份可领取；另有 支持 GPT、Claude、Gemini 和 Grok 的 AI 模型 API 额度，通过设有预算上限的第三方 API 访问提供，价值 EUR 50-1,000。OpenRoot 表示每个密钥有严格预算且未公布数量上限。这不是转入个人 OpenAI/Anthropic/Google/xAI 账号的额度或官方赞助。具体产品、分发授权、有效期、资格与交付尚待确认，领奖未开放。[详情](rewards.md)。
+DeepLearning.AI 一个月，仅一份可领取；另有 支持 GPT、Claude、Gemini 和 Grok 的 AI 模型 API 额度，通过设有预算上限的第三方 API 访问提供，价值 USD 50-10,000。OpenRoot 表示每个密钥有严格预算且未公布数量上限。这不是转入个人 OpenAI/Anthropic/Google/xAI 账号的额度或官方赞助。具体产品、分发授权、有效期、资格与交付尚待确认，领奖未开放。[详情](rewards.md)。
 
 ## 星标目标保证领奖吗？
 
