@@ -8,7 +8,7 @@ Submit your email and exact GitHub username through the builder application form
 
 ## Get approved and verify your identity
 
-Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. Kristofer manually sends the GitHub organization invitation before approving the portal account. Approval then sends one combined welcome email with invitation-acceptance and repository-creation steps. Automated GitHub identity linking, project metrics, full enrollment and reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
+Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. Kristofer manually sends the GitHub organization invitation before approving the portal account. Approval then sends one combined welcome email with invitation-acceptance and repository-creation steps. Automated GitHub identity linking, project metrics, full enrollment and automated portal reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
 
 ## Build and grow
 
@@ -26,6 +26,6 @@ Submit the evidence required by your enrolled project's rules. OpenRoot checks t
 
 ## Choose a confirmed reward
 
-If your claim qualifies under a funded cohort's terms, select an eligible option from its available non-cash catalog. The reward record tracks approval and delivery. The [initial offers](rewards.md) are reported by OpenRoot; fulfillment terms and claims are not finalized or open yet. Reporting an offer does not grant every builder an automatic entitlement.
+If your claim qualifies under a funded cohort's terms, select an eligible option from its available non-cash catalog. The reward record tracks approval and delivery. The [initial offers](rewards.md) are reported by OpenRoot; manual milestone claims are open, with offer terms confirmed before issuance. Reporting an offer does not grant every builder an automatic entitlement.
 
 Read [the reward rules](rewards.md), [builder guidance](builders.md), or [the FAQ](faq.md).

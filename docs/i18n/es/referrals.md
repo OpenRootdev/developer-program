@@ -1,6 +1,6 @@
 # Referidos de builders y piloto de afiliados
 
-El anterior plan de referidos por nombre GitHub no es un sistema activo de recompensas. El piloto independiente de afiliados descrito abajo acepta solicitudes para revisión desde el 14 de octubre de 2026; el canje de recompensas sigue cerrado.
+El anterior plan de referidos por nombre GitHub no es un sistema activo de recompensas. El piloto independiente de afiliados descrito abajo acepta solicitudes para revisión desde el 14 de octubre de 2026; el canje de autoservicio de recompensas de afiliados aún no está disponible.
 
 ## Recomienda builders que alcancen hitos reales
 

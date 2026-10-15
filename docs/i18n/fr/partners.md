@@ -4,7 +4,7 @@
 
 Soutenez les développeurs créant des projets GitHub innovants réellement utilisés. Fournissez crédits, abonnements ou outils lorsqu'ils atteignent des jalons transparents et vérifiés.
 
-Nous recherchons des partenaires fondateurs pour un pilote limité. OpenRoot annonce [des offres initiales](rewards.md), mais les inscriptions et demandes ne sont pas ouvertes. Livraison et autorisation fournisseur restent à confirmer. Aucun sponsoring officiel n'est sous-entendu.
+Nous recherchons des partenaires fondateurs pour un pilote limité. OpenRoot annonce [des offres initiales](rewards.md), et les demandes manuelles par jalon sont ouvertes. Financement, livraison et autorisation fournisseur sont confirmés par offre avant émission. Aucun sponsoring officiel n'est sous-entendu.
 
 ## Comment aider
 

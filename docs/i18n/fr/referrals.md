@@ -1,6 +1,6 @@
 # Parrainage de builders et pilote d'affiliation
 
-L'ancien projet de parrainage par nom GitHub n'est pas un dispositif de récompense actif. Le pilote d'affiliation distinct décrit ci-dessous accepte des candidatures pour examen depuis le 14 octobre 2026 ; les demandes de récompense restent fermées.
+L'ancien projet de parrainage par nom GitHub n'est pas un dispositif de récompense actif. Le pilote d'affiliation distinct décrit ci-dessous accepte des candidatures pour examen depuis le 14 octobre 2026 ; le libre-service de récompenses d’affiliation n’est pas disponible.
 
 ## Parrainer des builders atteignant de vrais jalons
 

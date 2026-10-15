@@ -4,7 +4,7 @@
 
 Support developers who build innovative GitHub projects and attract genuine use. Provide useful credits, subscriptions, or developer tools when projects reach transparent, verified milestones.
 
-We are seeking founding partners for a small, bounded pilot. OpenRoot reports [initial offers](rewards.md), but enrollment and claims are not open. Fulfillment and provider authorization still need confirmation. No official provider sponsorship is implied.
+We are seeking founding partners for a small, bounded pilot. OpenRoot reports [initial offers](rewards.md), and builder milestone claims are open for manual review. Funding, fulfillment terms and provider authorization must be confirmed for each offer before issuance. No official provider sponsorship is implied.
 
 ## Ways to help
 

@@ -8,7 +8,7 @@ Informe e-mail e usuário GitHub exato pelo formulário em https://openroot.dev/
 
 ## Seja aprovado e verifique sua identidade
 
-A aprovação cria uma conta pendente no portal e envia um e-mail com instruções. Entre em https://openroot.dev/portal com o e-mail aprovado e digite o código recebido somente nessa página. Kristofer envia manualmente o convite GitHub antes de aprovar a conta no portal. A aprovação envia um único e-mail de boas-vindas com os passos para aceitar o convite e criar o repositório na organização. Vinculação automática de identidade GitHub, métricas de projetos, inscrição completa e pedidos de recompensas ainda não estão disponíveis. Contas pendentes mantêm o prazo original de 90 dias da candidatura. A aprovação, por si só, não concede uma recompensa financiada.
+A aprovação cria uma conta pendente no portal e envia um e-mail com instruções. Entre em https://openroot.dev/portal com o e-mail aprovado e digite o código recebido somente nessa página. Kristofer envia manualmente o convite GitHub antes de aprovar a conta no portal. A aprovação envia um único e-mail de boas-vindas com os passos para aceitar o convite e criar o repositório na organização. Vinculação automática de identidade GitHub, métricas de projetos, inscrição completa e pedidos automáticos de recompensas no portal ainda não estão disponíveis. Contas pendentes mantêm o prazo original de 90 dias da candidatura. A aprovação, por si só, não concede uma recompensa financiada.
 
 ## Construa e cresça
 
@@ -26,6 +26,6 @@ Envie as evidências exigidas pelas regras do seu projeto. A OpenRoot verifica o
 
 ## Escolha uma recompensa confirmada
 
-Se o pedido se qualificar pelas regras de uma turma financiada, escolha uma opção elegível do catálogo disponível. O registro acompanha aprovação e entrega. As [ofertas iniciais](rewards.md) são informadas pela OpenRoot; condições e pedidos ainda não estão finalizados nem abertos. Uma oferta anunciada não concede direito automático a todos os builders.
+Se o pedido se qualificar pelas regras de uma turma financiada, escolha uma opção elegível do catálogo disponível. O registro acompanha aprovação e entrega. As [ofertas iniciais](rewards.md) são informadas pela OpenRoot; pedidos manuais por marcos estão abertos, com condições confirmadas antes da emissão. Uma oferta anunciada não concede direito automático a todos os builders.
 
 Leia [as regras](rewards.md), [o guia](builders.md) ou [a FAQ](faq.md).

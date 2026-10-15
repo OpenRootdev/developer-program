@@ -1,6 +1,6 @@
 # Builder referrals and affiliate pilot
 
-The earlier GitHub-username-based builder referral plan is not an active rewarded scheme. The separate affiliate pilot below accepts applications for review from 14 October 2026; reward redemption remains closed.
+The earlier GitHub-username-based builder referral plan is not an active rewarded scheme. The separate affiliate pilot below accepts applications for review from 14 October 2026; affiliate self-service reward redemption remains unavailable.
 
 ## Refer builders who reach real milestones
 

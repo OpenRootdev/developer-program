@@ -10,7 +10,7 @@ OpenRoot is primarily a developer program and builder community for useful open-
 
 ## Is it live?
 
-The developer program is live. Applications and the approval-only private portal are available, and approved builders can join the GitHub organization. We are seeking partners to expand the reward pool. Funded reward cohorts and claims are not open yet; final terms are being prepared.
+The developer program is live. Applications and the approval-only private portal are available, and approved builders can join the GitHub organization. We are seeking partners to expand the reward pool. Builder milestone claims are open for manual review. See [points, milestones and claim instructions](rewards.md); offer terms and funding are agreed per project.
 
 ## Are rewards cash?
 
@@ -42,7 +42,7 @@ Promotion is not limited to one feature. Projects may appear multiple times in t
 
 We are looking for builders creating, or exploring, projects intended for other people to use: software that solves a problem, provides a useful tool or helps its users do something. Any software category, programming language and documentation language is welcome. Your project does not need existing users, and undecided applicants or an agreed private development phase remain welcome.
 
-Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; reward claims remain closed.
+Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; hackathon bonus claims are not open.
 
 ## Can I enter hackathons with my project?
 
@@ -50,7 +50,7 @@ Yes. You may participate in hackathons, outside collaborations and other activit
 
 ## What are the initial offers?
 
-One month of DeepLearning.AI, one available until claimed, plus AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at USD 50-10,000. OpenRoot reports strict per-key budgets and no announced quantity cap for API offers. These are not credits transferred to your own model-provider account or official vendor sponsorships. Exact product, permitted distribution, expiry, eligibility and delivery terms remain pending. Claims are not open. [Read the offer details](rewards.md).
+One month of DeepLearning.AI, one available until claimed, plus AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at USD 20-10,000. OpenRoot reports strict per-key budgets and no announced quantity cap for API offers. These are not credits transferred to your own model-provider account or official vendor sponsorships. Exact product, permitted distribution, expiry, eligibility and delivery terms remain pending. Manual milestone claims are open; see the published star ladder and claim instructions. [Read the offer details](rewards.md).
 
 ## Does a GitHub star target guarantee a reward?
 

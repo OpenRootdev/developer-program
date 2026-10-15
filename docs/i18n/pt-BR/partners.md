@@ -4,7 +4,7 @@
 
 Apoie desenvolvedores que criam projetos GitHub inovadores e realmente usados. Forneça créditos, assinaturas ou ferramentas quando atingirem marcos transparentes e verificados.
 
-Buscamos parceiros fundadores para um piloto limitado. A OpenRoot informa [ofertas iniciais](rewards.md), mas inscrições e pedidos não estão abertos. Entrega e autorização do fornecedor precisam de confirmação. Não se implica patrocínio oficial de provedores.
+Buscamos parceiros fundadores para um piloto limitado. A OpenRoot informa [ofertas iniciais](rewards.md), e pedidos manuais por marcos estão abertos. Financiamento, entrega e autorização do fornecedor devem ser confirmados por oferta antes da emissão. Não se implica patrocínio oficial de provedores.
 
 ## Como ajudar
 

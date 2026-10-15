@@ -8,7 +8,7 @@ Envía correo y usuario GitHub exacto mediante el formulario en https://openroot
 
 ## Obtener aprobación y verificar identidad
 
-La aprobación crea una cuenta pendiente en el portal y envía un correo con instrucciones. Inicia sesión en https://openroot.dev/portal con el correo aprobado e introduce el código recibido solo en esa página. Kristofer envía manualmente la invitación GitHub antes de aprobar la cuenta del portal. La aprobación envía un único correo de bienvenida con los pasos para aceptar la invitación y crear el repositorio en la organización. La vinculación automática de identidad GitHub, las métricas de proyectos, la inscripción completa y las reclamaciones de recompensas todavía no están disponibles. Las cuentas pendientes conservan el plazo original de 90 días de la solicitud. La aprobación por sí sola no concede una recompensa financiada.
+La aprobación crea una cuenta pendiente en el portal y envía un correo con instrucciones. Inicia sesión en https://openroot.dev/portal con el correo aprobado e introduce el código recibido solo en esa página. Kristofer envía manualmente la invitación GitHub antes de aprobar la cuenta del portal. La aprobación envía un único correo de bienvenida con los pasos para aceptar la invitación y crear el repositorio en la organización. La vinculación automática de identidad GitHub, las métricas de proyectos, la inscripción completa y las reclamaciones automáticas de recompensas en el portal todavía no están disponibles. Las cuentas pendientes conservan el plazo original de 90 días de la solicitud. La aprobación por sí sola no concede una recompensa financiada.
 
 ## Construir y crecer
 
@@ -26,6 +26,6 @@ Presenta las pruebas exigidas por las reglas de tu proyecto. OpenRoot comprueba 
 
 ## Elegir una recompensa confirmada
 
-Si la solicitud cumple las condiciones de una cohorte financiada, elige una opción elegible del catálogo disponible. El registro sigue aprobación y entrega. OpenRoot comunica [las ofertas iniciales](rewards.md), pero las condiciones y solicitudes no están finalizadas ni abiertas. Una oferta no crea un derecho automático para todos.
+Si la solicitud cumple las condiciones de una cohorte financiada, elige una opción elegible del catálogo disponible. El registro sigue aprobación y entrega. OpenRoot comunica [las ofertas iniciales](rewards.md), y las solicitudes manuales por hitos están abiertas; las condiciones se confirman por oferta antes de emitirla. Una oferta no crea un derecho automático para todos.
 
 Lee [las reglas](rewards.md), [la guía](builders.md) o [las preguntas frecuentes](faq.md).

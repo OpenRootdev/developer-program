@@ -17,7 +17,26 @@ Usage evidence must state the event, unique-user definition, measurement window 
 
 Stars show interest. Downloads show distribution. Neither automatically equals active users. Repeated automated activity, purchased engagement, and self-generated inflation do not establish genuine traction. Exact exclusions will be published with each cohort.
 
-Numerical targets are not finalized. Every enrolled project must know its metric, source, baseline, threshold, measurement period, evidence requirements, review process, reward, and claim limit.
+## Points and milestone claims / pilot rules, 15 October 2026
+
+**10 points = USD 1 in API credits.** Each eligible new organic GitHub star is worth 10 points. Points unlock only at the milestones below after manual review, not at arbitrary intermediate counts. These are non-cash reward points, not model tokens or a transferable balance.
+
+| Eligible stars | Total points unlocked | Total API value (USD) | Additional points since previous milestone |
+|---|---:|---:|---:|
+| 20 | 200 | 20 | 200 |
+| 50 | 500 | 50 | 300 |
+| 100 | 1000 | 100 | 500 |
+| 250 | 2500 | 250 | 1500 |
+| 500 | 5000 | 500 | 2500 |
+| 1000 | 10000 | 1000 | 5000 |
+
+**20 stars unlock 200 points, redeemable for USD 20 in API credits.** At 7 or 19 eligible stars no star award is claimable. At 30, only the 20-star award is unlocked. Reaching 50 after claiming 200 points releases another 300 points (USD 30), not 500 again. Skipping earlier claims does not lose eligible points; subtract everything already credited for that project and track. No further star thresholds or bonuses are announced.
+
+This schedule covers eligible new growth from the project's agreed baseline, not automatic conversion of a repository's displayed stars. Agree the metric, source, baseline, measurement start/window, evidence, funded maximum and offer terms before reward-bearing enrollment. Historical stars require a separate agreement; no historical discount is announced. Awards belong to the agreed project/team, not a duplicate award for each collaborator. Exclude bots, purchased engagement, self/team farming, repeated unstar/restar and double-counting across copied projects or counters. Previously credited points are never awarded twice. Valid past agreements and accepted application revisions are not changed retroactively.
+
+**Downloads:** 100 eligible release/package downloads correspond to 10 points (USD 1). Source-specific thresholds, window and exclusions must be agreed before accrual; this estimate does not permit arbitrary download claims. Views, full clones and container pulls are not automatically rewardable and are not product DAU/MAU. Meaningful DAU/MAU may support review, but no standard points rate is announced. For transferred projects, eligible new downloads/usage count immediately from the agreed measurement start; the first claim is available after one month, subject to review. Do not count pre-transfer history as new activity.
+
+**Manual claims are open.** Email hello@openroot.dev with the organization repository URL, reached milestone, dated evidence and previous claims. OpenRoot reviews the evidence, subtracts already credited points, confirms the available reward and its terms, and arranges redemption after approval. The first approved 200-point star award may be redeemed immediately for USD 20 credits. There is no automated portal wallet or self-service redemption yet. Never send API keys or account passwords.
 
 ## What can a reward include?
 
@@ -26,22 +45,22 @@ Categories include AI/API access, GPU or cloud capacity, paid subscriptions, IDE
 ### Initial offers reported by OpenRoot / 12 October 2026
 
 - **DeepLearning.AI:** one month, with **one offer available until claimed**. The exact product and redemption terms still need confirmation.
-- **AI model API credits:** allowances valued at **USD 50-10,000**, with model families including **GPT, Claude, Gemini and Grok**. OpenRoot reports that each supplied key has a strictly enforced budget limit. There is **no announced quantity cap**, which does not mean unlimited spend or an automatic USD 10,000 grant for each person. Permitted distribution, expiry, supported models, recipient eligibility and delivery terms remain to be verified before issuance. This is third-party access, not a transfer of credits into a builder's own model-provider account and not an official model-provider sponsorship.
+- **AI model API credits:** allowances valued at **USD 20-10,000**, with model families including **GPT, Claude, Gemini and Grok**. OpenRoot reports that each supplied key has a strictly enforced budget limit. There is **no announced quantity cap**, which does not mean unlimited spend or an automatic USD 10,000 grant for each person. Permitted distribution, expiry, supported models, recipient eligibility and delivery terms remain to be verified before issuance. This is third-party access, not a transfer of credits into a builder's own model-provider account and not an official model-provider sponsorship.
 - **More benefits coming soon, including paid subscriptions and developer tools.** No additional product, quantity or date is promised.
 
-The vendor identity is kept private in this planning stage. Recipient disclosures needed for informed use must be agreed before redemption. Never post API keys, redemption codes or account credentials in public documentation, applications or GitHub issues. No shared personal account or provider-key transfer is promised. Applications are open for review, but reward claims are not open yet; these offers are not confirmed referral rewards.
+Supplier identity is private; required recipient disclosures, distribution authorization, expiry and delivery terms are confirmed for each offer before issuance. Never post API keys, redemption codes or account credentials in public documentation, applications or GitHub issues. No shared personal account or provider-key transfer is promised. Manual builder milestone claims are open; affiliate fulfillment is a separate process and is not automatically enabled.
 
 Each option must disclose account eligibility, service/duration or credit amount, expiry, redemption deadline, and any ongoing billing obligation. OpenRoot will not ask for your account password or distribute shared paid accounts.
 
 ## Choosing and using a reward
 
-After milestone and claim approval, builders choose among eligible available options for their project or cohort. Credit amount, model availability and terms are confirmed for that offer; the USD 50-10,000 range is not an automatic grant of the maximum to every builder. Free best-effort promotion is a separate member benefit, not something a builder spends a reward on.
+After milestone and claim approval, builders choose among eligible available options for their project or cohort. Credit amount, model availability and terms are confirmed for that offer; the USD 20-10,000 range is not an automatic grant of the maximum to every builder. Free best-effort promotion is a separate member benefit, not something a builder spends a reward on.
 
 Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
 
 We are looking for builders creating, or exploring, projects intended for other people to use: software that solves a problem, provides a useful tool or helps its users do something. Any software category, programming language and documentation language is welcome. Your project does not need existing users, and undecided applicants or an agreed private development phase remain welcome.
 
-Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; reward claims remain closed.
+Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; hackathon bonus claims are not open.
 
 Hermes, OpenClaw and OpenCode support configurable custom providers or OpenAI-compatible endpoints, but the actual reward gateway has not yet been tested with these clients. Cursor custom-key chat needs client/model/gateway verification; these credits do not buy a Cursor subscription or Tab access. Codex requires a gateway that supports the Responses API, streaming and tool-call conversations. Claude Code requires a supported gateway API format, such as Anthropic Messages. Generic OpenAI Chat Completions compatibility alone does not establish Codex or Claude Code support. Exact endpoint, model IDs, client limitations and recipient privacy terms must be confirmed before redemption.
 

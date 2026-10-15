@@ -10,7 +10,7 @@ OpenRoot se centra principalmente en su programa de desarrolladores y su comunid
 
 ## ¿Está abierto?
 
-El programa de desarrolladores está en marcha. Las solicitudes y el portal privado para cuentas aprobadas están disponibles, y los builders aprobados pueden unirse a la organización GitHub. Buscamos socios para ampliar las recompensas. Las cohortes con recompensas financiadas y las reclamaciones aún no están abiertas; las condiciones finales siguen preparándose.
+El programa de desarrolladores está en marcha. Las solicitudes y el portal privado para cuentas aprobadas están disponibles, y los builders aprobados pueden unirse a la organización GitHub. Buscamos socios para ampliar las recompensas. Las solicitudes manuales por hitos están abiertas. Consulta [puntos e instrucciones](rewards.md); las condiciones y financiación se acuerdan por proyecto.
 
 ## ¿Las recompensas son dinero?
 
@@ -40,7 +40,7 @@ La promoción no se limita a una única publicación. Los proyectos pueden apare
 
 Buscamos builders que estén creando o explorando proyectos pensados para que otras personas los utilicen: software que resuelva un problema, ofrezca una herramienta útil o ayude a sus usuarios a hacer algo. Cualquier categoría de software, lenguaje de programación e idioma de documentación es bienvenido. El proyecto no necesita tener usuarios todavía; siguen siendo bienvenidos quienes aún no han elegido una idea y una fase privada de desarrollo acordada.
 
-También son bienvenidos los builders de hackathons, tanto si se preparan para participar como si continúan un proyecto de hackathon. Se están planificando recompensas adicionales por buenos resultados en hackathons elegibles y previamente aprobados. Los eventos elegibles, resultados, pruebas, financiación y condiciones de los bonos deben publicarse y acordarse antes de iniciar una oferta con recompensas. Ganar no concede automáticamente puntos ni recompensas de OpenRoot. Aún no se han anunciado hackathons elegibles concretos ni importes de bonos; las reclamaciones de recompensas siguen cerradas.
+También son bienvenidos los builders de hackathons, tanto si se preparan para participar como si continúan un proyecto de hackathon. Se están planificando recompensas adicionales por buenos resultados en hackathons elegibles y previamente aprobados. Los eventos elegibles, resultados, pruebas, financiación y condiciones de los bonos deben publicarse y acordarse antes de iniciar una oferta con recompensas. Ganar no concede automáticamente puntos ni recompensas de OpenRoot. Aún no se han anunciado hackathons elegibles concretos ni importes de bonos; las solicitudes de bonos de hackathons aún no están abiertas.
 
 ## ¿Puedo participar en hackathons?
 
@@ -48,7 +48,7 @@ Sí, también en colaboraciones y actividades externas. No hay exclusividad. Res
 
 ## ¿Cuáles son las ofertas iniciales?
 
-Un mes de DeepLearning.AI, una oferta hasta reclamarla, y créditos de API de modelos de IA para GPT, Claude, Gemini y Grok, mediante acceso de terceros con presupuesto limitado por USD 50-10,000. OpenRoot informa presupuestos estrictos por clave y ninguna cantidad máxima anunciada. No son créditos transferidos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinios oficiales. Producto, distribución, caducidad, requisitos y entrega siguen pendientes. Las reclamaciones no están abiertas. [Detalles](rewards.md).
+Un mes de DeepLearning.AI, una oferta hasta reclamarla, y créditos de API de modelos de IA para GPT, Claude, Gemini y Grok, mediante acceso de terceros con presupuesto limitado por USD 20-10,000. OpenRoot informa presupuestos estrictos por clave y ninguna cantidad máxima anunciada. No son créditos transferidos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinios oficiales. Producto, distribución, caducidad, requisitos y entrega siguen pendientes. Las solicitudes manuales por hitos están abiertas; consulta la tabla y las instrucciones. [Detalles](rewards.md).
 
 ## ¿Un número de estrellas garantiza recompensa?
 

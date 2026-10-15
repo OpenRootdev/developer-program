@@ -1,6 +1,6 @@
 # Indicações de builders e piloto de afiliados
 
-O plano anterior de indicações por nome GitHub não é um programa de recompensas ativo. O piloto separado de afiliados abaixo aceita candidaturas para análise desde 14 de outubro de 2026; o resgate de recompensas continua fechado.
+O plano anterior de indicações por nome GitHub não é um programa de recompensas ativo. O piloto separado de afiliados abaixo aceita candidaturas para análise desde 14 de outubro de 2026; o resgate self-service de recompensas de afiliados ainda não está disponível.
 
 ## Indique builders que atinjam marcos reais
 

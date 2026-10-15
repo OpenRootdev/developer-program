@@ -10,7 +10,7 @@ OpenRoot est avant tout un programme développeurs et une communauté de builder
 
 ## Est-il ouvert ?
 
-Le programme développeurs est lancé. Les candidatures et le portail privé réservé aux comptes approuvés sont disponibles, et les builders approuvés peuvent rejoindre l'organisation GitHub. Nous recherchons des partenaires pour élargir les récompenses. Les cohortes avec récompenses financées et les demandes de récompense ne sont pas encore ouvertes ; les modalités finales restent à préparer.
+Le programme développeurs est lancé. Les candidatures et le portail privé réservé aux comptes approuvés sont disponibles, et les builders approuvés peuvent rejoindre l'organisation GitHub. Nous recherchons des partenaires pour élargir les récompenses. Les demandes manuelles par jalon sont ouvertes. Voir [points, jalons et instructions](rewards.md) ; conditions et financement sont convenus par projet.
 
 ## Les récompenses sont-elles monétaires ?
 
@@ -40,7 +40,7 @@ La promotion ne se limite pas à une seule publication. Les projets peuvent êtr
 
 Nous recherchons des builders qui créent ou explorent des projets destinés à être utilisés par d’autres personnes : des logiciels qui résolvent un problème, proposent un outil utile ou aident leurs utilisateurs à accomplir quelque chose. Toutes les catégories de logiciels, tous les langages de programmation et toutes les langues de documentation sont les bienvenus. Le projet n’a pas besoin d’avoir déjà des utilisateurs ; les candidats encore sans idée définie et une phase de développement privée convenue restent les bienvenus.
 
-Les builders de hackathons sont aussi les bienvenus, qu’ils préparent une participation ou poursuivent un projet de hackathon. Des récompenses supplémentaires pour de bons résultats dans des hackathons admissibles et préalablement approuvés sont envisagées. Les événements admissibles, résultats, preuves, financement et conditions des bonus doivent être publiés et convenus avant le début d’une offre avec récompenses. Une victoire n’attribue pas automatiquement de points ni de récompenses OpenRoot. Aucun hackathon admissible précis ni montant de bonus n’a encore été annoncé ; les demandes de récompense restent fermées.
+Les builders de hackathons sont aussi les bienvenus, qu’ils préparent une participation ou poursuivent un projet de hackathon. Des récompenses supplémentaires pour de bons résultats dans des hackathons admissibles et préalablement approuvés sont envisagées. Les événements admissibles, résultats, preuves, financement et conditions des bonus doivent être publiés et convenus avant le début d’une offre avec récompenses. Une victoire n’attribue pas automatiquement de points ni de récompenses OpenRoot. Aucun hackathon admissible précis ni montant de bonus n’a encore été annoncé ; les demandes de bonus de hackathon ne sont pas ouvertes.
 
 ## Puis-je participer à des hackathons ?
 
@@ -48,7 +48,7 @@ Oui, ainsi qu'à des collaborations et activités extérieures. La participation
 
 ## Quelles sont les offres initiales ?
 
-Un mois de DeepLearning.AI, une offre jusqu'à attribution, et des crédits API de modèles d'IA pour GPT, Claude, Gemini et Grok, fournis via un accès tiers à budget limité de USD 50-10,000. OpenRoot indique des limites strictes par clé et aucun plafond de quantité annoncé. Ce ne sont ni des crédits transférés sur votre propre compte OpenAI/Anthropic/Google/xAI, ni des partenariats officiels. Produit exact, distribution autorisée, expiration, admissibilité et livraison restent à confirmer. Les demandes ne sont pas ouvertes. [Détails](rewards.md).
+Un mois de DeepLearning.AI, une offre jusqu'à attribution, et des crédits API de modèles d'IA pour GPT, Claude, Gemini et Grok, fournis via un accès tiers à budget limité de USD 20-10,000. OpenRoot indique des limites strictes par clé et aucun plafond de quantité annoncé. Ce ne sont ni des crédits transférés sur votre propre compte OpenAI/Anthropic/Google/xAI, ni des partenariats officiels. Produit exact, distribution autorisée, expiration, admissibilité et livraison restent à confirmer. Les demandes manuelles par jalon sont ouvertes ; voir le barème et les instructions. [Détails](rewards.md).
 
 ## Un nombre d'étoiles garantit-il une récompense ?
 

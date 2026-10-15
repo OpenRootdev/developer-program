@@ -4,7 +4,7 @@
 
 Apoya a quienes crean proyectos GitHub innovadores realmente utilizados. Aporta créditos, suscripciones o herramientas al alcanzar hitos transparentes y verificados.
 
-Buscamos socios fundadores para un piloto acotado. OpenRoot comunica [ofertas iniciales](rewards.md), pero inscripción y solicitudes no están abiertas. Entrega y autorización del proveedor siguen pendientes. No se implica patrocinio oficial de proveedores.
+Buscamos socios fundadores para un piloto acotado. OpenRoot comunica [ofertas iniciales](rewards.md), y las solicitudes manuales por hitos están abiertas. Financiación, entrega y autorización del proveedor se confirman por oferta antes de emitirla. No se implica patrocinio oficial de proveedores.
 
 ## Formas de ayudar
 
