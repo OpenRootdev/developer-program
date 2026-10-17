@@ -48,11 +48,13 @@ Sí, también en colaboraciones y actividades externas. No hay exclusividad. Res
 
 ## ¿Cuáles son las ofertas iniciales?
 
-Un mes de DeepLearning.AI, una oferta hasta reclamarla, y créditos de API de modelos de IA para GPT, Claude, Gemini y Grok, mediante acceso de terceros con presupuesto limitado por USD 20-10,000. OpenRoot informa presupuestos estrictos por clave y ninguna cantidad máxima anunciada. No son créditos transferidos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinios oficiales. Producto, distribución, caducidad, requisitos y entrega siguen pendientes. Las solicitudes manuales por hitos están abiertas; consulta la tabla y las instrucciones. [Detalles](rewards.md).
+Un mes de DeepLearning.AI, una oferta hasta reclamarla, y créditos de API de modelos de IA para GPT-6 Astra, Claude Fable 5.1 y Gemini 4 Argon, mediante acceso de terceros con presupuesto limitado por USD 20-10,000. OpenRoot informa presupuestos estrictos por clave y ninguna cantidad máxima anunciada. No son créditos transferidos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinios oficiales. Producto, distribución, caducidad, requisitos y entrega siguen pendientes. Las solicitudes manuales por hitos están abiertas; consulta la tabla y las instrucciones. [Detalles](rewards.md).
+
+Los modelos actualmente comunicados por el socio son **GPT-6 Astra, Claude Fable 5.1 y Gemini 4 Argon**. La disponibilidad se confirma para cada oferta aprobada. Aspiramos a adoptar sucesores tras el lanzamiento de sus APIs cuando el soporte del socio, las condiciones del proveedor y precios similares lo permitan; no se garantiza actualizar el mismo día del lanzamiento. Cambios importantes de precios o condiciones pueden alterar la lista o dejar las cuotas API temporalmente indisponibles. Los puntos aprobados sin gastar permanecen registrados y pueden canjearse por otras recompensas elegibles disponibles según lo acordado. No son efectivo; no se garantiza inventario alternativo ni canje inmediato. Actualizar el catálogo no cancela recompensas ya acordadas.
 
 ## ¿Un número de estrellas garantiza recompensa?
 
-Solo las reglas publicadas de la cohorte establecen cualificación. La atención puede tener una vía propia; mayor adopción, otra recompensa. No hay meta numérica publicada; las ofertas necesitan condiciones finales de solicitud y entrega.
+Solo las reglas publicadas de la cohorte establecen cualificación. La atención puede tener una vía propia; mayor adopción, otra recompensa. La tabla de estrellas publicada se aplica al crecimiento nuevo elegible acordado. Las solicitudes manuales están abiertas; las estrellas históricas requieren un acuerdo separado. Las tablas universales de descargas y DAU/MAU significativos siguen en revisión.
 
 ## ¿Puedo elegir?
 

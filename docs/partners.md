@@ -37,3 +37,13 @@ The [OpenRoot partner page](https://openroot.dev/partners) prepares a draft loca
 For general questions, contact [hello@openroot.dev](mailto:hello@openroot.dev).
 
 [Program overview](../README.md) | [Reward rules](rewards.md) | [FAQ](faq.md)
+
+## Community hackathons and ambassadors
+
+We plan internal community hackathons and partner-backed public events. We are seeking partners, co-hosts and local ambassadors around the world. A preferred direction is reusable open-source software addressing practical community needs, such as volunteer coordination, repair initiatives or accessible resource directories. These are possible themes, not announced events, beneficiaries or prizes. Dates, rules and any funded rewards will be published before registration.
+
+[Express ambassador interest](https://openroot.dev/ambassadors) by email to partner@openroot.dev. An expression of interest is not an appointment or authority to represent OpenRoot, commit spending, promise rewards or access repositories. Responsibilities, expenses, any compensation and safeguards must be agreed first; participants are not expected to fund event costs personally.
+
+## A developing public-goods initiative
+
+The **OpenRoot Public Goods Fund** is an initiative in development, not a separate legal fund or an open donation program. We intend newsletter advertising, future merchandise income and partner support to sustain public-benefit open-source work alongside staff, operations and reserves. No fixed revenue share or per-subscription contribution is pledged. A free newsletter signup is audience support, not a donation. Restricted sponsor funding follows its agreed purpose.

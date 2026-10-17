@@ -15,36 +15,40 @@ La evidencia debe indicar el evento, la definición de usuario único, el perío
 
 Las estrellas indican interés; las descargas, distribución. Ninguna demuestra automáticamente usuarios activos. Automatización repetida, interacción comprada o inflación propia no prueban resultados reales. Cada cohorte publicará las exclusiones exactas.
 
-## Puntos y solicitudes por hitos / reglas del piloto, 15 de octubre de 2026
+## Puntos y solicitudes por hitos / reglas del piloto, 18 de octubre de 2026
 
-**10 puntos = USD 1 en créditos de API.** Cada nueva estrella orgánica elegible de GitHub vale 10 puntos. Los puntos solo se desbloquean en los hitos siguientes tras revisión manual, no en recuentos intermedios arbitrarios. Son puntos no monetarios, no tokens del modelo ni saldo transferible.
+Los primeros niveles conceden más puntos por cada nueva estrella orgánica elegible de GitHub, con una tasa gradualmente menor al crecer el proyecto. Los puntos solo se desbloquean en los hitos alcanzados de la tabla tras revisión manual, nunca en recuentos intermedios arbitrarios. Son puntos no monetarios, no tokens de modelo ni saldo transferible.
 
-| Estrellas elegibles | Puntos totales desbloqueados | Valor total de API (USD) | Puntos adicionales desde el hito anterior |
+| Nivel del hito | Estrellas elegibles | Puntos totales desbloqueados | Puntos adicionales desde el hito anterior |
 |---|---:|---:|---:|
-| 20 | 200 | 20 | 200 |
-| 50 | 500 | 50 | 300 |
-| 100 | 1000 | 100 | 500 |
-| 250 | 2500 | 250 | 1500 |
-| 500 | 5000 | 500 | 2500 |
-| 1000 | 10000 | 1000 | 5000 |
+| 1 | 20 | 800 | 800 |
+| 2 | 50 | 1700 | 900 |
+| 3 | 100 | 3000 | 1300 |
+| 4 | 250 | 6000 | 3000 |
+| 5 | 500 | 10000 | 4000 |
+| 6 | 1000 | 12500 | 2500 |
+| 7 | 2500 | 17500 | 5000 |
+| 8 | 5000 | 22500 | 5000 |
 
-**20 estrellas desbloquean 200 puntos, canjeables por USD 20 en créditos de API.** Con 7 o 19 estrellas elegibles no se puede solicitar premio por estrellas; con 30 solo está desbloqueado el hito de 20. Alcanzar 50 tras recibir 200 puntos libera otros 300 (USD 30), no otros 500. Saltarse solicitudes anteriores no elimina puntos elegibles: se resta todo lo ya acreditado para el mismo proyecto y vía. No se han anunciado umbrales superiores ni bonos.
+**20 estrellas desbloquean 800 puntos.** Con 7 o 19 no se puede solicitar premio; con 30 solo está desbloqueado el hito de 20. Tras recibir 800 puntos, alcanzar 50 libera otros 900, sumando 1700, no otro premio completo. Saltarse solicitudes previas no elimina puntos elegibles: se resta todo lo acreditado al mismo proyecto y vía. No se anuncian niveles por encima de 5000 estrellas. Las recompensas acordadas no se reducen ni recalculan automáticamente; cambiar un calendario anterior exige acuerdo explícito y conciliación de puntos.
 
 La tabla cubre crecimiento nuevo elegible desde la referencia acordada, no convierte automáticamente todas las estrellas visibles. Antes de participar con recompensas se acuerdan métrica, fuente, referencia, inicio/periodo de medición, pruebas, máximo financiado y condiciones. Las estrellas históricas requieren acuerdo separado; no hay descuento histórico anunciado. El premio se reparte según el acuerdo del proyecto/equipo, sin duplicarlo por colaborador. Se excluyen bots, interacción comprada, inflación propia/del equipo, quitar y volver a añadir estrellas y duplicados entre copias o contadores. Los puntos ya acreditados no se conceden dos veces; no cambian retroactivamente acuerdos válidos ni versiones aceptadas de solicitudes.
 
 **Descargas:** 100 descargas elegibles de versiones/paquetes equivalen a 10 puntos (USD 1). Los umbrales para solicitar, periodo y exclusiones por fuente deben acordarse antes de acumular; esta estimación no permite solicitudes arbitrarias. Las visitas, clones completos y pulls de contenedores no generan premios automáticamente ni representan DAU/MAU del producto. DAU/MAU significativos pueden apoyar la revisión, pero no tienen tasa estándar de puntos. En proyectos transferidos, descargas/uso nuevos elegibles cuentan desde el inicio acordado; la primera solicitud está disponible tras un mes, sujeta a revisión. No se cuenta historial previo como actividad nueva.
 
-**Las solicitudes manuales están abiertas.** Envía a hello@openroot.dev la URL del repositorio en la organización, hito alcanzado, pruebas fechadas y solicitudes anteriores. OpenRoot revisa, resta los puntos ya acreditados, confirma la recompensa disponible y sus condiciones y organiza el canje tras aprobarlo. El primer premio aprobado de 200 puntos puede canjearse de inmediato por USD 20 en créditos. Aún no hay monedero automático ni canje de autoservicio en el portal. No envíes claves API ni contraseñas.
+**Las solicitudes manuales están abiertas.** Envía a hello@openroot.dev la URL del repositorio en la organización, hito alcanzado, pruebas fechadas y solicitudes anteriores. OpenRoot revisa, resta los puntos ya acreditados, confirma la recompensa disponible y sus condiciones y organiza el canje tras aprobarlo. El primer hito de estrellas aprobado puede canjearse sin esperar otro nivel, respetando cualquier plazo de espera acordado para transferencias. El cambio actual es 10 puntos = USD 1 de cuota API no monetaria, no saldo en efectivo ni tasa prometida para toda recompensa futura. Aún no hay monedero automático ni canje de autoservicio en el portal. No envíes claves API ni contraseñas.
 
 ## ¿Qué beneficios?
 
 Categorías: acceso IA/API, GPU/cloud, suscripciones, IDE y herramientas útiles. Los builders deben poder elegir entre opciones elegibles y disponibles.
 
-### Ofertas iniciales comunicadas por OpenRoot / 12 de octubre de 2026
+### Ofertas iniciales comunicadas por OpenRoot / 18 de octubre de 2026
 
 - **DeepLearning.AI:** un mes, **una oferta disponible hasta que se reclame**. Producto exacto y condiciones de canje pendientes.
-- **Créditos de API de modelos de IA:** cuotas valoradas en **USD 20-10,000**, con **familias de modelos GPT, Claude, Gemini y Grok**. OpenRoot informa que cada clave proporcionada tiene un presupuesto estrictamente limitado. **No se anuncia un límite de cantidad de ofertas**, pero esto no significa gasto ilimitado ni USD 10,000 automáticos por persona. Distribución permitida, caducidad, modelos, requisitos y entrega deben verificarse antes de emitirlas. Es acceso de terceros, no transferencia de créditos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinio oficial de esas empresas.
+- **Créditos de API de modelos de IA:** cuotas valoradas en **USD 20-10,000**, con **familias de modelos GPT-6 Astra, Claude Fable 5.1 y Gemini 4 Argon**. OpenRoot informa que cada clave proporcionada tiene un presupuesto estrictamente limitado. **No se anuncia un límite de cantidad de ofertas**, pero esto no significa gasto ilimitado ni USD 10,000 automáticos por persona. Distribución permitida, caducidad, modelos, requisitos y entrega deben verificarse antes de emitirlas. Es acceso de terceros, no transferencia de créditos a tu cuenta OpenAI/Anthropic/Google/xAI ni patrocinio oficial de esas empresas.
 - **Más beneficios próximamente, incluidas suscripciones de pago y herramientas de desarrollo.** No se promete otro producto, cantidad ni fecha.
+
+Los modelos actualmente comunicados por el socio son **GPT-6 Astra, Claude Fable 5.1 y Gemini 4 Argon**. La disponibilidad se confirma para cada oferta aprobada. Aspiramos a adoptar sucesores tras el lanzamiento de sus APIs cuando el soporte del socio, las condiciones del proveedor y precios similares lo permitan; no se garantiza actualizar el mismo día del lanzamiento. Cambios importantes de precios o condiciones pueden alterar la lista o dejar las cuotas API temporalmente indisponibles. Los puntos aprobados sin gastar permanecen registrados y pueden canjearse por otras recompensas elegibles disponibles según lo acordado. No son efectivo; no se garantiza inventario alternativo ni canje inmediato. Actualizar el catálogo no cancela recompensas ya acordadas.
 
 La identidad del proveedor es privada; la información necesaria para el destinatario, autorización de distribución, caducidad y entrega se confirman por oferta antes de emitirla. Nunca publiques claves API, códigos o credenciales en documentación, solicitudes o issues. No se prometen cuentas personales compartidas ni transferencias de claves del proveedor. Las solicitudes manuales de builders por hitos están abiertas; la entrega a afiliados es un proceso separado que no se activa automáticamente.
 

@@ -48,11 +48,13 @@ Oui, ainsi qu'à des collaborations et activités extérieures. La participation
 
 ## Quelles sont les offres initiales ?
 
-Un mois de DeepLearning.AI, une offre jusqu'à attribution, et des crédits API de modèles d'IA pour GPT, Claude, Gemini et Grok, fournis via un accès tiers à budget limité de USD 20-10,000. OpenRoot indique des limites strictes par clé et aucun plafond de quantité annoncé. Ce ne sont ni des crédits transférés sur votre propre compte OpenAI/Anthropic/Google/xAI, ni des partenariats officiels. Produit exact, distribution autorisée, expiration, admissibilité et livraison restent à confirmer. Les demandes manuelles par jalon sont ouvertes ; voir le barème et les instructions. [Détails](rewards.md).
+Un mois de DeepLearning.AI, une offre jusqu'à attribution, et des crédits API de modèles d'IA pour GPT-6 Astra, Claude Fable 5.1 et Gemini 4 Argon, fournis via un accès tiers à budget limité de USD 20-10,000. OpenRoot indique des limites strictes par clé et aucun plafond de quantité annoncé. Ce ne sont ni des crédits transférés sur votre propre compte OpenAI/Anthropic/Google/xAI, ni des partenariats officiels. Produit exact, distribution autorisée, expiration, admissibilité et livraison restent à confirmer. Les demandes manuelles par jalon sont ouvertes ; voir le barème et les instructions. [Détails](rewards.md).
+
+Les modèles actuellement signalés par le partenaire sont **GPT-6 Astra, Claude Fable 5.1 et Gemini 4 Argon**. La disponibilité est confirmée pour chaque offre approuvée. Nous souhaitons adopter leurs successeurs après la sortie de leurs API si le partenaire les prend en charge et si les conditions du fournisseur et des prix similaires le permettent ; aucune mise à niveau le jour de sortie n’est garantie. Des changements importants de prix ou de conditions peuvent modifier la liste ou rendre les crédits API temporairement indisponibles. Les points approuvés non utilisés restent enregistrés et peuvent être échangés contre d’autres avantages admissibles disponibles selon l’accord. Ce ne sont pas des espèces ; aucun stock alternatif ni échange immédiat n’est garanti. Une mise à jour du catalogue n’annule pas les récompenses déjà convenues.
 
 ## Un nombre d'étoiles garantit-il une récompense ?
 
-Seules les règles publiées de la cohorte établissent l'admissibilité. L'attention peut avoir son parcours, et une adoption plus forte une autre récompense. Aucun seuil chiffré n'est annoncé ; les offres nécessitent encore des modalités de demande et livraison finalisées.
+Seules les règles publiées de la cohorte établissent l'admissibilité. L'attention peut avoir son parcours, et une adoption plus forte une autre récompense. Le barème publié s’applique à la nouvelle croissance admissible convenue. Les demandes manuelles sont ouvertes ; les étoiles historiques nécessitent un accord distinct. Les barèmes universels pour les téléchargements et DAU/MAU significatifs restent à l’étude.
 
 ## Puis-je choisir la récompense ?
 

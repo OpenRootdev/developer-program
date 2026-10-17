@@ -15,36 +15,40 @@ Les preuves doivent préciser l’événement, la définition d’un utilisateur
 
 Les étoiles montrent l'intérêt ; les téléchargements montrent la distribution. Aucun ne prouve automatiquement l'usage actif. L'activité automatisée répétée, l'engagement acheté et l'inflation artificielle ne démontrent pas une traction réelle. Les exclusions précises seront publiées pour chaque cohorte.
 
-## Points et demandes par jalon / règles du pilote, 15 octobre 2026
+## Points et demandes par jalon / règles du pilote, 18 octobre 2026
 
-**10 points = USD 1 de crédits API.** Chaque nouvelle étoile GitHub organique admissible vaut 10 points. Les points se débloquent uniquement aux jalons ci-dessous, après examen manuel, pas à des nombres intermédiaires arbitraires. Ce sont des points non monétaires, pas des tokens de modèle ni un solde transférable.
+Les premiers niveaux accordent davantage de points par nouvelle étoile GitHub organique admissible, avec un taux progressivement plus faible à mesure que le projet grandit. Les points se débloquent uniquement aux jalons atteints ci-dessous après examen manuel, jamais à des nombres intermédiaires arbitraires. Ce sont des points non monétaires, pas des tokens de modèle ni un solde transférable.
 
-| Étoiles admissibles | Total de points débloqués | Valeur API totale (USD) | Points supplémentaires depuis le jalon précédent |
+| Niveau du jalon | Étoiles admissibles | Total de points débloqués | Points supplémentaires depuis le jalon précédent |
 |---|---:|---:|---:|
-| 20 | 200 | 20 | 200 |
-| 50 | 500 | 50 | 300 |
-| 100 | 1000 | 100 | 500 |
-| 250 | 2500 | 250 | 1500 |
-| 500 | 5000 | 500 | 2500 |
-| 1000 | 10000 | 1000 | 5000 |
+| 1 | 20 | 800 | 800 |
+| 2 | 50 | 1700 | 900 |
+| 3 | 100 | 3000 | 1300 |
+| 4 | 250 | 6000 | 3000 |
+| 5 | 500 | 10000 | 4000 |
+| 6 | 1000 | 12500 | 2500 |
+| 7 | 2500 | 17500 | 5000 |
+| 8 | 5000 | 22500 | 5000 |
 
-**20 étoiles débloquent 200 points, échangeables contre USD 20 de crédits API.** Avec 7 ou 19 étoiles admissibles, aucune récompense par étoiles n'est réclamable ; avec 30, seul le jalon de 20 est débloqué. Atteindre 50 après avoir reçu 200 points libère 300 points de plus (USD 30), pas 500 à nouveau. Ne pas réclamer un jalon précédent ne fait pas perdre les points admissibles : déduire tout ce qui a déjà été crédité pour le même projet et parcours. Aucun seuil supérieur ni bonus n'est annoncé.
+**20 étoiles débloquent 800 points.** Avec 7 ou 19, aucune récompense par étoiles ne peut être demandée ; avec 30, seul le jalon de 20 est débloqué. Après 800 points crédités, atteindre 50 libère 900 points supplémentaires, soit 1700 au total, pas une nouvelle attribution intégrale. Ne pas réclamer un jalon précédent ne fait pas perdre les points admissibles : déduire tout ce qui a déjà été crédité au même projet et parcours. Aucun niveau au-delà de 5000 étoiles n’est annoncé. Les récompenses convenues ne sont pas réduites ou réévaluées automatiquement ; changer un ancien barème exige un accord explicite et un rapprochement des points crédités.
 
 Le barème porte sur la nouvelle croissance admissible depuis la référence convenue, pas sur la conversion automatique de toutes les étoiles affichées. Avant une participation avec récompenses, convenir de l'indicateur, de la source, de la référence, du début et de la période de mesure, des preuves, du maximum financé et des conditions. Les étoiles historiques nécessitent un accord distinct ; aucune décote historique n'est annoncée. La récompense suit l'accord projet/équipe, sans duplication par contributeur. Exclure bots, interactions achetées, gonflement par soi/l'équipe, retraits et ajouts répétés d'étoiles et doublons entre copies ou compteurs. Les points déjà crédités ne sont jamais attribués deux fois ; les accords valides et versions acceptées de candidatures ne changent pas rétroactivement.
 
 **Téléchargements :** 100 téléchargements admissibles de versions/paquets correspondent à 10 points (USD 1). Seuils de demande, période et exclusions par source doivent être convenus avant accumulation ; cette estimation n'autorise pas les demandes arbitraires. Vues, clones complets et pulls de conteneurs ne sont pas automatiquement récompensables ni des DAU/MAU du produit. Des DAU/MAU significatifs peuvent étayer l'examen, mais aucun taux standard n'est annoncé. Pour un projet transféré, les nouveaux téléchargements/usages admissibles comptent dès le début convenu ; la première demande est possible après un mois, sous réserve d'examen. L'historique antérieur n'est pas une nouvelle activité.
 
-**Les demandes manuelles sont ouvertes.** Envoyer à hello@openroot.dev l'URL du dépôt de l'organisation, le jalon atteint, les preuves datées et les demandes précédentes. OpenRoot examine, déduit les points déjà crédités, confirme la récompense disponible et ses conditions, puis organise l'échange après approbation. La première attribution approuvée de 200 points est immédiatement échangeable contre USD 20 de crédits. Il n'existe pas encore de portefeuille automatique ni d'échange en libre-service dans le portail. Ne jamais envoyer de clés API ni de mots de passe.
+**Les demandes manuelles sont ouvertes.** Envoyer à hello@openroot.dev l'URL du dépôt de l'organisation, le jalon atteint, les preuves datées et les demandes précédentes. OpenRoot examine, déduit les points déjà crédités, confirme la récompense disponible et ses conditions, puis organise l'échange après approbation. Le premier jalon par étoiles approuvé peut être échangé sans attendre un autre niveau, sous réserve du délai convenu pour un transfert. Le taux API actuel est de 10 points = USD 1 de crédit API non monétaire, pas un solde en espèces ni un taux promis pour tout avantage futur. Il n'existe pas encore de portefeuille automatique ni d'échange en libre-service dans le portail. Ne jamais envoyer de clés API ni de mots de passe.
 
 ## Quels avantages ?
 
 Les catégories incluent accès IA/API, GPU ou cloud, abonnements, IDE et outils utiles. Les builders doivent pouvoir choisir parmi les options disponibles auxquelles ils sont admissibles.
 
-### Offres initiales annoncées par OpenRoot / 12 octobre 2026
+### Offres initiales annoncées par OpenRoot / 18 octobre 2026
 
 - **DeepLearning.AI :** un mois, **une seule offre disponible jusqu'à attribution**. Produit exact et modalités de remise à confirmer.
-- **Crédits API de modèles d'IA :** budgets d'une valeur de **USD 20-10,000**, pour les **familles de modèles GPT, Claude, Gemini et Grok**. OpenRoot indique que chaque clé fournie a une limite budgétaire strictement appliquée. **Aucun plafond de quantité d'offres n'est annoncé** ; cela ne signifie ni dépenses illimitées ni attribution automatique de USD 10,000 à chacun. L'autorisation de distribution, l'expiration, les modèles, l'admissibilité et la livraison doivent être vérifiés avant émission. Il s'agit d'accès tiers, pas d'un transfert de crédits sur votre compte OpenAI/Anthropic/Google/xAI ni d'un sponsoring officiel de ces sociétés.
+- **Crédits API de modèles d'IA :** budgets d'une valeur de **USD 20-10,000**, pour les **familles de modèles GPT-6 Astra, Claude Fable 5.1 et Gemini 4 Argon**. OpenRoot indique que chaque clé fournie a une limite budgétaire strictement appliquée. **Aucun plafond de quantité d'offres n'est annoncé** ; cela ne signifie ni dépenses illimitées ni attribution automatique de USD 10,000 à chacun. L'autorisation de distribution, l'expiration, les modèles, l'admissibilité et la livraison doivent être vérifiés avant émission. Il s'agit d'accès tiers, pas d'un transfert de crédits sur votre compte OpenAI/Anthropic/Google/xAI ni d'un sponsoring officiel de ces sociétés.
 - **D'autres avantages arrivent prochainement, dont des abonnements payants et outils de développement.** Aucun produit supplémentaire, quantité ni date n'est promis.
+
+Les modèles actuellement signalés par le partenaire sont **GPT-6 Astra, Claude Fable 5.1 et Gemini 4 Argon**. La disponibilité est confirmée pour chaque offre approuvée. Nous souhaitons adopter leurs successeurs après la sortie de leurs API si le partenaire les prend en charge et si les conditions du fournisseur et des prix similaires le permettent ; aucune mise à niveau le jour de sortie n’est garantie. Des changements importants de prix ou de conditions peuvent modifier la liste ou rendre les crédits API temporairement indisponibles. Les points approuvés non utilisés restent enregistrés et peuvent être échangés contre d’autres avantages admissibles disponibles selon l’accord. Ce ne sont pas des espèces ; aucun stock alternatif ni échange immédiat n’est garanti. Une mise à jour du catalogue n’annule pas les récompenses déjà convenues.
 
 L'identité du fournisseur est privée ; les informations nécessaires au bénéficiaire, l'autorisation de distribution, l'expiration et la livraison sont confirmées par offre avant émission. Ne jamais publier clés API, codes ou identifiants dans les documents, candidatures ou issues. Aucun partage de compte personnel ni transfert de clé fournisseur n'est promis. Les demandes manuelles des builders par jalon sont ouvertes ; la livraison aux affiliés est distincte et n'est pas activée automatiquement.
 

@@ -17,36 +17,40 @@ Usage evidence must state the event, unique-user definition, measurement window 
 
 Stars show interest. Downloads show distribution. Neither automatically equals active users. Repeated automated activity, purchased engagement, and self-generated inflation do not establish genuine traction. Exact exclusions will be published with each cohort.
 
-## Points and milestone claims / pilot rules, 15 October 2026
+## Points and milestone claims / pilot rules, 18 October 2026
 
-**10 points = USD 1 in API credits.** Each eligible new organic GitHub star is worth 10 points. Points unlock only at the milestones below after manual review, not at arbitrary intermediate counts. These are non-cash reward points, not model tokens or a transferable balance.
+Early milestone levels award more points per eligible new organic GitHub star, with a gradually lower rate as projects grow. Points unlock only at the reached milestones below after manual review, never at arbitrary intermediate counts. These are non-cash reward points, not model tokens or a transferable balance.
 
-| Eligible stars | Total points unlocked | Total API value (USD) | Additional points since previous milestone |
+| Milestone level | Eligible stars | Total points unlocked | Additional points since previous milestone |
 |---|---:|---:|---:|
-| 20 | 200 | 20 | 200 |
-| 50 | 500 | 50 | 300 |
-| 100 | 1000 | 100 | 500 |
-| 250 | 2500 | 250 | 1500 |
-| 500 | 5000 | 500 | 2500 |
-| 1000 | 10000 | 1000 | 5000 |
+| 1 | 20 | 800 | 800 |
+| 2 | 50 | 1700 | 900 |
+| 3 | 100 | 3000 | 1300 |
+| 4 | 250 | 6000 | 3000 |
+| 5 | 500 | 10000 | 4000 |
+| 6 | 1000 | 12500 | 2500 |
+| 7 | 2500 | 17500 | 5000 |
+| 8 | 5000 | 22500 | 5000 |
 
-**20 stars unlock 200 points, redeemable for USD 20 in API credits.** At 7 or 19 eligible stars no star award is claimable. At 30, only the 20-star award is unlocked. Reaching 50 after claiming 200 points releases another 300 points (USD 30), not 500 again. Skipping earlier claims does not lose eligible points; subtract everything already credited for that project and track. No further star thresholds or bonuses are announced.
+**20 stars unlock 800 points.** At 7 or 19 eligible stars no star award is claimable. At 30 only the 20-star milestone is unlocked. After 800 points have been credited, reaching 50 stars releases another 900 points, for 1700 total, not another full award. Skipping earlier claims does not lose eligible points; subtract everything already credited for that project and track. No further star levels are announced above 5000. Existing agreed rewards are not reduced or repriced automatically; changing an earlier schedule requires an explicit project agreement and reconciliation.
 
 This schedule covers eligible new growth from the project's agreed baseline, not automatic conversion of a repository's displayed stars. Agree the metric, source, baseline, measurement start/window, evidence, funded maximum and offer terms before reward-bearing enrollment. Historical stars require a separate agreement; no historical discount is announced. Awards belong to the agreed project/team, not a duplicate award for each collaborator. Exclude bots, purchased engagement, self/team farming, repeated unstar/restar and double-counting across copied projects or counters. Previously credited points are never awarded twice. Valid past agreements and accepted application revisions are not changed retroactively.
 
 **Downloads:** 100 eligible release/package downloads correspond to 10 points (USD 1). Source-specific thresholds, window and exclusions must be agreed before accrual; this estimate does not permit arbitrary download claims. Views, full clones and container pulls are not automatically rewardable and are not product DAU/MAU. Meaningful DAU/MAU may support review, but no standard points rate is announced. For transferred projects, eligible new downloads/usage count immediately from the agreed measurement start; the first claim is available after one month, subject to review. Do not count pre-transfer history as new activity.
 
-**Manual claims are open.** Email hello@openroot.dev with the organization repository URL, reached milestone, dated evidence and previous claims. OpenRoot reviews the evidence, subtracts already credited points, confirms the available reward and its terms, and arranges redemption after approval. The first approved 200-point star award may be redeemed immediately for USD 20 credits. There is no automated portal wallet or self-service redemption yet. Never send API keys or account passwords.
+**Manual claims are open.** Email hello@openroot.dev with the organization repository URL, reached milestone, dated evidence and previous claims. OpenRoot reviews the evidence, subtracts already credited points, confirms the available reward and its terms, and arranges redemption after approval. The first approved star milestone can be redeemed without waiting for another level, subject to any agreed transfer waiting period. The current API exchange is 10 points = USD 1 in non-cash API allowance, not a cash balance or a promised rate for every future reward. There is no automated portal wallet or self-service redemption yet. Never send API keys or account passwords.
 
 ## What can a reward include?
 
 Categories include AI/API access, GPU or cloud capacity, paid subscriptions, IDEs, and other useful developer tools. Builders should have a choice among eligible available options.
 
-### Initial offers reported by OpenRoot / 12 October 2026
+### Initial offers reported by OpenRoot / 18 October 2026
 
 - **DeepLearning.AI:** one month, with **one offer available until claimed**. The exact product and redemption terms still need confirmation.
-- **AI model API credits:** allowances valued at **USD 20-10,000**, with model families including **GPT, Claude, Gemini and Grok**. OpenRoot reports that each supplied key has a strictly enforced budget limit. There is **no announced quantity cap**, which does not mean unlimited spend or an automatic USD 10,000 grant for each person. Permitted distribution, expiry, supported models, recipient eligibility and delivery terms remain to be verified before issuance. This is third-party access, not a transfer of credits into a builder's own model-provider account and not an official model-provider sponsorship.
+- **AI model API credits:** allowances valued at **USD 20-10,000**, with model families including **GPT-6 Astra, Claude Fable 5.1 and Gemini 4 Argon**. OpenRoot reports that each supplied key has a strictly enforced budget limit. There is **no announced quantity cap**, which does not mean unlimited spend or an automatic USD 10,000 grant for each person. Permitted distribution, expiry, supported models, recipient eligibility and delivery terms remain to be verified before issuance. This is third-party access, not a transfer of credits into a builder's own model-provider account and not an official model-provider sponsorship.
 - **More benefits coming soon, including paid subscriptions and developer tools.** No additional product, quantity or date is promised.
+
+Current partner-reported models are **GPT-6 Astra, Claude Fable 5.1 and Gemini 4 Argon**. Availability is confirmed for each approved offer. We aim to switch to successor models after their API release when partner support, provider terms and similar pricing allow; no release-day upgrade is guaranteed. Significant pricing or terms changes may change the model list or make API grants temporarily unavailable. Approved unspent points remain recorded and may be redeemed for other eligible available rewards under the agreed terms. Points are not cash; alternative inventory and immediate redemption are not guaranteed. A catalog update does not cancel existing agreed rewards.
 
 Supplier identity is private; required recipient disclosures, distribution authorization, expiry and delivery terms are confirmed for each offer before issuance. Never post API keys, redemption codes or account credentials in public documentation, applications or GitHub issues. No shared personal account or provider-key transfer is promised. Manual builder milestone claims are open; affiliate fulfillment is a separate process and is not automatically enabled.
 

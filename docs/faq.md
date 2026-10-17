@@ -50,11 +50,13 @@ Yes. You may participate in hackathons, outside collaborations and other activit
 
 ## What are the initial offers?
 
-One month of DeepLearning.AI, one available until claimed, plus AI model API credits for GPT, Claude, Gemini and Grok, delivered through budget-limited third-party API access, valued at USD 20-10,000. OpenRoot reports strict per-key budgets and no announced quantity cap for API offers. These are not credits transferred to your own model-provider account or official vendor sponsorships. Exact product, permitted distribution, expiry, eligibility and delivery terms remain pending. Manual milestone claims are open; see the published star ladder and claim instructions. [Read the offer details](rewards.md).
+One month of DeepLearning.AI, one available until claimed, plus AI model API credits for GPT-6 Astra, Claude Fable 5.1 and Gemini 4 Argon, delivered through budget-limited third-party API access, valued at USD 20-10,000. OpenRoot reports strict per-key budgets and no announced quantity cap for API offers. These are not credits transferred to your own model-provider account or official vendor sponsorships. Exact product, permitted distribution, expiry, eligibility and delivery terms remain pending. Manual milestone claims are open; see the published star ladder and claim instructions. [Read the offer details](rewards.md).
+
+Current partner-reported models are **GPT-6 Astra, Claude Fable 5.1 and Gemini 4 Argon**. Availability is confirmed for each approved offer. We aim to switch to successor models after their API release when partner support, provider terms and similar pricing allow; no release-day upgrade is guaranteed. Significant pricing or terms changes may change the model list or make API grants temporarily unavailable. Approved unspent points remain recorded and may be redeemed for other eligible available rewards under the agreed terms. Points are not cash; alternative inventory and immediate redemption are not guaranteed. A catalog update does not cancel existing agreed rewards.
 
 ## Does a GitHub star target guarantee a reward?
 
-Only the enrolled cohort's published rules can establish qualification. Attention may have its own track; stronger adoption may unlock a different reward. No numerical target is announced yet; reported offers still require finalized claim and delivery terms.
+Only the enrolled cohort's published rules can establish qualification. Attention may have its own track; stronger adoption may unlock a different reward. The published star ladder applies to agreed eligible new growth. Manual claims are open; historical stars need a separate agreement. Universal download and meaningful DAU/MAU ladders remain under review.
 
 ## Can I choose my reward?
 

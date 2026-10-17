@@ -37,3 +37,13 @@ Indica beneficio, personas/proyectos que apoya, duración/crédito, cuentas y pa
 Para consultas generales, escribe a [hello@openroot.dev](mailto:hello@openroot.dev).
 
 [Resumen](README.md) | [Reglas](rewards.md) | [FAQ](faq.md)
+
+## Hackathons comunitarios y embajadores
+
+Planeamos hackathons internos y eventos públicos apoyados por socios. Buscamos socios, coorganizadores y embajadores locales de todo el mundo. La dirección preferida es software open source reutilizable que resuelva necesidades prácticas de la comunidad, como coordinación de voluntarios, iniciativas de reparación o directorios accesibles de recursos. Son temas posibles, no eventos, beneficiarios ni premios anunciados. Las fechas, reglas y recompensas financiadas se publicarán antes de abrir inscripciones.
+
+[Expresa interés como embajador](https://openroot.dev/ambassadors) por email a partner@openroot.dev. El interés no es un nombramiento ni autoridad para representar a OpenRoot, comprometer gastos, prometer recompensas o acceder a repositorios. Responsabilidades, gastos, posible remuneración y salvaguardas deben acordarse primero; no se espera que los participantes paguen personalmente los costes de los eventos.
+
+## Una iniciativa de bienes públicos en desarrollo
+
+El **OpenRoot Public Goods Fund** es una iniciativa en desarrollo, no un fondo jurídico separado ni un programa abierto de donaciones. Queremos que la publicidad de la newsletter, futuros ingresos de productos y apoyo de socios sostengan trabajo open source de beneficio público, junto con personal, operaciones y reservas. No se promete una proporción fija de ingresos ni aporte por suscripción. Una suscripción gratuita apoya la audiencia, no es una donación. Los patrocinios restringidos siguen su finalidad acordada.

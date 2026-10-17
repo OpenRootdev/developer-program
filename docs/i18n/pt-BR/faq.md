@@ -48,11 +48,13 @@ Sim, inclusive colaborações e atividades externas. A participação não é ex
 
 ## Quais são as ofertas iniciais?
 
-Um mês de DeepLearning.AI, uma oferta até resgate, e créditos de API para modelos de IA para GPT, Claude, Gemini e Grok e fornecidos por acesso de terceiros com orçamento limitado no valor de USD 20-10,000. A OpenRoot informa orçamentos rígidos por chave e nenhuma quantidade máxima anunciada. Não são créditos transferidos à sua conta OpenAI/Anthropic/Google/xAI nem patrocínios oficiais. Produto, distribuição permitida, validade, elegibilidade e entrega estão pendentes. Pedidos manuais por marcos estão abertos; veja a tabela e as instruções. [Detalhes](rewards.md).
+Um mês de DeepLearning.AI, uma oferta até resgate, e créditos de API para modelos de IA para GPT-6 Astra, Claude Fable 5.1 e Gemini 4 Argon e fornecidos por acesso de terceiros com orçamento limitado no valor de USD 20-10,000. A OpenRoot informa orçamentos rígidos por chave e nenhuma quantidade máxima anunciada. Não são créditos transferidos à sua conta OpenAI/Anthropic/Google/xAI nem patrocínios oficiais. Produto, distribuição permitida, validade, elegibilidade e entrega estão pendentes. Pedidos manuais por marcos estão abertos; veja a tabela e as instruções. [Detalhes](rewards.md).
+
+Os modelos atualmente informados pelo parceiro são **GPT-6 Astra, Claude Fable 5.1 e Gemini 4 Argon**. A disponibilidade é confirmada para cada oferta aprovada. Pretendemos adotar sucessores após o lançamento de suas APIs, quando houver suporte do parceiro, condições do provedor e preços semelhantes; não há garantia de atualização no dia do lançamento. Mudanças significativas de preços ou condições podem alterar a lista ou tornar as cotas de API temporariamente indisponíveis. Pontos aprovados ainda não usados permanecem registrados e podem ser trocados por outras recompensas elegíveis disponíveis, conforme o acordo. Não são dinheiro; não há garantia de estoque alternativo ou resgate imediato. Uma atualização do catálogo não cancela recompensas já acordadas.
 
 ## Uma meta de estrelas garante recompensa?
 
-Somente as regras publicadas da turma estabelecem qualificação. Atenção pode ter trilha própria; adoção maior pode liberar outra opção. Nenhuma meta numérica foi anunciada; ofertas ainda exigem regras finais de solicitação e entrega.
+Somente as regras publicadas da turma estabelecem qualificação. Atenção pode ter trilha própria; adoção maior pode liberar outra opção. A tabela de estrelas publicada vale para crescimento novo elegível acordado. Pedidos manuais estão abertos; estrelas históricas exigem acordo separado. Tabelas universais de downloads e DAU/MAU significativos seguem em análise.
 
 ## Posso escolher?
 
