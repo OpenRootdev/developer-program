@@ -36,7 +36,43 @@ Early milestone levels award more points per eligible new organic GitHub star, w
 
 This schedule covers eligible new growth from the project's agreed baseline, not automatic conversion of a repository's displayed stars. Agree the metric, source, baseline, measurement start/window, evidence, funded maximum and offer terms before reward-bearing enrollment. Historical stars require a separate agreement; no historical discount is announced. Awards belong to the agreed project/team, not a duplicate award for each collaborator. Exclude bots, purchased engagement, self/team farming, repeated unstar/restar and double-counting across copied projects or counters. Previously credited points are never awarded twice. Valid past agreements and accepted application revisions are not changed retroactively.
 
-**Downloads:** 100 eligible release/package downloads correspond to 10 points (USD 1). Source-specific thresholds, window and exclusions must be agreed before accrual; this estimate does not permit arbitrary download claims. Views, full clones and container pulls are not automatically rewardable and are not product DAU/MAU. Meaningful DAU/MAU may support review, but no standard points rate is announced. For transferred projects, eligible new downloads/usage count immediately from the agreed measurement start; the first claim is available after one month, subject to review. Do not count pre-transfer history as new activity.
+### Monthly download milestones / approved pilot, 18 October 2026
+
+Count eligible release/package downloads in a completed calendar month, not lifetime downloads. Agree the authoritative source, package/release scope, calendar timezone, baseline, exclusions and funded maximum before accrual. These are milestone awards, not a flat per-download conversion.
+
+| Level | Monthly downloads | Total points unlocked | Additional points |
+|---|---:|---:|---:|
+| 1 | 100 | 200 | 200 |
+| 2 | 500 | 600 | 400 |
+| 3 | 1000 | 1000 | 400 |
+| 4 | 5000 | 3500 | 2500 |
+| 5 | 10000 | 5500 | 2000 |
+| 6 | 50000 | 10000 | 4500 |
+| 7 | 100000 | 12500 | 2500 |
+
+Raw registry downloads are not unique people. Exclude CI, mirrors, bots, tests, repeated self-downloads and purchased activity. If the source cannot distinguish relevant abuse, require corroboration or use an adoption track instead; not every registry exposes sufficient anti-bot data.
+
+### Meaningful adoption milestones / choose MAU or average DAU
+
+| Level | Meaningful MAU | Or average DAU | Total points unlocked | Additional points |
+|---|---:|---:|---:|---:|
+| 1 | 50 | 10 | 1000 | 1000 |
+| 2 | 100 | 25 | 2000 | 1000 |
+| 3 | 250 | 50 | 4500 | 2500 |
+| 4 | 500 | 100 | 7500 | 3000 |
+| 5 | 1000 | 200 | 11000 | 3500 |
+| 6 | 2500 | 500 | 16000 | 5000 |
+| 7 | 5000 | 1000 | 21000 | 5000 |
+
+MAU means distinct people performing an agreed useful core product action during a completed calendar month, not visitors or signups. Average DAU is the mean of each day's distinct meaningful active users across that month, not the month's highest day. Do not round upward to reach a level. Prefer MAU for most products; average DAU is an alternative for daily-use products.
+
+The selected threshold must hold in two consecutive full calendar months, with the same measure and definition. Use the lower monthly result: 75 and 95 MAU qualify for the 50-MAU level, not 100. MAU and DAU are alternatives, not two awards for the same activity. Choose overlapping distribution/adoption tracks in advance so the same underlying usage is not rewarded twice. Views and clones do not establish product DAU/MAU.
+
+Submit only project-scoped aggregate evidence, with builder permission and appropriate end-user notices, consent where required and access controls. Do not send account emails or raw visitor histories to OpenRoot. An analytics connection alone does not verify activity or reward eligibility.
+
+These are one-time cumulative high-water milestones per approved project and track, not awards paid again each month. Higher verified levels release only the difference from points already credited. Later declines create no negative points or repeat payout. For example, after 200 download points were credited, 500 eligible monthly downloads unlock another 400 points, for 600 total. No further levels above these tables are announced.
+
+For transferred projects, eligible activity counts immediately from the agreed measurement start, not pre-start history. The existing first-claim wait remains one month. New adoption agreements additionally require two consecutive full calendar months, so an adoption claim may take longer. Existing agreed rewards and waiting periods are not changed retroactively. Moving a prior proportional download rate or project-specific usage agreement to this pilot requires an explicit migration agreement and reconciliation of points already credited.
 
 **Manual claims are open.** Email hello@openroot.dev with the organization repository URL, reached milestone, dated evidence and previous claims. OpenRoot reviews the evidence, subtracts already credited points, confirms the available reward and its terms, and arranges redemption after approval. The first approved star milestone can be redeemed without waiting for another level, subject to any agreed transfer waiting period. The current API exchange is 10 points = USD 1 in non-cash API allowance, not a cash balance or a promised rate for every future reward. There is no automated portal wallet or self-service redemption yet. Never send API keys or account passwords.
 

@@ -54,7 +54,7 @@ Os modelos atualmente informados pelo parceiro são **GPT-6 Astra, Claude Fable 
 
 ## Uma meta de estrelas garante recompensa?
 
-Somente as regras publicadas da turma estabelecem qualificação. Atenção pode ter trilha própria; adoção maior pode liberar outra opção. A tabela de estrelas publicada vale para crescimento novo elegível acordado. Pedidos manuais estão abertos; estrelas históricas exigem acordo separado. Tabelas universais de downloads e DAU/MAU significativos seguem em análise.
+Somente as regras publicadas da turma estabelecem qualificação. Atenção pode ter trilha própria; adoção maior pode liberar outra opção. A tabela de estrelas publicada vale para crescimento novo elegível acordado. Pedidos manuais estão abertos; estrelas históricas exigem acordo separado. As tabelas aprovadas de downloads e adoção estão no guia de recompensas. Contagens mensais definem marcos cumulativos únicos pelo maior nível, não prêmios recorrentes. Adoção usa MAU significativo ou DAU médio no nível pedido por dois meses completos consecutivos; uso sobreposto não é pago duas vezes. Acordos de projetos existentes continuam válidos sem migração explícita.
 
 ## Posso escolher?
 

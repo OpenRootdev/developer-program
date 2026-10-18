@@ -34,7 +34,43 @@ Los primeros niveles conceden más puntos por cada nueva estrella orgánica eleg
 
 La tabla cubre crecimiento nuevo elegible desde la referencia acordada, no convierte automáticamente todas las estrellas visibles. Antes de participar con recompensas se acuerdan métrica, fuente, referencia, inicio/periodo de medición, pruebas, máximo financiado y condiciones. Las estrellas históricas requieren acuerdo separado; no hay descuento histórico anunciado. El premio se reparte según el acuerdo del proyecto/equipo, sin duplicarlo por colaborador. Se excluyen bots, interacción comprada, inflación propia/del equipo, quitar y volver a añadir estrellas y duplicados entre copias o contadores. Los puntos ya acreditados no se conceden dos veces; no cambian retroactivamente acuerdos válidos ni versiones aceptadas de solicitudes.
 
-**Descargas:** 100 descargas elegibles de versiones/paquetes equivalen a 10 puntos (USD 1). Los umbrales para solicitar, periodo y exclusiones por fuente deben acordarse antes de acumular; esta estimación no permite solicitudes arbitrarias. Las visitas, clones completos y pulls de contenedores no generan premios automáticamente ni representan DAU/MAU del producto. DAU/MAU significativos pueden apoyar la revisión, pero no tienen tasa estándar de puntos. En proyectos transferidos, descargas/uso nuevos elegibles cuentan desde el inicio acordado; la primera solicitud está disponible tras un mes, sujeta a revisión. No se cuenta historial previo como actividad nueva.
+### Hitos de descargas mensuales / piloto aprobado, 18 de octubre de 2026
+
+Cuenta descargas elegibles de versiones/paquetes en un mes natural terminado, no el total histórico. Antes de acumular, acuerda fuente autorizada, alcance, zona horaria del calendario, referencia, exclusiones y máximo financiado. Son premios por hitos, no una conversión fija por descarga.
+
+| Nivel | Descargas mensuales | Puntos totales desbloqueados | Puntos adicionales |
+|---|---:|---:|---:|
+| 1 | 100 | 200 | 200 |
+| 2 | 500 | 600 | 400 |
+| 3 | 1000 | 1000 | 400 |
+| 4 | 5000 | 3500 | 2500 |
+| 5 | 10000 | 5500 | 2000 |
+| 6 | 50000 | 10000 | 4500 |
+| 7 | 100000 | 12500 | 2500 |
+
+Las descargas brutas del registro no son personas únicas. Excluye CI, espejos, bots, pruebas, descargas propias repetidas y actividad comprada. Si la fuente no distingue abusos relevantes, exige corroboración o usa una vía de adopción; no todos los registros ofrecen datos antibot suficientes.
+
+### Hitos de adopción significativa / elige MAU o DAU medio
+
+| Nivel | MAU significativo | O DAU medio | Puntos totales desbloqueados | Puntos adicionales |
+|---|---:|---:|---:|---:|
+| 1 | 50 | 10 | 1000 | 1000 |
+| 2 | 100 | 25 | 2000 | 1000 |
+| 3 | 250 | 50 | 4500 | 2500 |
+| 4 | 500 | 100 | 7500 | 3000 |
+| 5 | 1000 | 200 | 11000 | 3500 |
+| 6 | 2500 | 500 | 16000 | 5000 |
+| 7 | 5000 | 1000 | 21000 | 5000 |
+
+MAU son personas distintas que realizan una acción central útil acordada del producto durante un mes natural terminado, no visitantes ni registros. DAU medio es la media de los usuarios activos distintos significativos de cada día de ese mes, no el día más alto. No redondees hacia arriba para alcanzar un nivel. MAU es preferible para la mayoría de productos; DAU medio es una alternativa para productos de uso diario.
+
+El umbral elegido debe alcanzarse en dos meses naturales completos consecutivos con la misma medida y definición. Usa el menor resultado mensual: 75 y 95 MAU cumplen el nivel de 50 MAU, no 100. MAU y DAU son alternativas, no dos premios por la misma actividad. Elige de antemano las vías superpuestas de distribución/adopción para no recompensar dos veces el mismo uso. Visitas y clones no demuestran DAU/MAU del producto.
+
+Envía solo pruebas agregadas limitadas al proyecto, con permiso del responsable, avisos adecuados a usuarios, consentimiento cuando corresponda y controles de acceso. No envíes emails de cuentas ni historiales brutos de visitantes a OpenRoot. Conectar una herramienta analítica no verifica actividad ni elegibilidad.
+
+Son hitos acumulativos únicos según el mayor nivel alcanzado por proyecto y vía aprobados, no premios pagados otra vez cada mes. Un nivel superior verificado libera solo la diferencia respecto a los puntos ya acreditados. Una caída posterior no genera puntos negativos ni otro pago. Por ejemplo, tras recibir 200 puntos por descargas, 500 descargas mensuales elegibles liberan otros 400, sumando 600. No hay niveles anunciados por encima de estas tablas.
+
+En proyectos transferidos, la actividad elegible cuenta desde el inicio de medición acordado, no el historial previo. La espera existente para la primera solicitud sigue siendo un mes. Los nuevos acuerdos de adopción además requieren dos meses naturales completos consecutivos, por lo que pueden tardar más. No cambian retroactivamente recompensas ni esperas acordadas. Migrar una tasa proporcional anterior o un acuerdo de uso específico exige un acuerdo explícito y conciliación de puntos acreditados.
 
 **Las solicitudes manuales están abiertas.** Envía a hello@openroot.dev la URL del repositorio en la organización, hito alcanzado, pruebas fechadas y solicitudes anteriores. OpenRoot revisa, resta los puntos ya acreditados, confirma la recompensa disponible y sus condiciones y organiza el canje tras aprobarlo. El primer hito de estrellas aprobado puede canjearse sin esperar otro nivel, respetando cualquier plazo de espera acordado para transferencias. El cambio actual es 10 puntos = USD 1 de cuota API no monetaria, no saldo en efectivo ni tasa prometida para toda recompensa futura. Aún no hay monedero automático ni canje de autoservicio en el portal. No envíes claves API ni contraseñas.
 

@@ -56,7 +56,7 @@ Current partner-reported models are **GPT-6 Astra, Claude Fable 5.1 and Gemini 4
 
 ## Does a GitHub star target guarantee a reward?
 
-Only the enrolled cohort's published rules can establish qualification. Attention may have its own track; stronger adoption may unlock a different reward. The published star ladder applies to agreed eligible new growth. Manual claims are open; historical stars need a separate agreement. Universal download and meaningful DAU/MAU ladders remain under review.
+Only the enrolled cohort's published rules can establish qualification. Attention may have its own track; stronger adoption may unlock a different reward. The published star ladder applies to agreed eligible new growth. Manual claims are open; historical stars need a separate agreement. Approved download and adoption ladders are published in the reward guide. Monthly counts set one-time high-water milestones, not recurring awards. Adoption uses either meaningful MAU or average DAU at the claimed level for two consecutive full months; overlapping usage is not paid twice. Existing project agreements remain valid unless migration is explicitly agreed.
 
 ## Can I choose my reward?
 

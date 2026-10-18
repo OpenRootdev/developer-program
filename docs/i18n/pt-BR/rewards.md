@@ -34,7 +34,43 @@ Os primeiros níveis concedem mais pontos por nova estrela GitHub orgânica eleg
 
 A tabela cobre crescimento novo elegível a partir da referência acordada, não conversão automática de todas as estrelas exibidas. Antes de participar com recompensas, acorde métrica, fonte, referência, início/janela de medição, evidências, máximo financiado e condições da oferta. Estrelas históricas exigem acordo separado; nenhum desconto histórico foi anunciado. O prêmio segue a divisão do projeto/equipe, sem duplicação por colaborador. Exclua bots, engajamento comprado, inflação própria/da equipe, remover e recolocar estrelas e contagem duplicada entre cópias ou contadores. Pontos já creditados não são concedidos novamente; acordos válidos e versões aceitas de candidaturas não mudam retroativamente.
 
-**Downloads:** 100 downloads elegíveis de versões/pacotes correspondem a 10 pontos (USD 1). Metas para pedido, janela e exclusões por fonte devem ser acordadas antes da acumulação; essa estimativa não permite pedidos arbitrários. Visualizações, clones completos e pulls de contêineres não geram recompensas automaticamente nem medem DAU/MAU do produto. DAU/MAU significativos podem apoiar análise, mas não há taxa padrão de pontos. Em projetos transferidos, downloads/uso novos elegíveis contam desde o início acordado; o primeiro pedido fica disponível após um mês, sujeito a análise. Não conte histórico anterior como atividade nova.
+### Marcos de downloads mensais / piloto aprovado, 18 de outubro de 2026
+
+Conte downloads elegíveis de versões/pacotes em um mês civil concluído, não downloads acumulados de toda a vida. Antes de acumular, acorde fonte oficial, escopo, fuso do calendário, referência, exclusões e máximo financiado. São prêmios por marcos, não uma conversão fixa por download.
+
+| Nível | Downloads mensais | Total de pontos liberados | Pontos adicionais |
+|---|---:|---:|---:|
+| 1 | 100 | 200 | 200 |
+| 2 | 500 | 600 | 400 |
+| 3 | 1000 | 1000 | 400 |
+| 4 | 5000 | 3500 | 2500 |
+| 5 | 10000 | 5500 | 2000 |
+| 6 | 50000 | 10000 | 4500 |
+| 7 | 100000 | 12500 | 2500 |
+
+Downloads brutos do registro não são pessoas únicas. Exclua CI, espelhos, bots, testes, downloads próprios repetidos e atividade comprada. Se a fonte não distinguir abusos relevantes, exija confirmação adicional ou use uma trilha de adoção; nem todo registro oferece dados antibot suficientes.
+
+### Marcos de adoção significativa / escolha MAU ou DAU médio
+
+| Nível | MAU significativo | Ou DAU médio | Total de pontos liberados | Pontos adicionais |
+|---|---:|---:|---:|---:|
+| 1 | 50 | 10 | 1000 | 1000 |
+| 2 | 100 | 25 | 2000 | 1000 |
+| 3 | 250 | 50 | 4500 | 2500 |
+| 4 | 500 | 100 | 7500 | 3000 |
+| 5 | 1000 | 200 | 11000 | 3500 |
+| 6 | 2500 | 500 | 16000 | 5000 |
+| 7 | 5000 | 1000 | 21000 | 5000 |
+
+MAU são pessoas distintas que realizam uma ação central útil acordada no produto durante um mês civil concluído, não visitantes ou cadastros. DAU médio é a média dos usuários ativos distintos significativos de cada dia do mês, não o maior dia. Não arredonde para cima para atingir um nível. Prefira MAU para a maioria dos produtos; DAU médio é uma alternativa para uso diário.
+
+O limite escolhido deve ser atingido em dois meses civis completos consecutivos, com a mesma medida e definição. Use o menor resultado mensal: 75 e 95 MAU qualificam para o nível de 50 MAU, não 100. MAU e DAU são alternativas, não dois prêmios pela mesma atividade. Escolha antes as trilhas de distribuição/adoção sobrepostas para não recompensar duas vezes o mesmo uso. Visualizações e clones não estabelecem DAU/MAU do produto.
+
+Envie apenas evidências agregadas e limitadas ao projeto, com permissão do responsável, avisos adequados aos usuários, consentimento quando exigido e controles de acesso. Não envie emails de contas nem históricos brutos de visitantes à OpenRoot. Conectar uma ferramenta de análise não comprova atividade ou elegibilidade.
+
+São marcos cumulativos únicos pelo maior nível alcançado por projeto e trilha aprovados, não prêmios pagos novamente todo mês. Níveis maiores verificados liberam apenas a diferença dos pontos já creditados. Quedas posteriores não geram pontos negativos nem novo pagamento. Por exemplo, após 200 pontos de downloads creditados, 500 downloads mensais elegíveis liberam mais 400, totalizando 600. Não há níveis anunciados acima destas tabelas.
+
+Em projetos transferidos, atividade elegível conta desde o início de medição acordado, não o histórico anterior. A espera existente para o primeiro pedido continua em um mês. Novos acordos de adoção também exigem dois meses civis completos consecutivos, podendo levar mais tempo. Recompensas e esperas já acordadas não mudam retroativamente. Migrar uma taxa proporcional anterior ou um acordo de uso específico exige acordo explícito e conciliação dos pontos creditados.
 
 **Pedidos manuais estão abertos.** Envie a hello@openroot.dev a URL do repositório na organização, marco atingido, evidências datadas e pedidos anteriores. A OpenRoot analisa, desconta pontos já creditados, confirma a recompensa disponível e suas condições e organiza o resgate após aprovação. O primeiro marco de estrelas aprovado pode ser resgatado sem esperar outro nível, respeitando o prazo de espera acordado para transferências. A conversão atual é 10 pontos = USD 1 em cota de API não monetária, não saldo em dinheiro nem taxa prometida para toda recompensa futura. Ainda não há carteira automática no portal nem resgate self-service. Nunca envie chaves API ou senhas.
 

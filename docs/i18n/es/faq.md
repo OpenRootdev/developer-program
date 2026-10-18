@@ -54,7 +54,7 @@ Los modelos actualmente comunicados por el socio son **GPT-6 Astra, Claude Fable
 
 ## ¿Un número de estrellas garantiza recompensa?
 
-Solo las reglas publicadas de la cohorte establecen cualificación. La atención puede tener una vía propia; mayor adopción, otra recompensa. La tabla de estrellas publicada se aplica al crecimiento nuevo elegible acordado. Las solicitudes manuales están abiertas; las estrellas históricas requieren un acuerdo separado. Las tablas universales de descargas y DAU/MAU significativos siguen en revisión.
+Solo las reglas publicadas de la cohorte establecen cualificación. La atención puede tener una vía propia; mayor adopción, otra recompensa. La tabla de estrellas publicada se aplica al crecimiento nuevo elegible acordado. Las solicitudes manuales están abiertas; las estrellas históricas requieren un acuerdo separado. Las tablas aprobadas de descargas y adopción están en la guía de recompensas. Las cifras mensuales definen hitos acumulativos únicos por el máximo nivel, no premios recurrentes. Adopción usa MAU significativo o DAU medio al nivel solicitado durante dos meses completos consecutivos; el uso superpuesto no se paga dos veces. Los acuerdos existentes siguen vigentes salvo migración explícita.
 
 ## ¿Puedo elegir?
 

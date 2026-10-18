@@ -34,7 +34,43 @@ Les premiers niveaux accordent davantage de points par nouvelle étoile GitHub o
 
 Le barème porte sur la nouvelle croissance admissible depuis la référence convenue, pas sur la conversion automatique de toutes les étoiles affichées. Avant une participation avec récompenses, convenir de l'indicateur, de la source, de la référence, du début et de la période de mesure, des preuves, du maximum financé et des conditions. Les étoiles historiques nécessitent un accord distinct ; aucune décote historique n'est annoncée. La récompense suit l'accord projet/équipe, sans duplication par contributeur. Exclure bots, interactions achetées, gonflement par soi/l'équipe, retraits et ajouts répétés d'étoiles et doublons entre copies ou compteurs. Les points déjà crédités ne sont jamais attribués deux fois ; les accords valides et versions acceptées de candidatures ne changent pas rétroactivement.
 
-**Téléchargements :** 100 téléchargements admissibles de versions/paquets correspondent à 10 points (USD 1). Seuils de demande, période et exclusions par source doivent être convenus avant accumulation ; cette estimation n'autorise pas les demandes arbitraires. Vues, clones complets et pulls de conteneurs ne sont pas automatiquement récompensables ni des DAU/MAU du produit. Des DAU/MAU significatifs peuvent étayer l'examen, mais aucun taux standard n'est annoncé. Pour un projet transféré, les nouveaux téléchargements/usages admissibles comptent dès le début convenu ; la première demande est possible après un mois, sous réserve d'examen. L'historique antérieur n'est pas une nouvelle activité.
+### Jalons de téléchargements mensuels / pilote approuvé, 18 octobre 2026
+
+Compter les téléchargements admissibles de versions/paquets pendant un mois civil terminé, pas leur total historique. Convenir avant accumulation de la source de référence, du périmètre, du fuseau du calendrier, de la référence initiale, des exclusions et du maximum financé. Ce sont des récompenses par jalon, pas un taux fixe par téléchargement.
+
+| Niveau | Téléchargements mensuels | Total de points débloqués | Points supplémentaires |
+|---|---:|---:|---:|
+| 1 | 100 | 200 | 200 |
+| 2 | 500 | 600 | 400 |
+| 3 | 1000 | 1000 | 400 |
+| 4 | 5000 | 3500 | 2500 |
+| 5 | 10000 | 5500 | 2000 |
+| 6 | 50000 | 10000 | 4500 |
+| 7 | 100000 | 12500 | 2500 |
+
+Les téléchargements bruts du registre ne sont pas des personnes uniques. Exclure CI, miroirs, bots, tests, téléchargements personnels répétés et activité achetée. Si la source ne distingue pas les abus pertinents, exiger des preuves complémentaires ou utiliser un parcours d’adoption ; tous les registres ne fournissent pas assez de données antibot.
+
+### Jalons d’adoption significative / choisir MAU ou DAU moyen
+
+| Niveau | MAU significatif | Ou DAU moyen | Total de points débloqués | Points supplémentaires |
+|---|---:|---:|---:|---:|
+| 1 | 50 | 10 | 1000 | 1000 |
+| 2 | 100 | 25 | 2000 | 1000 |
+| 3 | 250 | 50 | 4500 | 2500 |
+| 4 | 500 | 100 | 7500 | 3000 |
+| 5 | 1000 | 200 | 11000 | 3500 |
+| 6 | 2500 | 500 | 16000 | 5000 |
+| 7 | 5000 | 1000 | 21000 | 5000 |
+
+MAU désigne les personnes distinctes réalisant une action centrale utile du produit convenue pendant un mois civil terminé, pas les visiteurs ou inscriptions. Le DAU moyen est la moyenne des utilisateurs actifs distincts significatifs de chaque jour du mois, pas le jour le plus élevé. Ne pas arrondir vers le haut pour atteindre un niveau. Privilégier MAU pour la plupart des produits ; le DAU moyen convient comme alternative aux produits utilisés au quotidien.
+
+Le seuil choisi doit être atteint pendant deux mois civils complets consécutifs avec la même mesure et définition. Retenir le résultat mensuel le plus bas : 75 et 95 MAU satisfont le niveau de 50 MAU, pas 100. MAU et DAU sont des alternatives, pas deux récompenses pour la même activité. Choisir à l’avance les parcours de distribution/adoption qui se chevauchent afin de ne pas récompenser deux fois le même usage. Les vues et clones ne démontrent pas les DAU/MAU du produit.
+
+Fournir uniquement des preuves agrégées limitées au projet, avec l’autorisation du responsable, une information adaptée des utilisateurs, leur consentement lorsque requis et des contrôles d’accès. Ne pas envoyer d’emails de comptes ni d’historiques bruts de visiteurs à OpenRoot. Une connexion analytique seule ne vérifie ni activité ni admissibilité.
+
+Ces jalons sont cumulatifs et uniques selon le niveau maximal atteint par projet et parcours approuvés, pas des récompenses versées de nouveau chaque mois. Un niveau supérieur vérifié libère seulement la différence avec les points déjà crédités. Une baisse ultérieure ne crée ni points négatifs ni nouveau versement. Par exemple, après 200 points de téléchargements crédités, 500 téléchargements mensuels admissibles libèrent 400 points de plus, soit 600 au total. Aucun niveau supérieur à ces tableaux n’est annoncé.
+
+Pour les projets transférés, l’activité admissible compte dès le début de mesure convenu, pas l’historique antérieur. Le délai existant pour la première demande reste d’un mois. Les nouveaux accords d’adoption exigent aussi deux mois civils complets consécutifs et peuvent donc prendre plus longtemps. Récompenses et délais convenus ne changent pas rétroactivement. Migrer un ancien taux proportionnel ou un accord d’usage propre au projet exige un accord explicite et un rapprochement des points crédités.
 
 **Les demandes manuelles sont ouvertes.** Envoyer à hello@openroot.dev l'URL du dépôt de l'organisation, le jalon atteint, les preuves datées et les demandes précédentes. OpenRoot examine, déduit les points déjà crédités, confirme la récompense disponible et ses conditions, puis organise l'échange après approbation. Le premier jalon par étoiles approuvé peut être échangé sans attendre un autre niveau, sous réserve du délai convenu pour un transfert. Le taux API actuel est de 10 points = USD 1 de crédit API non monétaire, pas un solde en espèces ni un taux promis pour tout avantage futur. Il n'existe pas encore de portefeuille automatique ni d'échange en libre-service dans le portail. Ne jamais envoyer de clés API ni de mots de passe.
 

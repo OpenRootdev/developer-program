@@ -54,7 +54,7 @@ Les modèles actuellement signalés par le partenaire sont **GPT-6 Astra, Claude
 
 ## Un nombre d'étoiles garantit-il une récompense ?
 
-Seules les règles publiées de la cohorte établissent l'admissibilité. L'attention peut avoir son parcours, et une adoption plus forte une autre récompense. Le barème publié s’applique à la nouvelle croissance admissible convenue. Les demandes manuelles sont ouvertes ; les étoiles historiques nécessitent un accord distinct. Les barèmes universels pour les téléchargements et DAU/MAU significatifs restent à l’étude.
+Seules les règles publiées de la cohorte établissent l'admissibilité. L'attention peut avoir son parcours, et une adoption plus forte une autre récompense. Le barème publié s’applique à la nouvelle croissance admissible convenue. Les demandes manuelles sont ouvertes ; les étoiles historiques nécessitent un accord distinct. Les barèmes approuvés de téléchargements et d’adoption figurent dans le guide des récompenses. Les comptes mensuels définissent des jalons cumulatifs uniques selon le maximum atteint, pas des récompenses récurrentes. L’adoption utilise MAU significatif ou DAU moyen au niveau demandé pendant deux mois complets consécutifs ; un usage commun n’est pas payé deux fois. Les accords existants restent valides sans migration explicite.
 
 ## Puis-je choisir la récompense ?
 
