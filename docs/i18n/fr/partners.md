@@ -22,6 +22,8 @@ La promotion des projets membres par OpenRoot est entièrement gratuite et fourn
 
 La promotion ne se limite pas à une seule publication. Les projets peuvent être présentés plusieurs fois dans la newsletter et sur les réseaux sociaux, sous forme de mises en avant, de présentations et d’articles approfondis. Les builders peuvent envoyer leurs versions, mises à jour importantes et témoignages d’utilisateurs à hello@openroot.dev pour examen éditorial. Ce soutien est entièrement gratuit et n’exige pas de gagner ou d’échanger une récompense. Le calendrier et le format dépendent de la pertinence éditoriale et des capacités disponibles ; OpenRoot ne garantit ni nouvelles publications, ni portée, ni résultats.
 
+Pour proposer une mise en avant, écrivez à hello@openroot.dev avec le lien du projet ou de la version, les personnes auxquelles il est utile, les nouveautés, les points précis que vous souhaitez mettre en valeur et, si vous le souhaitez, des captures d’écran ou une démonstration que vous avez l’autorisation de partager. OpenRoot rédige manuellement la publication finale pour respecter ses critères éditoriaux et le style de chaque plateforme. Une demande n’est pas nécessaire : OpenRoot peut aussi présenter, de sa propre initiative, des mises à jour publiques de projets de membres. N’envoyez pas d’identifiants, de documents confidentiels ni de données personnelles d’autres personnes. Le processus se fait par e-mail ; aucun formulaire dédié n’est encore disponible dans le portail.
+
 Nous ne promettons ni taille d'audience, conversions, avis favorables, exclusivité ou accès aux e-mails des candidats. Une reconnaissance publique nécessite l'autorisation. Le financement n'achète pas le contrôle des décisions de réussite.
 
 ## Commencer modestement

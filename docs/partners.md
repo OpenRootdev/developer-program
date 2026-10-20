@@ -22,6 +22,8 @@ Member-project promotion through OpenRoot's publication and socials is completel
 
 Promotion is not limited to one feature. Projects may appear multiple times in the newsletter and on social channels through project highlights, showcases and in-depth articles. Builders can send releases, substantial updates and user stories to hello@openroot.dev for editorial consideration. This support is completely free of charge and does not require earning or redeeming a reward. Timing and format depend on editorial fit and available capacity; OpenRoot does not guarantee repeat coverage, reach or results.
 
+To suggest a feature, email hello@openroot.dev with your project or release link, who it helps, what changed, the specific points you would like highlighted, and optional screenshots or a demo you have permission to share. OpenRoot manually drafts the final post to fit its editorial standards and each platform. A request is not required: OpenRoot may also feature public member-project updates on its own initiative. Do not send credentials, confidential material or other people's personal data. This is an email process; a dedicated portal request form is not available yet.
+
 We do not promise an audience size, guaranteed customer conversions, favorable editorial coverage, exclusivity, or access to applicant emails. Public acknowledgment requires permission. Sponsor support does not purchase control of the program's success decisions.
 
 ## Make a small first commitment

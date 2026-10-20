@@ -16,6 +16,8 @@ Crie um projeto aprovado na organização OpenRoot e combine sua trilha de suces
 
 A divulgação não se limita a uma única publicação. Os projetos podem aparecer várias vezes na newsletter e nas redes sociais, com destaques, apresentações e artigos aprofundados. Builders podem enviar lançamentos, atualizações relevantes e histórias de usuários para hello@openroot.dev para avaliação editorial. Esse apoio é totalmente gratuito e não exige ganhar ou resgatar uma recompensa. O momento e o formato dependem da adequação editorial e da capacidade disponível; a OpenRoot não garante novas divulgações, alcance ou resultados.
 
+Para sugerir uma divulgação, envie um e-mail para hello@openroot.dev com o link do projeto ou lançamento, quem ele ajuda, o que mudou, os pontos específicos que gostaria de destacar e, opcionalmente, capturas de tela ou uma demonstração que tenha permissão para compartilhar. A OpenRoot redige manualmente a publicação final para seguir seus padrões editoriais e o estilo de cada plataforma. Não é necessário enviar uma solicitação: a OpenRoot também pode divulgar, por iniciativa própria, atualizações públicas de projetos dos membros. Não envie credenciais, material confidencial ou dados pessoais de outras pessoas. O processo é feito por e-mail; ainda não há um formulário específico no portal.
+
 ## Mostre o progresso
 
 O portal planejado reunirá repositórios associados, contribuições, versões e provas de marcos. Métricas indicam fonte e período. Usuários e downloads de pacotes precisam de fontes além do GitHub.

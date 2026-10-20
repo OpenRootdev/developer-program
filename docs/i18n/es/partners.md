@@ -22,6 +22,8 @@ La promoción de proyectos miembros es totalmente gratuita y se realiza según n
 
 La promoción no se limita a una única publicación. Los proyectos pueden aparecer varias veces en la newsletter y en las redes sociales mediante destacados, presentaciones y artículos en profundidad. Los builders pueden enviar lanzamientos, actualizaciones importantes e historias de usuarios a hello@openroot.dev para su consideración editorial. Este apoyo es totalmente gratuito y no exige obtener ni canjear una recompensa. El momento y el formato dependen de la adecuación editorial y de la capacidad disponible; OpenRoot no garantiza nuevas publicaciones, alcance ni resultados.
 
+Para proponer una publicación, escribe a hello@openroot.dev con el enlace del proyecto o lanzamiento, a quién ayuda, qué cambió, los puntos concretos que te gustaría destacar y, opcionalmente, capturas de pantalla o una demostración que tengas permiso para compartir. OpenRoot redacta manualmente la publicación final para adaptarla a sus criterios editoriales y al estilo de cada plataforma. No es necesario enviar una solicitud: OpenRoot también puede destacar, por iniciativa propia, actualizaciones públicas de proyectos de miembros. No envíes credenciales, material confidencial ni datos personales de otras personas. El proceso se realiza por correo electrónico; todavía no hay un formulario específico en el portal.
+
 No prometemos audiencia, conversiones, cobertura favorable, exclusividad ni acceso a correos de candidatos. El reconocimiento público necesita permiso. El patrocinio no compra el control de las decisiones sobre resultados.
 
 ## Empieza con un compromiso pequeño
