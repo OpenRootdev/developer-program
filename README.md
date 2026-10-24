@@ -12,7 +12,9 @@ We are looking for builders creating, or exploring, projects intended for other 
 
 Hackathon builders are welcome too, whether preparing to enter or continuing a hackathon project. Additional rewards for strong results in eligible, pre-approved hackathons are planned. Eligible events, outcomes, evidence, funding and bonus terms must be published and agreed before a reward-bearing offer begins. A win does not automatically earn OpenRoot points or a reward. No specific eligible hackathons or bonus amounts are announced yet; hackathon bonus claims are not open.
 
-Bring your own ideas in any software category, programming language or repository/documentation language, including non-English content. You direct your project and retain rights to your own code. A private development phase is welcome; any public-release conditions are agreed before enrollment. Organization owners retain administrative access to organization-hosted repositories.
+You retain rights to your own code and lead your project. Your repository is hosted under OpenRootdev, with repository-level Admin for the member who creates it or brings it in through an approved transfer. This is not a work-for-hire arrangement or a blanket transfer of code rights.
+
+Existing organization members can create new repositories without another application or separate OpenRoot approval. New repositories created from scratch automatically join the program, subject to its policies. OpenRoot manually reviews repositories and contacts the repository admin if changes or removal are needed. Policy bots are planned as the organization grows; they are not active yet. Program enrollment does not automatically approve rewards: private projects must become public and meet the agreed milestone and funding conditions before earning rewards.
 
 Your project is not exclusive to OpenRoot. You can enter hackathons, collaborate elsewhere and take part in other activities, subject to those activities' rules and your project rights.
 

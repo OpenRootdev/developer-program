@@ -74,17 +74,19 @@ Pour retrouver le bon compte. Une liaison GitHub vérifie ensuite son contrôle 
 
 C'est une vérification d'e-mail d'accueil, pas un facteur indépendant fort. Toute exigence supplémentaire de passkey ou d'authentificateur sera annoncée avant activation.
 
-## À qui appartient le projet et que se passe-t-il au départ ?
+## Qui détient les droits et administre le projet ?
 
-La politique envisagée vous laisse les droits sur votre code et la direction du projet. Le dépôt est dans l'organisation GitHub OpenRoot, avec Admin pour vous. Les propriétaires de l'organisation restent administrateurs : ce n'est pas un dépôt personnel sous votre nom GitHub. Licence, maintenance, contributions et départ ou transfert doivent être convenus avant inscription.
+Vous conservez les droits sur votre propre code et dirigez votre projet. Le dépôt est hébergé sous OpenRootdev, avec le rôle Admin au niveau du dépôt pour le membre qui le crée ou l'apporte par un transfert approuvé. Ce n'est ni une commande de développement ni une cession générale des droits du code.
 
 ## Puis-je proposer un dépôt existant ?
 
 Oui. Les candidatures sont ouvertes pour examen manuel. Fournissez l'URL originale, votre autorité pour transférer ou copier et des preuves datées. Le passé ne compte que si les règles de référence du groupe approuvé l'autorisent. Si vous postulez avec un projet existant, le projet accepté doit être hébergé sous **OpenRootdev** : transférez l'original après examen ou créez un dépôt vide dans l'organisation et copiez le code avec Git. Ne migrez pas avant l'approbation du projet et de la migration. Copier le code ne copie pas les étoiles, issues ou autres données GitHub. L'adoption passée et les récompenses sont examinées séparément. [Lire les étapes pour les builders](builders.md).
 
-## Comptes supplémentaires et équipes ?
+## Puis-je créer des dépôts et choisir les collaborateurs ?
 
-Oui. Indiquez noms GitHub ou GitHub Apps exacts, type humain/machine/intégration, objectif, dépôts et rôles. Des équipes par projet peuvent couvrir plusieurs dépôts sans écriture globale. Aucun secret. Toutes ces demandes nécessitent un examen.
+L'administrateur du dépôt choisit les collaborateurs, équipes de projet, rôles et règles de contribution sans approbation distincte d'OpenRoot. Un projet peut utiliser plusieurs dépôts. Les autres membres n'obtiennent pas automatiquement l'accès au code privé ni les droits d'écriture. Les apps limitées au dépôt suivent les contrôles habituels de GitHub ; les changements au niveau de l'organisation peuvent nécessiter l'aide d'OpenRoot.
+
+Les membres actuels peuvent créer des dépôts sans nouvelle candidature ni approbation distincte d'OpenRoot. Les nouveaux dépôts créés de zéro rejoignent automatiquement le programme, sous réserve de ses politiques. OpenRoot examine manuellement les dépôts et contacte leur administrateur si des modifications ou une suppression sont nécessaires. Des bots de contrôle des politiques sont prévus avec la croissance de l'organisation, mais ne sont pas encore actifs. L'inscription n'approuve pas automatiquement les récompenses : un projet privé doit devenir public et satisfaire les jalons et conditions de financement convenus avant d'en obtenir.
 
 ## Comment répartir les récompenses d'équipe ?
 

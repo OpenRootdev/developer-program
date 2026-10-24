@@ -4,15 +4,15 @@ Tú eliges qué construir. Se puede considerar cualquier categoría de software 
 
 Trae tus ideas. Se acepta cualquier lenguaje de programación e idioma de repositorio/documentación, incluidos idiomas distintos del inglés. Eliges tecnología, alcance, hoja de ruta y dirección. No es una colección limitada a inglés o IA.
 
-Puedes mantener el repositorio privado durante el desarrollo. Acuerda duración y requisitos de publicación antes de inscribirte en una cohorte financiada. No hay plazos arbitrarios ni publicación automática. Un hito basado en lanzamiento o adopción públicos sigue requiriendo las pruebas acordadas. Otros builders no acceden automáticamente al código privado; los propietarios de la organización conservan administración.
+Puedes mantener el repositorio privado durante el desarrollo. Acuerda duración y requisitos de publicación antes de inscribirte en una cohorte financiada. No hay plazos arbitrarios ni publicación automática. Un hito basado en lanzamiento o adopción públicos sigue requiriendo las pruebas acordadas. Otros builders no reciben acceso automático a tu código privado.
 
 ## Solicitud y acceso
 
 La solicitud pide correo y usuario GitHub exacto. OpenRoot debe aprobarla. El portal no está abierto a todos; iniciar sesión con Google o correo no evita la aprobación.
 
-Es obligatorio tener cuenta GitHub. Los builders aprobados aceptan una invitación a la organización OpenRoot y crean sus repositorios allí. El sitio https://openroot.dev/apply acepta solicitudes para revisión manual. Enviar no crea una cuenta ni concede acceso. Puedes solicitar revisión de cuentas adicionales, GitHub Apps y equipos. Nunca envíes contraseñas, tokens o claves privadas.
+Se necesita una cuenta GitHub. Los builders aprobados aceptan la invitación OpenRootdev y crean sus repositorios en la organización. Solicita la revisión manual de admisión en https://openroot.dev/apply; el envío no crea cuenta ni concede acceso. Tras la admisión, gestionas la colaboración ordinaria del repositorio. Contacta con OpenRoot si una app o configuración de la organización necesita ayuda. Nunca envíes contraseñas, tokens ni claves privadas.
 
-La aprobación crea una cuenta pendiente en el portal y envía un correo con instrucciones. Inicia sesión en https://openroot.dev/portal con el correo aprobado e introduce el código recibido solo en esa página. Kristofer envía manualmente la invitación GitHub antes de aprobar la cuenta del portal. La aprobación envía un único correo de bienvenida con los pasos para aceptar la invitación y crear el repositorio en la organización. La vinculación automática de identidad GitHub, las métricas de proyectos, la inscripción completa y las reclamaciones automáticas de recompensas en el portal todavía no están disponibles. Las cuentas pendientes conservan el plazo original de 90 días de la solicitud. La aprobación por sí sola no concede una recompensa financiada.
+La aprobación crea una cuenta pendiente en el portal y envía un correo con instrucciones. Inicia sesión en https://openroot.dev/portal con el correo aprobado e introduce el código recibido solo en esa página. Kristofer envía manualmente la invitación GitHub antes de aprobar la cuenta del portal. La aprobación envía un único correo de bienvenida con los pasos para aceptar la invitación y crear el repositorio en la organización. La vinculación automática de identidad GitHub, las métricas de proyectos, las reclamaciones automáticas de recompensas en el portal todavía no están disponibles. Las cuentas pendientes conservan el plazo original de 90 días de la solicitud. La aprobación por sí sola no concede una recompensa financiada.
 
 ## Solicitar antes de elegir un proyecto
 
@@ -20,15 +20,15 @@ Marca “Todavía no sé qué voy a construir” si no has elegido proyecto. La 
 
 ## Condiciones de solicitud y políticas publicadas
 
-Antes de enviar, acepta expresamente las [Condiciones de Solicitud](https://openroot.dev/apply#application-terms) actuales y las políticas publicadas de builders y [recompensas](rewards.md). Esta aceptación es independiente del consentimiento de privacidad. El backend exige y registra la versión actual **2026-10-12-1** y la fecha/hora del envío. Se rechaza aceptación ausente, sin marcar o desactualizada.
+Antes de enviar, acepta expresamente las [Condiciones de Solicitud](https://openroot.dev/apply#application-terms) actuales y las políticas publicadas de builders y [recompensas](rewards.md). Esta aceptación es independiente del consentimiento de privacidad. El backend exige y registra la versión actual **2026-10-24-1** y la fecha/hora del envío. Se rechaza aceptación ausente, sin marcar o desactualizada.
 
 Reglas de solicitud:
 
-- Da información veraz y comparte solo material autorizado. No incluyas credenciales, código privado ni información personal sensible.
-- La solicitud pide revisión manual; no crea cuenta, pertenencia a la organización, acceso a repositorios ni promesa de recompensa. Puedes solicitar sin proyecto elegido.
-- Enviar no transfiere proyectos, derechos de código ni repositorios. Los proyectos aceptados después deben respetar derechos ajenos y políticas publicadas.
-- Aprobación, acceso, hitos, disponibilidad de recompensas y transferencias necesitan revisión separada y condiciones acordadas. Registrarse no implica elegibilidad.
-- Los acuerdos de inscripción, proyecto/salida y recompensas financiadas son separados. Solicitar no acepta condiciones futuras sin publicar ni umbrales sin anunciar.
+- Proporciona información veraz y solo material que puedas compartir. No incluyas credenciales, código privado ni datos personales sensibles.
+- La solicitud pide revisión manual de admisión, no una cuenta, acceso a la organización ni una recompensa prometida. Se permite solicitar sin proyecto elegido.
+- Solicitar no transfiere proyectos, derechos del código ni repositorios. Los proyectos deben respetar los derechos ajenos y las políticas publicadas.
+- Tras la admisión, los miembros pueden crear repositorios y gestionar colaboradores sin otra solicitud a OpenRoot. Los repositorios creados desde cero se incorporan automáticamente al programa, sujetos a sus políticas. Las migraciones de proyectos existentes siguen requiriendo revisión y acuerdo.
+- La elegibilidad, las referencias, los límites financiados y las solicitudes de recompensa requieren acuerdo y revisión separados. Solicitar no acepta condiciones futuras sin publicar ni garantiza recompensas.
 
 Privacidad, conservación y solicitudes de corrección/borrado se explican abajo. Preguntas: hello@openroot.dev.
 
@@ -54,21 +54,21 @@ También son bienvenidos los builders de hackathons, tanto si se preparan para p
 
 La participación no es exclusiva. Puedes entrar en hackathons, colaborar fuera y realizar otras actividades. Revisa las reglas del evento y las obligaciones de licencia/contribuidores; OpenRoot no exige renunciar a esas oportunidades.
 
-Equipos y roles GitHub delimitan la colaboración. Tener acceso al proyecto no da administración de toda la organización. El portal previsto muestra repositorios asociados, incluidos proyectos de equipo; quien creó el repositorio no es necesariamente el único contribuidor o beneficiario.
+Los miembros actuales pueden crear repositorios sin otra solicitud ni aprobación separada de OpenRoot. Los repositorios nuevos creados desde cero se incorporan automáticamente al programa, sujetos a sus políticas. OpenRoot revisa los repositorios manualmente y contacta con su administrador si hacen falta cambios o eliminación. Se prevén bots de políticas a medida que crezca la organización, pero aún no están activos. La inscripción no aprueba recompensas automáticamente: los proyectos privados deben hacerse públicos y cumplir los hitos y condiciones de financiación acordados antes de obtener recompensas.
 
 ## Tu proyecto sigue siendo tuyo
 
-La política prevista mantiene tus derechos sobre el código propio y la dirección del proyecto. El repositorio está alojado en la organización OpenRoot y el responsable aprobado recibe Admin a nivel de repositorio. Los propietarios de la organización conservan administración. Admin no implica propiedad personal del espacio GitHub; licencias, salida y transferencia deben acordarse antes de inscribirse.
+Conservas los derechos de tu propio código y diriges el proyecto. El repositorio se aloja en OpenRootdev y el miembro que lo crea o lo incorpora mediante una transferencia aprobada recibe Admin a nivel de repositorio. No es un encargo de desarrollo ni una cesión general de derechos del código.
 
 ## Proyectos existentes y colaboración
 
 Puedes proponer un repositorio con usuarios, descargas o estrellas. Envía primero la URL y pruebas fechadas; no lo transfieras antes de la revisión. Admisión, transferencia, inscripción y recompensas son decisiones manuales separadas. Las métricas existentes solo cuentan según la referencia y las reglas acordadas, no por entrar en la organización.
 
-Equipos por proyecto pueden abarcar varios repositorios aprobados. Responsables reciben Admin acotado; colaboradores, el rol revisado. Evita escritura global y herencia accidental de equipos superiores. Las cuentas de automatización no son builders independientes premiados.
+El administrador del repositorio elige colaboradores, equipos del proyecto, roles y reglas de contribución sin aprobación separada de OpenRoot. Un proyecto puede usar varios repositorios. Otros miembros no reciben automáticamente acceso al código privado ni permisos de escritura. Las apps del repositorio siguen los controles normales de GitHub; los cambios de la organización pueden necesitar ayuda de OpenRoot.
 
-## Antes de inscribirte
+## Licencia y detalles de las recompensas
 
-Deben explicarse y acordarse derechos, licencia, mantenimiento, salida/transferencia y reparto de recompensas. El acuerdo final sigue preparándose. Entrar en una organización GitHub no resuelve estas cuestiones por sí solo.
+Elige una licencia adecuada y respeta licencias existentes, atribución y derechos de los contribuidores. La licencia y los detalles de recompensas pueden registrarse al presentar el proyecto o acordarse directamente cuando sea necesario. No se exige un acuerdo separado de derechos del mantenedor ni de reglas de contribución; el administrador fija esas reglas.
 
 La cohorte debe indicar recompensas, capacidad, umbrales, periodo y revisión. Sin estas condiciones, expresar interés no crea derecho a recompensa.
 
@@ -94,7 +94,7 @@ Recomendada para conservar estrellas, issues, pull requests e historial Git.
 
 - **1.** Abre el repositorio original en GitHub y ve a **Settings → General → Danger Zone → Transfer**. Necesitas Admin del repositorio y permiso para crear repositorios en OpenRootdev; salir de otra organización puede requerir a su propietario.
 - **2.** Establece **OpenRootdev** como nuevo propietario. Comprueba que el nombre esté libre, lee los avisos de GitHub (los repositorios privados pueden perder funciones de planes de pago en GitHub Free), escribe el nombre y confirma.
-- **3.** Verifica que la URL empiece por `https://github.com/OpenRootdev/`. Pide a OpenRoot que compruebe tu Admin del repositorio y los accesos del equipo; los propietarios de la organización conservan acceso administrativo.
+- **3.** Comprueba que la URL empiece por `https://github.com/OpenRootdev/` y que tengas Admin del repositorio en Settings. Si falta el acceso esperado, contacta con hello@openroot.dev.
 - **4.** En cada clon local existente ejecuta `git remote set-url origin https://github.com/OpenRootdev/YOUR-REPOSITORY.git`. Revisa integraciones, despliegues, Pages, secretos y workflows antes de continuar. No recrees la ruta antigua, porque puede romper las redirecciones.
 
 ### Opción B: copiar el código a un nuevo repositorio de la organización
@@ -107,10 +107,10 @@ Recomendada para conservar estrellas, issues, pull requests e historial Git.
 - **4.** Sube la rama actual: `git push openroot HEAD:main`. Comprueba los archivos en el repositorio de la organización. Para futuras actualizaciones, sube a `openroot`, no al `origin` original. Si el destino no está vacío o se rechaza el push, detente y pide ayuda; no fuerces el push.
 - **5.** Se copia el historial de commits alcanzable de la rama elegida, **no estrellas, issues, pull requests, releases, ajustes ni todas las ramas/etiquetas**. Los objetos Git LFS y submódulos requieren tratamiento aparte; pide ayuda. Conserva los archivos de licencia/atribución y no copies secretos.
 
-Envía a OpenRoot la URL final de la organización para asociarla al proyecto revisado. La adopción previa y las recompensas requieren una base acordada y aprobación separada; no cuentes dos veces los datos de las copias. No elimines el original solo para participar. Conservas los derechos de tu código; alojarlo en la organización no elimina el acceso administrativo de sus propietarios.
+Envía a OpenRoot la URL final de la organización para asociarla al proyecto revisado. La adopción previa y las recompensas requieren una base acordada y aprobación separada; no cuentes dos veces los datos de las copias. No elimines el original solo para participar. Conservas los derechos de tu propio código.
 
 Referencias oficiales: [transferencia](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [nuevo repositorio](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).
 
 ## Atribución opcional de afiliado
 
-La versión **2026-10-14-3** de privacidad de solicitudes añade un código de afiliado opcional. Usa un código o el nombre GitHub del recomendante, no ambos. Se guarda privadamente como declaración de atribución y se revisa antes de vincularlo a una cuenta aprobada; no aprueba pertenencia, proyecto ni recompensa. No hay cookies de seguimiento de afiliados ni se revela al afiliado la identidad del solicitante o información privada del proyecto. Tu propia recompensa no se reduce. Los Términos de Solicitud siguen en **2026-10-12-1** y no cambian los consentimientos anteriores. Consulta [el piloto independiente de afiliados](referrals.md).
+La versión **2026-10-14-3** de privacidad de solicitudes añade un código de afiliado opcional. Usa un código o el nombre GitHub del recomendante, no ambos. Se guarda privadamente como declaración de atribución y se revisa antes de vincularlo a una cuenta aprobada; no aprueba pertenencia, proyecto ni recompensa. No hay cookies de seguimiento de afiliados ni se revela al afiliado la identidad del solicitante o información privada del proyecto. Tu propia recompensa no se reduce. Las Condiciones de Solicitud actuales son **2026-10-24-1** para nuevos envíos; los registros de aceptación anteriores no cambian. Consulta [el piloto independiente de afiliados](referrals.md).

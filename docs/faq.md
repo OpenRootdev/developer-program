@@ -76,17 +76,19 @@ It helps locate the correct account. You will also verify control through GitHub
 
 It is an onboarding email verification check. It should not be presented as strong independent MFA. Any additional passkey/authenticator requirement will be described before access is activated.
 
-## Who owns the project, and what if I leave?
+## Who owns and manages the project?
 
-The intended policy is that you retain ownership of your own code and lead your project. Your repository is hosted under OpenRoot's GitHub organization and you receive repository-level Admin. Organization owners retain administrative access, so it is not the same as a personally owned repository under your username. Final licensing, maintenance, contribution and departure/transfer terms must be agreed before enrollment.
+You retain rights to your own code and lead your project. Your repository is hosted under OpenRootdev, with repository-level Admin for the member who creates it or brings it in through an approved transfer. This is not a work-for-hire arrangement or a blanket transfer of code rights.
 
 ## Can I propose an existing repository?
 
 Yes. Applications are open for manual review. Submit the original URL, your authority to transfer or copy, and dated adoption evidence. Prior achievements count only if the approved cohort's baseline rules allow them. If you apply with an existing project, the accepted project must be hosted under **OpenRootdev**: transfer the original repository after review, or create an empty organization repository and copy the code there with Git. Do not migrate before the project and migration are approved. Copying code does not copy stars, issues or other GitHub project data. Existing adoption and rewards are reviewed separately. [Read the step-by-step builder instructions](builders.md).
 
-## Can I request additional accounts or project teams?
+## Can I create repositories and choose collaborators?
 
-Yes. Include exact GitHub usernames or GitHub App names, their human/machine/integration type, purpose, target repositories and requested roles. Project-specific teams can cover multiple approved repositories without granting organization-wide write access. Never include secrets. Team and automation requests require review.
+The repository admin chooses collaborators, project-specific teams, repository roles and contribution rules without separate OpenRoot approval. You can organize one project across multiple repositories. Other members do not automatically receive access to private code or write access to your repository. Repository-scoped apps use GitHub's normal permission controls; organization-wide changes may need help from OpenRoot.
+
+Existing organization members can create new repositories without another application or separate OpenRoot approval. New repositories created from scratch automatically join the program, subject to its policies. OpenRoot manually reviews repositories and contacts the repository admin if changes or removal are needed. Policy bots are planned as the organization grows; they are not active yet. Program enrollment does not automatically approve rewards: private projects must become public and meet the agreed milestone and funding conditions before earning rewards.
 
 ## How are team rewards divided?
 

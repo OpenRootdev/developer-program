@@ -74,17 +74,19 @@ Ajuda a localizar a conta. Vinculação GitHub verifica seu controle; digitar o 
 
 É verificação de e-mail no onboarding, não um fator independente forte. Passkey/autenticador adicional será informado antes de ativar acesso.
 
-## Quem é dono e o que ocorre na saída?
+## Quem tem os direitos e administra o projeto?
 
-A política pretendida mantém seus direitos sobre código próprio e liderança. O repositório é hospedado na organização OpenRoot, com Admin para você. Proprietários da organização mantêm administração; não é repositório pessoal no seu usuário. Licença, manutenção, contribuições e saída/transferência devem ser acordadas antes da inscrição.
+Você mantém os direitos sobre seu próprio código e lidera o projeto. O repositório fica em OpenRootdev, com Admin no nível de repositório para o membro que o cria ou o traz por uma transferência aprovada. Não é trabalho sob encomenda nem uma cessão geral dos direitos do código.
 
 ## Posso propor repositório existente?
 
 Sim. As candidaturas estão abertas para análise manual. Envie a URL original, sua autoridade para transferir ou copiar e evidências datadas. Resultados anteriores só contam se a referência do grupo aprovado permitir. Se você se candidatar com um projeto existente, o projeto aceito deve ser hospedado em **OpenRootdev**: transfira o original após análise ou crie um repositório vazio na organização e copie o código com Git. Não migre antes da aprovação do projeto e da migração. Copiar código não copia estrelas, issues ou outros dados do GitHub. Adoção anterior e recompensas são analisadas separadamente. [Leia as instruções passo a passo](builders.md).
 
-## Contas extras ou equipes?
+## Posso criar repositórios e escolher colaboradores?
 
-Sim. Informe GitHub/GitHub Apps exatos, tipo humano/máquina/integração, objetivo, repositórios e funções. Equipes por projeto podem cobrir vários repositórios sem escrita global. Nunca envie segredos. Contas e automações precisam de análise.
+O administrador escolhe colaboradores, equipes de projeto, funções do repositório e regras de contribuição sem aprovação separada da OpenRoot. Um projeto pode usar vários repositórios. Outros membros não recebem automaticamente acesso ao código privado nem permissão de escrita. Apps limitados ao repositório seguem os controles normais do GitHub; mudanças na organização podem precisar de ajuda da OpenRoot.
+
+Membros atuais da organização podem criar repositórios sem nova candidatura ou aprovação separada da OpenRoot. Novos repositórios criados do zero entram automaticamente no programa, sujeitos às suas políticas. A OpenRoot analisa os repositórios manualmente e contata o administrador se forem necessárias correções ou remoção. Bots de políticas estão planejados para acompanhar o crescimento, mas ainda não estão ativos. A inscrição não aprova recompensas automaticamente: projetos privados precisam tornar-se públicos e cumprir os marcos e as condições de financiamento acordados antes de receber recompensas.
 
 ## Como dividir recompensas da equipe?
 

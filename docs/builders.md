@@ -4,15 +4,15 @@ You choose what to build. The program can consider software in any category, pro
 
 Bring your own ideas. Any programming language and repository/documentation language is welcome, including non-English repositories. You choose your stack, scope, roadmap and project direction; this is not an English-only or AI-only project collection.
 
-You can keep a repository private during development. Agree on the duration and any public-release requirement before enrolling in a funded cohort. No arbitrary timer or automatic publication is applied. A milestone requiring public release or adoption still needs its agreed evidence. Other builders do not automatically get access to your private code; organization owners retain administrative access.
+You can keep a repository private during development. Agree on the duration and any public-release requirement before enrolling in a funded cohort. No arbitrary timer or automatic publication is applied. A milestone requiring public release or adoption still needs its agreed evidence. Other builders do not automatically receive access to your private code.
 
 ## Application and access
 
 The application asks for your email and exact GitHub username. OpenRoot approval is required. Portal signup is not open to everyone, and signing in with Google or email does not bypass that approval.
 
-A GitHub account is a prerequisite. Approved builders accept an invitation to the OpenRoot GitHub organization and build their repositories inside it. The website accepts applications for manual review at https://openroot.dev/apply. Submission does not create an account or grant access. Additional accounts, GitHub Apps and project-team requests can be included for review. Never submit passwords, tokens or private keys.
+A GitHub account is required. Approved builders accept the OpenRootdev invitation and create their repositories in the organization. Apply at https://openroot.dev/apply for manual membership review; submitting does not create an account or grant access. Once admitted, you manage ordinary repository collaboration yourself. Contact OpenRoot if an organization-level app or setting needs assistance. Never submit passwords, tokens or private keys.
 
-Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. Kristofer manually sends the GitHub organization invitation before approving the portal account. Approval then sends one combined welcome email with invitation-acceptance and repository-creation steps. Automated GitHub identity linking, project metrics, full enrollment and automated portal reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
+Approval creates a pending portal account and sends an email with instructions. Sign in at https://openroot.dev/portal with your approved email and enter the emailed code only on that page. Kristofer manually sends the GitHub organization invitation before approving the portal account. Approval then sends one combined welcome email with invitation-acceptance and repository-creation steps. Automated GitHub identity linking, project metrics, automated portal reward claims are not available yet. Pending accounts keep the application’s original 90-day expiry. Approval alone does not grant a funded reward.
 
 ## Applying before choosing a project
 
@@ -20,15 +20,15 @@ Check “I’m not sure what I’m going to build yet” if you have not chosen 
 
 ## Application terms and published policies
 
-Before submitting, explicitly accept the current [Application Terms](https://openroot.dev/apply#application-terms) and the published builder and [reward policies](rewards.md). Acceptance is separate from privacy consent. The backend requires and records the current terms version, **2026-10-12-1**, with your submission timestamp. Unchecked, missing or outdated acceptance is rejected.
+Before submitting, explicitly accept the current [Application Terms](https://openroot.dev/apply#application-terms) and the published builder and [reward policies](rewards.md). Acceptance is separate from privacy consent. The backend requires and records the current terms version, **2026-10-24-1**, with your submission timestamp. Unchecked, missing or outdated acceptance is rejected.
 
 Application rules:
 
 - Provide truthful information and only material you have permission to share. Do not include credentials, private source code or sensitive personal information.
-- An application requests manual review, not an account, organization membership, repository access or a promised reward. Applying without a chosen project is allowed.
-- No project, code rights or repository is transferred by applying. Later accepted projects must respect others’ rights and the published builder policies.
-- Project approval, access, milestones, reward availability and transfers require separate review and agreed terms. Signup alone is not reward eligibility.
-- Enrollment, project/departure and funded reward agreements remain separate. Applying does not accept unpublished future terms or unannounced reward thresholds.
+- An application requests manual membership review, not an account, organization access or a promised reward. Applying without a chosen project is allowed.
+- Applying does not transfer a project, code rights or repository. Projects must respect others' rights and published program policies.
+- Once admitted, members can create new repositories and manage repository collaborators without another OpenRoot application. New repositories created from scratch automatically join the program, subject to its policies. Existing-project migrations still require review and agreement.
+- Reward eligibility, baselines, funded limits and claims require separate agreement and review. Applying does not accept unpublished future terms or guarantee a reward.
 
 Privacy, retention and correction/deletion requests are explained below. Questions: hello@openroot.dev.
 
@@ -54,21 +54,21 @@ Hackathon builders are welcome too, whether preparing to enter or continuing a h
 
 Participation is not exclusive. Enter hackathons, collaborate outside OpenRoot and take part in other activities with your project. Check the event's own rules and any contributor/license obligations; joining OpenRoot does not require giving up those opportunities.
 
-GitHub teams and repository roles scope collaboration. Access to your project does not grant organization-wide administration. The planned portal shows repositories associated with you, including team projects; the person who created a repository is not automatically its only contributor or reward recipient.
+Existing organization members can create new repositories without another application or separate OpenRoot approval. New repositories created from scratch automatically join the program, subject to its policies. OpenRoot manually reviews repositories and contacts the repository admin if changes or removal are needed. Policy bots are planned as the organization grows; they are not active yet. Program enrollment does not automatically approve rewards: private projects must become public and meet the agreed milestone and funding conditions before earning rewards.
 
 ## Your project stays yours
 
-The intended program policy is that you retain ownership of your own code and lead your project. The GitHub repository is hosted under OpenRoot's organization, with repository-level Admin for the approved project lead. Organization owners retain administrative access. Repository Admin is not personal ownership of the GitHub namespace; licensing and departure/transfer arrangements must be agreed before enrollment.
+You retain rights to your own code and lead your project. Your repository is hosted under OpenRootdev, with repository-level Admin for the member who creates it or brings it in through an approved transfer. This is not a work-for-hire arrangement or a blanket transfer of code rights.
 
 ## Existing projects and collaboration
 
 You may propose an existing repository with users, downloads or stars. Submit its URL and dated evidence first; do not transfer it before review. Membership, transfer approval, enrollment and reward claims are separate manual decisions. Existing metrics qualify only under explicitly agreed baseline and cohort rules, not merely because the repository entered the organization.
 
-Project-specific teams can cover multiple approved repositories. Leads get scoped Admin; collaborators receive the reviewed project role. Avoid blanket write access and unintended parent-team inheritance. Extra automation accounts do not count as independent rewarded builders.
+The repository admin chooses collaborators, project-specific teams, repository roles and contribution rules without separate OpenRoot approval. You can organize one project across multiple repositories. Other members do not automatically receive access to private code or write access to your repository. Repository-scoped apps use GitHub's normal permission controls; organization-wide changes may need help from OpenRoot.
 
-## Before you enroll
+## Licensing and reward details
 
-Project rights, software license, maintainer responsibilities, departure/transfer arrangements, and team reward allocation must be disclosed and agreed. The final project agreement is still being prepared. Joining a GitHub organization alone does not settle these questions.
+Choose a suitable project license and respect existing licenses, attribution and contributor rights. Licensing and any project-specific reward details can be recorded with the submission or agreed directly when needed. A separate maintainer-rights or contribution-rules agreement is not required; contribution rules are set by the repository admin.
 
 An enrolled cohort must state the available rewards, its capacity, thresholds, measurement period, and review rules. Until these exist, interest in the program does not establish an entitlement to a reward.
 
@@ -94,7 +94,7 @@ Recommended when preserving stars, issues, pull requests and Git history matters
 
 - **1.** Open the original repository on GitHub, then **Settings → General → Danger Zone → Transfer**. You need repository Admin and permission to create repositories in OpenRootdev; transfers out of another organization may need its owner.
 - **2.** Set the new owner to **OpenRootdev**. Check the destination name is free, read GitHub's warnings (private repositories may lose paid-plan features on GitHub Free), then type the repository name and confirm.
-- **3.** Check the repository URL now starts with `https://github.com/OpenRootdev/`. Ask OpenRoot to verify your repository-level Admin and the intended team access; organization owners retain administrative access.
+- **3.** Check that the repository URL starts with `https://github.com/OpenRootdev/` and that you have repository Admin in Settings. Contact hello@openroot.dev if the expected access is missing.
 - **4.** In each existing local clone run `git remote set-url origin https://github.com/OpenRootdev/YOUR-REPOSITORY.git`. Check integrations, deployments, Pages, secrets and workflows before resuming work. Do not recreate the old repository path, as this can break redirects.
 
 ### Option B: Copy the code into a new organization repository
@@ -107,10 +107,10 @@ Use this if you want to keep the original repository where it is and maintain th
 - **4.** Push the checked-out branch: `git push openroot HEAD:main`. Confirm the files appear in the organization repository. For later updates, push to `openroot`, not the original `origin`. If the destination is not empty or a push is rejected, stop and ask for help; do not force-push.
 - **5.** This copies the selected branch's reachable commit history, **not stars, issues, pull requests, releases, repository settings or every branch/tag**. Git LFS objects and submodules need separate handling; ask for help. Retain license/attribution files, and do not copy secrets.
 
-Send OpenRoot the final organization repository URL to associate it with your reviewed project. Existing adoption and rewards still require an agreed baseline and separate approval; no double-counting across copies. Do not delete the original repository just to participate. You retain rights to your own code; hosting under an organization does not remove its owners' administrative access.
+Send OpenRoot the final organization repository URL to associate it with your reviewed project. Existing adoption and rewards still require an agreed baseline and separate approval; no double-counting across copies. Do not delete the original repository just to participate. You retain rights to your own code.
 
 Official references: [transfer](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), [new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git push](https://git-scm.com/docs/git-push).
 
 ## Optional affiliate attribution
 
-Application privacy notice **2026-10-14-3** adds an optional affiliate code. Use a code or a referrer GitHub username, not both. The code is a privately stored attribution claim, reviewed before linking it to an approved builder account; it cannot approve membership, a project or a reward. No affiliate tracking cookies are used, and the affiliate receives no applicant identity or private project information. Your own reward amount is not reduced. Application Terms stay **2026-10-12-1**; earlier consent records remain unchanged. See the [separate affiliate pilot](referrals.md).
+Application privacy notice **2026-10-14-3** adds an optional affiliate code. Use a code or a referrer GitHub username, not both. The code is a privately stored attribution claim, reviewed before linking it to an approved builder account; it cannot approve membership, a project or a reward. No affiliate tracking cookies are used, and the affiliate receives no applicant identity or private project information. Your own reward amount is not reduced. Current Application Terms are **2026-10-24-1** for new submissions; existing acceptance records remain unchanged. See the [separate affiliate pilot](referrals.md).
