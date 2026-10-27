@@ -107,3 +107,9 @@ DeepLearning.AI 一个月，仅一份可领取；另有 支持 GPT-6 Astra、Cla
 OpenRoot 是用于开发与协作的沙盒，不是付款请求。我们绝不会要求你发送密码、登录或恢复验证码、访问令牌、API 密钥、付款信息，也不会收取加入或解锁奖励的费用。申请需要邮箱和准确的 GitHub 用户名；登录验证码只能输入官方门户，不要发送给任何人。你可以在自己仓库的权限范围内邀请协作者并配置仓库级应用；部分组织级操作需要管理员协助。不要在仓库、申请或消息中存放秘密凭据。组织托管不意味着可以无限免费使用付费服务。
 
 问题请联系 [hello@openroot.dev](mailto:hello@openroot.dev)。[在 LinkedIn 关注 OpenRoot 或发送私信](https://www.linkedin.com/company/openroot-dev/)。接受 GitHub 邀请后，请阅读[仅供成员访问的快速入门](https://github.com/OpenRootdev/GET-STARTED-README)。
+
+## 不加入开发者计划，也可以参加社区
+
+你可以加入 OpenRoot 社区，而不必申请开发者计划。在 https://openroot.dev/community 验证你的 GitHub 账户，可选填一个兴趣，并接受社区规则和隐私声明。此流程只会申请以普通组织成员身份加入 Community 团队的邀请。请在 GitHub 上接受邀请以完成加入。它不会创建门户账户、订阅新闻通讯，也不会使仓库获得奖励资格。社区成员可以按照组织现有设置创建仓库，并可在以后申请开发者计划。
+
+社区加入流程会将已验证的 GitHub ID 和用户名、可选兴趣、已接受的规则与隐私声明及邀请状态私密存储在芬兰，最长保留 12 个月。必要的安全浏览器 Cookie 会将 GitHub 验证绑定到你的浏览器，最长 10 分钟。GitHub 根据其自身政策处理授权和邀请接受；OpenRoot 不会要求你发送密码、登录验证码或访问令牌。加入页和回调页不收集可选网站分析数据。如需访问、更正、删除数据或获取成员帮助，请联系 hello@openroot.dev。托管服务会处理技术请求日志。
