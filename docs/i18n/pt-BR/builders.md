@@ -74,13 +74,21 @@ A turma deve informar recompensas disponíveis, capacidade, metas, período e an
 
 Veja [como funciona](how-it-works.md) e [as recompensas](rewards.md).
 
+## Inscrever um repositório para recompensas
+
+Builders aprovados inscrevem cada repositório da OpenRootdev que administram em https://openroot.dev/portal. Informe o nome ou a URL do repositório no GitHub e o SHA completo, de 40 caracteres, do commit mais recente que você está enviando, depois escolha **Check repository and commit**. O repositório precisa ter pelo menos um commit. Conectar sua conta GitHub é opcional e serve apenas para preencher uma lista de repositórios. A OpenRoot verifica o repositório e o commit e os guarda como registro da submissão; commits posteriores não o substituem. Sem conexão com o GitHub, a OpenRoot confirma que você lidera o projeto antes de aprovar.
+
+Antes de aceitar, confira a finalidade, a licença, o plano de publicação quando privado, as métricas selecionadas, a linha de base de estrelas, o início da medição e o acordo apresentado. MAU e DAU médio são alternativas; repositórios relacionados e evidências sobrepostas não recebem recompensas duplicadas. Projetos privados precisam se tornar públicos antes de gerar recompensas. Cada inscrição passa por análise manual, e o portal mostra os estados enviado, aprovado, alterações solicitadas ou recusado. A inscrição não emite pontos ou créditos nem reserva benefícios; solicitações de recompensa continuam sujeitas à análise manual. Acordos válidos e registros de aceitação anteriores são preservados.
+
+Você pode encerrar uma inscrição no portal. Acordos aceitos e registros de commit são mantidos enquanto a inscrição está ativa e excluídos 12 meses-calendário após o encerramento.
+
 ## Indicações
 
 O [programa de indicação planejado](referrals.md) reconhece indicações de builders aprovados que atinjam marcos verificados, não cadastros. O candidato pode informar o GitHub exato do indicador para análise. Financiamento e regras finais devem ser publicados antes da ativação.
 
 ## Privacidade da conta pendente no portal
 
-Uma aprovação revisada cria uma conta pendente com e-mail, usuário GitHub e estado de integração. Ela mantém a data original de expiração da candidatura, sem estender os 90 dias de retenção. O acesso usa um cookie seguro e necessário de sessão do navegador, que expira após oito horas. Os desafios de código por e-mail expiram após dez minutos; o serviço guarda hashes, não códigos em texto simples. O Google Cloud processa registros privados de conta e análise; o Resend processa e-mails transacionais de acesso e aprovação. Somente administradores autorizados analisam candidaturas; builders acessam apenas suas próprias informações no portal. Não há inscrição na newsletter, rastreamento publicitário nem convite GitHub automático. Inscrição completa e retenção de perfis ativos exigem termos separados. Solicitações de acesso, correção ou exclusão: hello@openroot.dev.
+Uma aprovação revisada cria uma conta pendente com e-mail, usuário GitHub e estado de integração. Contas de builders aprovados e acordos de inscrição são mantidos enquanto ativos e excluídos 12 meses-calendário após o encerramento; o encerramento revoga o acesso ao portal. Os registros de candidatura expiram separadamente após 90 dias. O acesso usa um cookie seguro e necessário de sessão do navegador, que expira após oito horas. Os desafios de código por e-mail expiram após dez minutos; o serviço guarda hashes, não códigos em texto simples. O Google Cloud processa registros privados de conta e análise; o Resend processa e-mails transacionais de acesso e aprovação. Somente administradores autorizados analisam candidaturas; builders acessam apenas suas próprias informações no portal. Não há inscrição na newsletter, rastreamento publicitário nem convite GitHub automático. Solicitações de acesso, correção ou exclusão: hello@openroot.dev.
 
 ## Projeto existente: passo a passo
 

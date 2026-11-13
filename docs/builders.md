@@ -74,13 +74,21 @@ An enrolled cohort must state the available rewards, its capacity, thresholds, m
 
 See [how it works](how-it-works.md) and [milestones and rewards](rewards.md).
 
+## Enroll a repository for rewards
+
+Approved builders enroll each OpenRootdev repository they administer at https://openroot.dev/portal. Enter the repository name or GitHub URL and the full 40-character SHA of the latest commit you are submitting, then choose **Check repository and commit**. The repository must have at least one commit. Connecting your GitHub account is optional and only fills in a repository list. OpenRoot verifies the repository and commit and keeps them as the submission snapshot; later commits do not replace it. Without a GitHub connection, OpenRoot confirms that you lead the project before approving.
+
+Before accepting, review the purpose, license, public-release plan when private, selected milestone tracks, star baseline, measurement start and displayed agreement. MAU and average DAU are alternatives; related repositories and overlapping evidence do not earn duplicate awards. Private projects must become public before earning rewards. Every enrollment is reviewed manually, and the portal shows submitted, approved, changes requested or declined status. Enrollment issues no points or credits and reserves no reward inventory; claims remain manually reviewed. Existing valid agreements and recorded acceptances are preserved.
+
+You can close an enrollment in the portal. Accepted agreements and commit snapshots are kept while the enrollment is active and deleted 12 calendar months after closure.
+
 ## Referrals
 
 The planned [builder referral program](referrals.md) recognizes referrals of approved builders who reach verified project milestones, not signup counts. Applications can include a referrer's exact GitHub username for review. Funding and final eligibility/benefit rules must be published before activation.
 
 ## Pending portal privacy
 
-A reviewed approval creates a pending portal account with your email, GitHub username and onboarding status. It keeps the original application expiry; it does not extend the 90-day retention window. Sign-in uses a necessary secure browser-session cookie that expires after eight hours. Email-code challenges expire after ten minutes; the service stores code hashes, not plaintext codes. Google Cloud processes private account and review records; Resend processes transactional sign-in and approval emails. Only authorized administrators can review applications, and builders can access only their own portal information. No newsletter subscription, advertising tracking or automatic GitHub invitation is created. Full enrollment and active-profile retention require separate terms. Ask hello@openroot.dev about access, correction or deletion.
+A reviewed approval creates a pending portal account with your email, GitHub username and onboarding status. Approved builder accounts and enrollment agreements are kept while active, then deleted 12 calendar months after closure; closure revokes portal access. Application records separately expire after 90 days. Sign-in uses a necessary secure browser-session cookie that expires after eight hours. Email-code challenges expire after ten minutes; the service stores code hashes, not plaintext codes. Google Cloud processes private account and review records; Resend processes transactional sign-in and approval emails. Only authorized administrators can review applications, and builders can access only their own portal information. No newsletter subscription, advertising tracking or automatic GitHub invitation is created. Ask hello@openroot.dev about access, correction or deletion.
 
 ## Bringing an existing project: step by step
 

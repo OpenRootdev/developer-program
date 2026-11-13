@@ -74,13 +74,21 @@ Une cohorte doit préciser ses récompenses, capacités, seuils, périodes et r�
 
 Voir [le fonctionnement](how-it-works.md) et [les récompenses](rewards.md).
 
+## Inscrire un dépôt aux récompenses
+
+Les builders approuvés inscrivent chaque dépôt OpenRootdev qu'ils administrent sur https://openroot.dev/portal. Saisissez le nom ou l'URL GitHub du dépôt et le SHA complet, de 40 caractères, du dernier commit soumis, puis choisissez **Check repository and commit**. Le dépôt doit contenir au moins un commit. Connecter votre compte GitHub est facultatif et sert uniquement à remplir une liste de dépôts. OpenRoot vérifie le dépôt et le commit et les conserve comme instantané de la soumission ; les commits ultérieurs ne le remplacent pas. Sans connexion GitHub, OpenRoot confirme que vous dirigez le projet avant de l'approuver.
+
+Avant d'accepter, vérifiez l'objectif, la licence, le projet de publication si le dépôt est privé, les indicateurs choisis, le nombre initial d'étoiles, le début des mesures et l'accord présenté. MAU et DAU moyen sont des alternatives ; les dépôts liés et les preuves qui se recoupent ne donnent pas lieu à des récompenses en double. Les projets privés doivent devenir publics avant de pouvoir générer des récompenses. Chaque inscription est examinée manuellement, et le portail indique les états soumis, approuvé, modifications demandées ou refusé. L'inscription n'attribue ni points ni crédits et ne réserve aucun avantage ; les demandes de récompense restent examinées manuellement. Les accords valides et les acceptations déjà enregistrées sont préservés.
+
+Vous pouvez clôturer une inscription dans le portail. Les accords acceptés et les instantanés de commit sont conservés tant que l'inscription est active, puis supprimés 12 mois civils après sa clôture.
+
 ## Parrainage
 
 Le [parrainage prévu](referrals.md) reconnaît les builders approuvés atteignant un jalon vérifié, pas le nombre d'inscriptions. Le candidat peut indiquer le nom GitHub exact du parrain pour examen. Le financement et les règles finales doivent être publiés avant activation.
 
 ## Confidentialité du compte en attente
 
-Une approbation examinée crée un compte en attente avec votre e-mail, nom GitHub et état d’intégration. Il conserve l’échéance initiale de la candidature, sans prolonger la conservation de 90 jours. La connexion utilise un cookie de session sécurisé et nécessaire, qui expire après huit heures. Les demandes de code par e-mail expirent après dix minutes ; le service conserve des empreintes, pas les codes en clair. Google Cloud traite les dossiers privés de compte et d’examen ; Resend traite les e-mails transactionnels de connexion et d’approbation. Seuls les administrateurs autorisés examinent les candidatures ; les builders accèdent uniquement à leurs propres informations dans le portail. Aucune inscription à la newsletter, aucun suivi publicitaire ni aucune invitation GitHub automatique n’est créé. L’inscription complète et la conservation des profils actifs exigent des conditions distinctes. Accès, rectification ou suppression : hello@openroot.dev.
+Une approbation examinée crée un compte en attente avec votre e-mail, nom GitHub et état d’intégration. Les comptes de builders approuvés et les accords d’inscription sont conservés tant qu’ils sont actifs, puis supprimés 12 mois civils après la clôture ; la clôture révoque l’accès au portail. Les dossiers de candidature expirent séparément après 90 jours. La connexion utilise un cookie de session sécurisé et nécessaire, qui expire après huit heures. Les demandes de code par e-mail expirent après dix minutes ; le service conserve des empreintes, pas les codes en clair. Google Cloud traite les dossiers privés de compte et d’examen ; Resend traite les e-mails transactionnels de connexion et d’approbation. Seuls les administrateurs autorisés examinent les candidatures ; les builders accèdent uniquement à leurs propres informations dans le portail. Aucune inscription à la newsletter, aucun suivi publicitaire ni aucune invitation GitHub automatique n’est créé. Accès, rectification ou suppression : hello@openroot.dev.
 
 ## Projet existant : étapes à suivre
 
